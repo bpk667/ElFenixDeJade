@@ -1,7 +1,23 @@
-## Grupo B. Presa.  
-Objetivo: Infiltración y desactivar los explosivos.  
+## PJs
   
-### Plan de Taras Intercorp.  
+*Jan*. Hijo de uno de los trabajadores de la presa.  
+Está preocupado por su padre.  
+Le pillan al acercarse la presa: Han sellado las puertas.   
+Ha trabajado algunos veranos y conoce las instalaciones.  
+  
+*Hombre-lobo*. Hombre lobo grande y gris.  
+Hará un hit&run en el bosque y en próximos encuentros en la presa.  
+  
+  
+*Pedro y Max*.  
+Dos Ghouls gemelos que están siempre discutiendo.  
+  
+
+# Objetivo
+Infiltración y desactivar los explosivos.  
+  
+## Plan de Taras Intercorp.  
+
 Objetivos:  
  - Volar la presa para que inunde la casa donde se encuentra la reliquia El Fénix de Jade.  
  - Incriminarán al grupo ecoterrorista Préstamo de Nuestros Hijos.  
@@ -10,7 +26,7 @@ Tienen a un buen grupo de ex-trabajadores controlados mentalmente.
 Pedro y Max están al cargo. Están revisando que todo está listo y preparado para hacer volar la presa mañana a las 12am (hora de la manifestación de Prestamos de Nuestros Hijos).  
   
   
-### Timeline  
+## Timeline  
 0. Los PJs se acercan en coche a la presa.  
 El acceso está cortado. Hay múltiples pintadas del grupo Préstamo de Nuestros Hijos y la caseta está destrozada.  
 Los PJs tienen que dejar los coche ahí y seguir a pie.  

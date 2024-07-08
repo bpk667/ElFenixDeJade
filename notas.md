@@ -64,72 +64,7 @@ Los GMs asignan a la gente en la segunda misión rompiendo los grupos de la prim
 # PNJs  
 Maximilian. Jefe de los GMs al que llamar si hay algún problema.  
   
-## Grupo Taras Intercorp en el casino.  
   
-*François Dijon*. Vampiro que va al casino en la primera sesión.  
-Es un representante / abogado de los vampiros.  
-  
-*Alphonse Dijon*. El hijo de François (19 años).  
-Es un autentico gilipollas insufrible medio vampiro. Se cree guay.  
-Opcional: Pueden intentar ganárselo o seducirlo.  
-  
-*Borysko*. El gorila vampiro que está en la puerta de la suite.  
-  
-*Yoan*. Chófer de François.  
-Fuma mucho y es muy chapas.  
-Todos los aparcacoches le evitan como la peste.  
-Como nadie le hace ni puto caso, está deseando que alguien le escuche para darse importancia de que su jefe está _forrao_ y que es uno de los que "realmente tienen poder, no como los gilipollas esos que salen en la tele."  
-  
-## En la presa.  
-  
-*Jan*. Hijo de uno de los trabajadores de la presa.  
-Está preocupado por su padre.  
-Le pillan al acercarse la presa: Han sellado las puertas.   
-Ha trabajado algunos veranos y conoce las instalaciones.  
-  
-*Hombre-lobo*. Hombre lobo grande y gris.  
-Hará un hit&run en el bosque y en próximos encuentros en la presa.  
-  
-  
-*Pedro y Max*.  
-Dos Ghouls gemelos que están siempre discutiendo.  
-  
-  
-## Pai-lien chiao (Sociedad del Loto Blanco)  
-Son un grupo de los artistas marciales chinos que quiere recuperar una reliquia.  
-Los PJs pueden enfrentarse a ellos o llegar a acuerdos puntuales. Ellos quieren la reliquia y nosotros al vampiro.  
-  
-Objetivo: Recuperar la reliquia.  
-  
-Se les pueden tirar los trastos.  
-  
-*Huang Su*. Monje Shaolin.  
-Es el jefe y líder espiritual de El Loto Blanco.  
-Está en mitad del casino y no se entera de qué son todas esas máquinas. Está muy fuera de lugar. Ropas tradicionales chinas y gran mostacho.  
-Es la hostia en artes marciales pero acaba de salir del monasterio y es la primera vez que viaja a occidente.  
-Es pacifista si no le atacas.  
-No sabe ningún lenguaje europeo.  
-No sabe ni usar un móvil.  
-  
-*Li Chan*  
-Empresario chino. Es el jefe de todo lo que no es espiritual.  
-Se ocupa de toda la parte moderna y es el CEO de la empresa china que hace de fachada para El Loto Blanco. Es una empresa ancestral y no los quiere defraudar.  
-Mucho carisma e inteligencia.  
-Sabe conducir bien y tiene un coche rápido.  
-  
-*Atsumi Kia*  
-La ladrona del equipo.  
-Cuando era niña El Loto Blanco la rescató de las calles y la crió en el monasterio.  
-Está infiltrada en el servicio del hotel. ¿Crupier o camarera?  
-Experta en trucos de ladrona/ratera. Mezcla entre ladrona y monje Shaolin.  
-  
-## Grupo Taras Intercorp en la sesión final.  
-  
-*Helmut Neumeyer (aka Kuzma El Empalador).*  
-Boss final. Viejo y poderoso vampiro ucraniano.  
-Vampiro espadachín.  
-Está detrás de múltiples empresas internacionales.  
-Vampiro que tiene una habilidad de control mental.  
   
   
 # Sesiones.  
@@ -169,36 +104,6 @@ Sabemos quién es y lo que quiere el malo.
 *Si evitaron que explotase la presa.* Breaking news: La empresa Hof-Talsperre se ha unido al holding Taras Intercorp.  
   
 **TODO**  
-  
-##  Final. Incursión al rascacielos. Sede de la empresa matriz de Taras Intercorp.  
-Rollo Blade + Juez Dredd/The Raid.  
-  
-*Notas GM*  
-Dos mesas separadas pero con comunicación entre sí.  
-Los PJs pueden ir a la otra mesa a ver cómo van.  
-  
-Los PJs saben quién es Helmut "Kuzma El Empalador" Neumeyer y que vive en el rascacielos.  
-  
-  
-Edificio cargado de vampiros, hombres esclavizados, hombres lobos, etc.  
-  
-Bonus si lo han hecho bien: Se pueden haber aliado con La Sociedad del Loto Blanco.  
-  
-  
-### Grupo de mantenimiento:  
-Grupo que empieza en los subterranos, en el aparcamiento. Los de mantenimiento: Desactivar la seguridad.  
-Se encuentran todas las mierdas que no se pueden sacar a la luz.  
-Quizá zona de mazmorras.  
-El sistema controla la seguridad física pero no mágica.  
-  
-Piso 12: Talisman de huesos de pollo y ramas de mimbre que está en un círculo de sangre custodiada por un vampiro.  
-  
-  
-  
-### Grupo que entra por la puerta principal.  
-  
-**TODO**  
-  
   
   
   
@@ -252,7 +157,6 @@ El agente Cavalieri
     Puede se run tf. de ayuda o le poseen...  
       
   
-  
 Los vampiros deberían ser 3 ó 4 con mindundis.  
   
   
@@ -260,15 +164,3 @@ Los vampiros deberían ser 3 ó 4 con mindundis.
   
   
 En alguna de las partidas puede haber una chase (los Vuxia huyendo con el portátil) y los vampiros en otro coche.  
-  
-  
-  
-  
-primeras misiones de día -> Minions.  
-  
-  
-Household de Too little mise.  
-  
-  
-Bonus points: Ataca otro grupo que quiere joderles y tienen   
-  
