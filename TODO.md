@@ -1,7 +1,7 @@
-- [] Leerse los libros.
-- [] Definir PJs
-    - [] Crear fichas de PJs.
-- [] Crear escena rascacielos.
-- [] Crear escena palacete.
-- [] Crear fichas de enemigos.
-- [] Crear mapas.
+- [ ] Leerse los libros.
+- [ ] Definir PJs
+    - [ ] Crear fichas de PJs.
+- [ ] Crear escena rascacielos.
+- [ ] Crear escena palacete.
+- [ ] Crear fichas de enemigos.
+- [ ] Crear mapas.
