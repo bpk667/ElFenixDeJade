@@ -28,8 +28,10 @@ Primera sesión:
 Segunda sesión<sup>\*</sup>:
  - Grupo A: Heist. Objetivo: Conseguir la reliquia el Fénix de Jade.  
  - Grupo B: Abortar un ataque terrorista en una presa de la selva negra.  
+
 \*Los dos grupos van a Hof a hacer el heist al palacete del obispo. Antes del heist se separarán para que un grupo vaya a la presa.
   
+
 Tercera sesión:  
  - Grupo A: Ataque frontal al edificio del vampiro jefe.  
  - Grupo B: Infiltración sigilosa en el edificio para facilitar el trabajo del otro grupo.  
