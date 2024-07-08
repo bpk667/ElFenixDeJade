@@ -19,21 +19,26 @@ Briefing a los PJs sobre las misiones. Se les pide que formen dos equipos.
   
   
 Primera sesión:  
- - Grupo A: Conseguir la información de un tipo que va regularmente al Casino de Monte Carlo.
- - Grupo B: Investigación en una o varias bibliotecas en Florencia. Objetivo: Conseguir información sobre el Fénix de Jade.
+ - Grupo A: Casino. Conseguir la información de un traficante de armas que va regularmente al Casino de Monte Carlo.
+    - Objetivo oculto: Averiguar donde va a estar la reliquia y quién está detrás de Taras Intercorp.
+ - Grupo B: Biblioteca. Investigación en una biblioteca en Florencia.
+    - Objetivo: Conseguir información sobre qué es el Fénix de Jade y todo lo relacionado con él.
+    - Objetivo oculto: Averiguar cómo protegerse o destruir al vampiro.
   
-Segunda sesión:
+Segunda sesión<sup>\*</sup>:
  - Grupo A: Heist. Objetivo: Conseguir la reliquia el Fénix de Jade.  
  - Grupo B: Abortar un ataque terrorista en una presa de la selva negra.  
+\*Los dos grupos van a Hof a hacer el heist al palacete del obispo. Antes del heist se separarán para que un grupo vaya a la presa.
   
 Tercera sesión:  
  - Grupo A: Ataque frontal al edificio del vampiro jefe.  
  - Grupo B: Infiltración sigilosa en el edificio para facilitar el trabajo del otro grupo.  
   
+
 ## Escenas opcionales:  
 Escena de reclutamiento. Puede ser en flashback.  
   
-  
+
 # Organización de mesas.  
   
 Los grupos se organizan en la primera y la tercera misión.  
