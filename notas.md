@@ -29,7 +29,11 @@ Segunda sesión<sup>\*</sup>:
  - Grupo A: Heist. Objetivo: Conseguir la reliquia el Fénix de Jade.  
  - Grupo B: Abortar un ataque terrorista en una presa de la selva negra.  
 
-\*Los dos grupos van a Hof a hacer el heist al palacete del obispo. Antes del heist se separarán para que un grupo vaya a la presa.
+\* **TRIGGER** de la presa.  
+    Los dos grupos van a Hof a hacer el heist al palacete del obispo. Antes del heist se separarán para que un grupo vaya a la presa.  
+    Hay una pareja de esclavos vampiros que parece que están vigilando la zona.  
+    Están en algún sitio discreto (jardines, callejón) para que los PJs puedan inutilizarlos e interrogarlos.  
+    Cuando vean la cosa chunga, se rinden y los PJs les pueden interrogar. Contarán lo de la presa.  
   
 
 Tercera sesión:  
@@ -52,11 +56,6 @@ Los GMs asignan a la gente en la segunda misión rompiendo los grupos de la prim
  - Los PJs se curan todo.  
  - Los PJs se gastan los XP. 1 nivel por partida.  
   
-# Al llegar Hof.
-Tenemos una pareja de esclavos vampiros que parece que están vigilando la zona.
-En algún sitio discreto (jardines, callejón). Para que los PJs puedan inutilizarlos e interrogarlos.
-Cuando estén a punto de perder se rinden y les pueden interrogar.
-*TRIGGER* de la presa.
 
 
 
