@@ -19,3 +19,5 @@ William Connery, Ex expía del MI6 (mayor)
 
 - A partir de los Pjs, pensado un poco PNJs "interesantes" y como pueden interactuar con los PJS.
 - Para los mapas, internete es una buena ayuda. Pillas un mapa genérico de rascacielos/presa/etc. te aprendes los puntos y sitios que tiene y luego más o menos los ubicas en tu cabeza. En este tipo de juegos que son más "cinemáticos", no sueles necesitar el mapa definido al 100%. 
+
+- Aquí más que definir los enemigos, tenéis que pensar en encuentros. En este juego el GM apenas tira dados y las cosas son un poco especiales. Miraros esto pq esto es chungo de entender. Además, tenéis que tener muy claro cuando hacer fall forward y cuando no (cuando tiene que ser un no y cuando tiene que ser un "no pero"...).
