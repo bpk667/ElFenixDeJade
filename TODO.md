@@ -1,3 +1,5 @@
+# Lista de tareas pendientes
+
 - [ ] Leerse los libros.
 - [ ] Definir PJs
     - [ ] Crear fichas de PJs.
@@ -5,6 +7,27 @@
 - [ ] Crear escena palacete.
 - [ ] Crear fichas de enemigos.
 - [ ] Crear mapas.
+
+## Mesh
+
+### Ideas PJS
+* Hacer que uno de los pjs sea parte de la manada (hombre lobo) **moz667: Tengo que leer mas acerca de como funcionan las dos razas**
+    * Podemos decirselo justo en la escena final de toda la partida para darle un giro adicional. El motivo es que se comporte como debe y que no le de demasiada importancia al tema (como uno mas del grupo).
+    * Este tipo de flexibilidad puede que nos ayude a resolver algunos problema que nos surjan en el guion. Este pj puede decirnos que tenemos que ir a un sitio o a otro, que existe la bomba en la presa o cualquier cosa que se nos ocurra.
+
+#### Resumen de ROLES
+* The Commando
+* The Fighter
+* The Ace
+* The Agent
+* The Face
+* The Nobody
+* The Brain
+* The Sleuth
+* The Criminal
+* The Spy
+* The Slayer
+* The Loser
 
 ##### Notas adicionales de David
 - Los Pjs van a definir todo, así que es prioritario que aunque no estén hechos tengáis la idea en la mente. Empezad por esa sección de los libros.
