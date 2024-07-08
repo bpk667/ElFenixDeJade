@@ -6,8 +6,6 @@
 - [ ] Crear fichas de enemigos.
 - [ ] Crear mapas.
 
-test
-
 ##### Notas adicionales de David
 - Los Pjs van a definir todo, así que es prioritario que aunque no estén hechos tengáis la idea en la mente. Empezad por esa sección de los libros.
 - Si cada PJ es de una nacionalidad dais la impresión de agencia internacional y además podéis jugar con los idiomas.
