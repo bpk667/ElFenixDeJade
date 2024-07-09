@@ -151,16 +151,6 @@ Glifo: Se quema / destruye.
   
   
 Otros elementos sobrenaturales aliados o esclavizados por los vampiros.  
-Otras organizaciones dando por culo.  
 El agente Cavalieri  
     Por qué no nos han pedido permiso para venir aquí.  
     Puede se run tf. de ayuda o le poseen...  
-      
-  
-Los vampiros deberían ser 3 ó 4 con mindundis.  
-  
-  
-  
-  
-  
-En alguna de las partidas puede haber una chase (los Vuxia huyendo con el portátil) y los vampiros en otro coche.  

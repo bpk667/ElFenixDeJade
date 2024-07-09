@@ -15,6 +15,10 @@
     * Podemos decirselo justo en la escena final de toda la partida para darle un giro adicional. El motivo es que se comporte como debe y que no le de demasiada importancia al tema (como uno mas del grupo).
     * Este tipo de flexibilidad puede que nos ayude a resolver algunos problema que nos surjan en el guion. Este pj puede decirnos que tenemos que ir a un sitio o a otro, que existe la bomba en la presa o cualquier cosa que se nos ocurra.
 
+* Motivación personal. Algunos PJs deberían tener una motivación personal en las misiones. ¿Un extrabajador de Taras Intercorp que descubrió que la empresa se
+dedicaba a cosas chungas y lo largaron/amenazaron? ¿La hija de un padre que pasó toda su vida intentando buscar pruebas de que los vampiros son reales y una amenaza
+y eso le consumió completamente?
+
 #### Resumen de ROLES
 * The Commando
 * The Fighter

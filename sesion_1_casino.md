@@ -83,3 +83,7 @@ Cuando el gorila reciba algún tipo de daño letal:
   
 **"Es una ninja de Tigre y Dragón"**  
 Si hay persecución a la ladrona del Loto Blanco, en algún momento puede saltar dos plantas, un muro o algo así.  
+
+
+**OPTIONAL: Persecución en coche**
+La ladrona del Loto Blanco huyendo con el portátil y los vampiros y nosotros persiguiéndola en otro coche.  
