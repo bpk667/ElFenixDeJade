@@ -6,14 +6,14 @@ Eres el Face, especialista en salir de cualquier problema hablando. Aunque en pr
 - ...Prefieres que otros hagan el trabajo por tí.
 - ...Te molan las pelis de timadores.
 
-# Puedes ser cómo
+# Puedes ser cómo...
 
-## Elliot Spencer (Las reglas del Juego)
-![Elliot](./imgs/Christian.Kane.webp)
+## Wanda (Un pez llamado Wanda)
+![Elliot](./imgs/wanda.jpg)
 
-Un tipo duro con un corazón de oro. Has visto todos los conflictos del mundo, has estado en casi todos ellos y los odias con toda tu alma. Te has unido a la organización sólo por que por una vez te da la oportunidad de proteger a los más débiles. Aunque tu especialidad son los puños, prefieres no pelear y resolver las peleas con tu carisma. Tú no empiezas las peleas, pero siempre las termnias.
+"Camaleónica" ni siquiera empieza a describirte. Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. No sueles tener demasiado aprecio por los sentimientos de los demás, lo cual te ha granjeado bastantes enemigos. Pero te gusta pagar tus deudas y devolver los favores. La organización no te reclutó: Te infiltraste en ella y cuando viste que te interesaba, "presentaste" tu curriculum.
 
-Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas".
+Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar...".
 
 ## Mickey O'Neill (Snatch: Cerdos y Diamantes)
 
