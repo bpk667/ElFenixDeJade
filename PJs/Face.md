@@ -9,15 +9,15 @@ Eres el Face, especialista en salir de cualquier problema hablando. Aunque en pr
 # Puedes ser cómo...
 
 ## Wanda (Un pez llamado Wanda)
-![Elliot](./imgs/wanda.jpg)
+![Wanda](./imgs/wanda.jpg)
 
 "Camaleónica" ni siquiera empieza a describirte. Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. No sueles tener demasiado aprecio por los sentimientos de los demás, lo cual te ha granjeado bastantes enemigos. Pero te gusta pagar tus deudas y devolver los favores. La organización no te reclutó: Te infiltraste en ella y cuando viste que te interesaba, "presentaste" tu curriculum.
 
 Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar...".
 
-## Mickey O'Neill (Snatch: Cerdos y Diamantes)
+## Sargento Tempelton Peck (Equipo A)
 
-![O'Neill](./imgs/24-snatch.jpg)
+![Peck](./imgs/24-snatch.jpg)
 
 Campeón callejero de Boxeo sin guantes, te conoces al dedillo todos los tugurios de apuestas clandestinas del Reino Unido. Te has unido a la organización porque te persiguen todos los mafiosos de Londres por amañar los combates con el resto de tu familia. Los echas de menos, pero desaparecer y que te dieran por muerto era la mejor opción para todos. 
 
