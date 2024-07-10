@@ -1,11 +1,14 @@
 # Lista de tareas pendientes
 
 - [ ] Leerse los libros.
-- [X] Definir PJs
-    - [X] Crear fichas de PJs.
-    - [ ] **Extra no importante** Encontrar un alter-ego ficticio conocido para **Tati**
+- [ ] Definir PJs
+    - [ ] Crear fichas de PJs. **in progress: moz667**
+        - [X] Crear transfondo
+        - [X] Asignar a personas
+        - [ ] Completar habilidades
+        - [ ] **Extra no importante:** Encontrar un alter-ego ficticio conocido para **Tati**
 - [ ] Crear escena rascacielos.
-- [ ] Crear escena palacete.
+- [ ] Crear escena palacete. **in progress: moz667**
 - [ ] Crear fichas de enemigos.
 - [ ] Crear mapas.
 
