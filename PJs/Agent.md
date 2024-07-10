@@ -15,12 +15,19 @@ Eres el Agent, una persona que trabaja algún tipo de agencia gubernamental: FBI
 ### Detective Rosa Díaz (Brooklyn 99)
 Eres una detective dura, criada en las calles. No aguantas gilipolleces y estás aquí para hacer tu trabajo, no para hacer amigos. Respetas a los ciudadanos pero ahi de cualquier delincuente que se cruce en tu camino. Aún así, entiendes que hay una organización y una jerarquía y la cumples (a tu manera).
 
-La agencia te reclutó a través del departamento de policía en el que trabajabas. Ahora, compaginas tu tiempo como policía con un 
+La agencia te reclutó a través del departamento de policía en el que trabajabas. Ahora, compaginas tu tiempo como policía con un trabajo extra salvando el mundo.
+
+Si decides ser como Rosa, tu catchphrase será: *Los planes son planes. Soy dura, no un anarquista.*
+
+### Detective Axel Folly (Superdetective en Hollywood)
+Te criaste en un barrio malo de Detroit y acabaste llegando a Policía. Lo hiciste con la intención de proteger tu comunidad y, en la medida de lo posible lo estás haciendo. El problema de ser poli en Detroit es que no hay dinero y hay que buscar soluciones imaginativas a las cosas. Afortunadamente, tu tienes ese don además de una sonrisa impertérrita y la capacidad de tomartelo todo a cachondeo.
+
+Todavía no tienes muy claro por qué te reclutó la organización ni si encajas del todo aquí, pero está claro que alguien tiene que ayudar a este grupo de estirados a relajarse un poco mientras hacen su trabajo.
+
+Si decides ser como Axel, tu catchphrase será: *No se preocupe no estoy de servicio. Estoy de vacaciones. (guiño)*
 
 
-Si decides ser como Amy Santiago, tu catchphrase será: *Los planes son planes. Soy dura, no un anarquista.*
-
-
+<!---
 ### Sgt. Roger Murtaugh (Arma letal)
 
 ![Sgt. Roger Murtaugh](./imgs/roger-murtaugh.png)
@@ -41,3 +48,4 @@ Eres una agente especial del FBI que en este momento se encuentra dando apoyo a 
 Aunque tienes estudios de grado en fisica y en medicina, decidiste alistarte al FBI porque te parecio mas interesante.
 
 Si decides ser como Dana Scully, tu catchphrase será: *La verdad está ahí afuera, pero también las mentiras.*
+<!---
