@@ -173,7 +173,7 @@ En el caso de **Amy** como no esta segura de su sexualidad, le cuesta dar el pri
 
 ### Hoja de personaje
 
-* **Role:** The Comando
+* **Role:** The Fighter
 * **Flaws / Defectos:**
     * Miedo a las alturas
     * Panico a viajar en avion
@@ -200,7 +200,7 @@ En el caso de **Amy** como no esta segura de su sexualidad, le cuesta dar el pri
 
 ### Hoja de personaje
 
-* **Role:** The Agent
+* **Role:** The Sleuth
 * **Flaws / Defectos:**
     * Cree demasiado en lo mistico, incluso vera cosas donde no las hay
 * **Catch Phrases / Frases típicas:**
@@ -245,7 +245,7 @@ En el caso de **Amy** como no esta segura de su sexualidad, le cuesta dar el pri
 
 ### Hoja de personaje
 
-* **Role:** The Agent
+* **Role:** The Spy
 * **Flaws / Defectos:**
     * Pese a ser una mujer imponente en todos los aspectos, tiene complejo debido a su estatura principalmente
 * **Catch Phrases / Frases típicas:**
