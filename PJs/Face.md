@@ -11,16 +11,17 @@ Eres el Face, especialista en salir de cualquier problema hablando. Aunque en pr
 ## Wanda (Un pez llamado Wanda)
 ![Wanda](./imgs/wanda.jpg)
 
-"Camaleónica" ni siquiera empieza a describirte. Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. No sueles tener demasiado aprecio por los sentimientos de los demás, lo cual te ha granjeado bastantes enemigos. Pero te gusta pagar tus deudas y devolver los favores. La organización no te reclutó: Te infiltraste en ella y cuando viste que te interesaba, "presentaste" tu curriculum.
+"Camaleónica" ni siquiera empieza a describirte: Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. Cuando todo acaba tu estás lejos, tienes el dinero y los memos se encuentran con un palmo de narices preguntándose que ha podido pasar.
+
+No tienes aprecio por los sentimientos de los demás, lo cual te ha granjeado bastantes enemigos, pero te gusta pagar tus deudas y devolver los favores. La organización no te reclutó: Te infiltraste en ella y cuando viste que te interesaba, "presentaste" tu curriculum.
 
 Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar...".
 
-## Sargento Tempelton Peck (Equipo A)
+## Teniente Tempelton Peck (Equipo A)
 
-![Peck](./imgs/24-snatch.jpg)
+![Peck](./imgs/Original_Faceman.webp)
 
-Campeón callejero de Boxeo sin guantes, te conoces al dedillo todos los tugurios de apuestas clandestinas del Reino Unido. Te has unido a la organización porque te persiguen todos los mafiosos de Londres por amañar los combates con el resto de tu familia. Los echas de menos, pero desaparecer y que te dieran por muerto era la mejor opción para todos. 
+Lo primero que te define es que eres un jugador de equipo: Engañar y mentir es solo algo que haces para que la misión siga. Tu especialidad es conseguir cosas: si para eso tienes que ser vendedor de seguros hoy y repartidor de fedex mañana, que así sea. Has estado en el ejército y se nota, te gusta la organización y que haya una jerarquía. La organización te reclutó cuando te licenciaron del ejército por desobedecer a tus superiores.
 
-Además de ser un hacha en la lucha y sabiendo cuándo tirarte en la lona (y cuando no), tienes bastante labia y eres capaz de salir de muchas situaciones mintiendo, engañando y timando. 
 
-Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..."
+Si decides ser como Tempelton, tu catchphrase será: "Tenemos un plan, ¿Verdad?"
