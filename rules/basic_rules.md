@@ -148,4 +148,75 @@ After using a Spotlight and gaining its benefits, flip a coin:
 - Exception when you save the life of a friend. Then, if the result is tails, they gain 1 Spotlight.
 
 
+# Dangerous roles
+
+When: action or reaction that puts your life or safety on the line. (e.g. hiding from a team of armed soldiers)
+
+- Basic: You lose 1 Grit
+- Critical: You lose 3 Grit
+- Extreme: You lose 9 Grit
+- Impossible: You lose All Grit
+
+## Damage Control
+
+TIPS:  
+- PJ should call it and propose how it happens.
+- When facing a tough roll, you can’t always aim for a full success, and will often have to settle for doing some Damage Control. Typical, really.
+
+
+How:  
+- For every Basic Success: avoid losing 1 Grit.
+- For every Critical Success: avoid losing 3 Grit.
+
+No Damage Control for an Impossible Roll.
+
+
+# Grit
+
+## Loosing grit
+
+Effects:
+- As long as you have a single open Grit box remaining, you have nothing to fear.
+- Otherwise, spin on the Death Roulette and run the risk of being Left for Dead.
+
+**Special Boxes**:
+- Bad box: Suffer a Condition determined by the Director.
+- Hot box: Get a rush of 2 Adrenaline.
+
+
+## Gaining grit
+
+- Sleep on it.
+- Catch a Break.
+- At the end of a gaming Session.
+
+
+# Gamble
+
+Gamble rolls can be either Dangerous or normal.
+
+Useful when you’re trying to build tension outside of a combat or chase.
+
+**When**:
+- You play with fire.
+- You want to go all out. Gain +1 but turn your roll into a Gamble.
+- You take things too far: Attempt a truly crazy action or when there’s a really good chance that everything will go wrong.
+
+**Consecuence**:
+- After roll, re-rolls or all in.
+- Regardless of if they are part of a success or not.
+- For every Snake Eye, you lose 1 Grit. 
+
+
+# Conditions
+
+-1 to all rolls made with that Attribute
+
+**Broken Condition**:
+- When you already have 3 Conditions and you should suffer a fourth.
+- -1 to all rolls.
+- Cannot receive more Conditions.
+
+
+**Tired Condition**: Gives no Penalty.
 
