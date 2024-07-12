@@ -2,11 +2,11 @@
 
 - [ ] Leerse los libros.
 - [ ] Definir PJs
-    - [ ] Crear fichas de PJs. **in progress: moz667**
+    - [ ] ~~Crear fichas de PJs.~~
         - [X] Crear transfondo
         - [X] Asignar a personas
         - [ ] Completar habilidades
-        - [ ] **Extra no importante:** Encontrar un alter-ego ficticio conocido para **Tati**
+    - [X] Catalogo de roles
 - [ ] Crear escena rascacielos.
 - [ ] Crear escena palacete. **in progress: moz667**
 - [ ] Crear fichas de enemigos.

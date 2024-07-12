@@ -154,3 +154,10 @@ Otros elementos sobrenaturales aliados o esclavizados por los vampiros.
 El agente Cavalieri  
     Por qué no nos han pedido permiso para venir aquí.  
     Puede se run tf. de ayuda o le poseen...  
+
+## Glosario
+
+* **Spectra Dice**: Es una agencia no gubernamental inglesa tipo Federal Bureau of Control (Control).  
+* **Taras Intercorp**: Holding de empresas con una parte publica (empresas normales) y otra privada (negocios ilegales como trafico de armas, drogas... etc)
+* **Fénix de Jade**: La reliquia te protege contra el control mental de Kuzma o hace que te haga menos daño.
+* **Vuxia**: ????
