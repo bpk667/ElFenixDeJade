@@ -2,12 +2,23 @@
 
 ## Grupo Taras Intercorp en el casino.  
   
-*François Dijon*. Vampiro que va al casino en la primera sesión.  
-Es un representante / abogado de los vampiros.  
+*François Dijon*.
+Dossier:  
+- Es un representante / abogado de Taras Intercorp. 
+- Le gusta apostar fuerte y no le gusta perder.  
+- Taras Intercorp es una tapadera para el tráfico de armas.
+Dossier oculto:  
+- Vampiro.
+
   
 *Alphonse Dijon*. El hijo de François (19 años).  
-Es un autentico gilipollas insufrible medio vampiro. Se cree guay.  
-Opcional: Pueden intentar ganárselo o seducirlo.  
+Dossier:
+- Es un viva la virgen. Le gusta la fiesta.
+- Le da a TODO.
+- Muy clasista. Todo lo que tiene lo merece y la gente es su felpudo.
+- En un par de ocasiones le han arrestado por fiestas que se han ido de madre, pero papá le ha salvado el culo.
+Dossier oculto:
+- Medio vampiro.
   
 *Borysko*. El gorila vampiro que está en la puerta de la suite.  
   
@@ -17,12 +28,6 @@ Todos los aparcacoches le evitan como la peste.
 Como nadie le hace ni puto caso, está deseando que alguien le escuche para darse importancia de que su jefe está _forrao_ y que es uno de los que "realmente tienen poder, no como los gilipollas esos que salen en la tele."  
   
 ## Pai-lien chiao (Sociedad del Loto Blanco)  
-Son un grupo de los artistas marciales chinos que quiere recuperar una reliquia.  
-Los PJs pueden enfrentarse a ellos o llegar a acuerdos puntuales. Ellos quieren la reliquia y nosotros al vampiro.  
-  
-Objetivo: Recuperar la reliquia.  
-  
-Se les pueden tirar los trastos.  
   
 *Huang Su*. Monje Shaolin.  
 Es el jefe y líder espiritual de El Loto Blanco.  

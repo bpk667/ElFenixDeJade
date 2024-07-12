@@ -48,28 +48,33 @@ Es necesario un lingüista experto en semiótica ucraniana para poder descifrarl
   
 ## Libros de interés:  
   
-**El Rey de Amarillo**. Obra de teatro maldita que trata sobre seres sobrenaturales.  
+**El Rey de Amarillo** (italiano)). Obra de teatro maldita que trata sobre seres sobrenaturales.  
 Llama la atención ciertos enfrentamientos con fantasmas y hombres lobos que parecen muy realistas.  
 **NOTA**. Si el PJ decide buscar con más detalle sabrá que:  
 - Los fantasmas y los hombres lobo son sensibles a la plata.  
 - Los fantasmas no pueden atravesar un círculo de sal o de agua sagrada.  
   
-**Letaliter Sanctio (Religias de la Muerte)**. Trata sobre distintos artefactos que se han usado históricamente para enfrentarse contra seres sobrenaturales: Vampiros, Ghouls, Ekiminu, momias, etc.  
+**Letaliter Sanctio (Religias de la Muerte)** (rutano antiguo). Trata sobre distintos artefactos que se han usado históricamente para enfrentarse contra seres sobrenaturales: Vampiros, Ghouls, Ekiminu, momias, etc.  
 Entre otros artefactos se menciona el Fénix de Jade: Da protección contra el control mental de los vampiros más poderosos. También puede inutilizar al vampiro si se le clava en el corazón.  
 Se dice que se usó para derrotar y aprisionar a Kuzma, pero no se le consiguió matar definitivamente.  
-Menciona por último que posteriormente se descubrió cómo hacerlo y cómo se detalla en Mercurius ter Maximus. Desgraciadamente, cuando se consiguió esta información Kuzma se había liberado.  
+Menciona por último que posteriormente se descubrió cómo hacerlo y cómo se detalla en Mercurius ter Maximus. Desgraciadamente, cuando se consiguió los seguidores de Kuzma se lo habían llevado.
   
-**Mercurius ter Maximus**. Trata sobre el origen de los vampiros y el árbol genealógico de Kuzma.  
+**Mercurius ter Maximus** (rutano antiguo). Trata sobre el origen de los vampiros y el árbol genealógico de Kuzma.  
 Empieza por Filipo, alumno repudiado de Hermes Trismegisto, y como sus experimentos sincréticos mezclaban reliquias paganas y otros métodos alquímicos.  
 Cuenta cómo uno de estos experimentos creó al primer vampiro y cómo su estirpe continuó hasta Kuzma El Empalador, pasando por Adrian Fahrenheit Tepes ("Alucard") y otros vampiros infames.  
 En la parte final, el libro menciona que Kuzma es el el último vampiro no-mestizo vivo que se conoce y detalla sus debilidades:  
 - Para poder cortarle la cabeza es necesaria una hoja de cobre con una empuñadura trenzada con el pelo de Thot (¿pelos de Babuino?) y bendecida por un pope ortodoxo.  
 - También menciona que los vampiros son vulnerables al Fénix de Jade, pero no dice más.  
   
-**El Guardián de la Eternidad**. Aparece abierto en un página en la que hay un sólo párrafo:  
+**El Guardián de la Eternidad** (italiano). Aparece abierto en un página en la que hay un sólo párrafo:  
 >> "Tras fracasar en su intento de controlar los espíritus del Libro de los Muertos, Olaus se resignó a su inevitable muerte.  
 >> Pero no iba a ser tan afortunado y su final fue mucho más cruel: Condenado a proteger por toda la eternidad los secretos del Libro de los Muertos.  
 >> Sólo un conjuro de protección le permitiría librarse de semejante destino y, desgraciadamente, nadie sabía de su destino."  
+    El rito para liberar a un espectro guardián consiste en:  
+    1. Dibujar un pentáculo.  
+    2. Colocar a los pies del pentáculo la prisión del espectro (el libro).  
+    3. Hacer un círculo protector (sal o de agua bendita).  
+    4. Convocar al espectro (Olaus).  
   
   
 ## Timeline  
