@@ -12,7 +12,7 @@ Eres el espía. Trabajando para una organización o para tu país.
 
 ## James Bond (007)
 
-![James Bond](./imgs/BondConnery.png)
+![James Bond](./imgs/BondConnery.webp)
 Puedes ser como el superespía James Bond: preparado, carismático y quizás un poco arrogante. Si te vas a las películas clásicas, ándate con cuidado que muchas de las cosas de esa época dan mucho "Cringe".
 
 <!-- Catchphrase: "Imposible es lo que hago de 9 a 6". -->
@@ -30,6 +30,6 @@ O quizás puedes ser como Alias: Efectiva e implicada pero más analítica, refl
 
 ## Agente P (Phineas y Ferb)
 
-![Agent P](./imgs/Agent P.jpg)
+![Agent P](./imgs/AgentP.png)
 
 ¡El hecho de que no seas un ornitorrinco no quiere decir que no puedas copiar la personalidad de uno de los mejores superespías de la historia!. No podrás tener un pico ni un espolón venenoso, pero puedes ser valiente, callado y tranquilo. Alguien que está detrás hasta que los malos llegan y entonces se convierte en una vorágine de movimiento.
