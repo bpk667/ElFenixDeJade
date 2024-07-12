@@ -30,7 +30,9 @@ Como Parker puedes ser un experto ladrón, capaz de llevar a cabo cualquier golp
 <!-- Catchphrase: "¿Por qué todos mirais para mí? Vale, toma." -->
 
 
-![Lupin](./imgs/sandiego.jpg)
+
 
 ## Carmen Sandiego (Carmen Sandiego)
+
+![Lupin](./imgs/sandiego.jpg)
 O quizás, como Carmen fuiste criada por una organización para cometer todo tipo de crímenes. Ahora, roba solo para ayudar a los demás. Tienes muchas habilidades, pero solo las usas si la causa es justa. Y siempre con un plan detrás.
