@@ -1,0 +1,848 @@
+ROLES:
+  Comando:
+    ATTRIBUTES:
+      - Brawn
+    SKILLS:
+      - Endure
+      - Fight
+      - Force
+      - Cool
+      - Shoot
+      - Survival
+      - Leadership
+      - Fix
+      - Awareness
+      - Stealth
+    FEATS:
+      - Hard to Kill
+      - Hunter
+      - Intimidation
+      - Marksman
+      - Military Background
+      - That’s All?
+    GEAR:
+      - Knife
+      - Telephone or Radio
+      - Weapon of choice
+  Fighter:
+    ATTRIBUTES:
+      - Brawn
+    SKILLS:
+      - Endure
+      - Fight
+      - Force
+      - Stunt
+      - Cool
+      - Flirt
+      - Leadership
+      - Style
+      - Heal
+      - Dexterity
+    FEATS:
+      - Combo
+      - Counter
+      - Flying Kick
+      - Hard to Kill
+      - Martial Arts
+      - Punch Reload
+    GEAR:
+      - One 1$ item of your choice
+  Ace:
+    ATTRIBUTES:
+      - Nerves
+    SKILLS:
+      - Stunt
+      - Cool
+      - Drive
+      - Shoot
+      - Flirt
+      - Style
+      - Fix
+      - Awareness
+      - Dexterity
+      - Streetwise
+    FEATS:
+      - Car Jump
+      - Crazy Stunt
+      - Full Throttle!
+      - Mechanic
+      - Proven Driver
+      - Spinout
+    GEAR:
+      - Ride with Speed 1
+      - Pistol or Shotgun
+  Agent:
+    ATTRIBUTES:
+      - Nerves
+    SKILLS:
+      - Endure
+      - Fight
+      - Stunt
+      - Cool
+      - Drive
+      - Shoot
+      - Leadership
+      - Detect
+      - Heal
+      - Awareness
+    FEATS:
+      - Get Down!
+      - Gunslinger
+      - Hard to Kill
+      - Lie to Me
+      - Pep Talk
+      - Selfless
+    GEAR:
+      - Pistol
+      - Handcuffs
+      - Badge
+      - Telephone or Radio
+  Face:
+    ATTRIBUTES:
+      - Smooth
+    SKILLS:
+      - Flirt
+      - Leadership
+      - Speech
+      - Style
+      - Detect
+      - Heal
+      - Know
+      - Dexterity
+      - Stealth
+      - Streetwise
+    FEATS:
+      - Artist
+      - Cash Flow
+      - Heartbreaker
+      - High Culture
+      - Master of Disguise
+      - Silver Tongue
+    GEAR:
+      - Elegant Clothes
+      - Precious item of choice (like a piece of jewelry or a golden lighter)
+  Nobody:
+    ATTRIBUTES:
+      - Smooth
+    SKILLS:
+      - Fight
+      - Shoot
+      - Survival
+      - Leadership
+      - Speech
+      - Detect
+      - Fix
+      - Heal
+      - Know
+      - Dexterity
+    FEATS:
+      - I’ll Make a Phone Call
+      - Lie to Me
+      - Mechanic
+      - Physician
+      - Proven Driver
+      - Silver Tongue
+    GEAR:
+      - 1$ item of choice or Old ride with Speed 0
+Brain:
+  ATTRIBUTES:
+    - Focus
+  SKILLS:
+    - Drive
+    - Leadership
+    - Speech
+    - Style
+    - Detect
+    - Fix
+    - Heal
+    - Know
+    - Dexterity
+    - Stealth
+  FEATS:
+    - Hacker
+    - High Culture
+    - Intuition
+    - Mastermind
+    - Outsmart
+    - Scientist
+  GEAR:
+    - Portable Computer
+    - Notebook
+    - Pencil
+  Sleuth:
+    ATTRIBUTES:
+      - Focus
+    SKILLS:
+      - Endure
+      - Stunt
+      - Cool
+      - Drive
+      - Shoot
+      - Detect
+      - Know
+      - Awareness
+      - Stealth
+      - Streetwise
+    FEATS:
+      - Detective
+      - I’ll Make a Phone Call
+      - Intimidation
+      - Marksman
+      - Reporter
+      - Shadow
+    GEAR:
+      - 1$ item of choice
+      - Pistol or Rifle or Shotgun
+  Criminal:
+    ATTRIBUTES:
+      - Crime
+    SKILLS:
+      - Force
+      - Stunt
+      - Drive
+      - Shoot
+      - Survival
+      - Speech
+      - Awareness
+      - Dexterity
+      - Stealth
+      - Streetwise
+    FEATS:
+      - Always Prepared
+      - Gunslinger
+      - I’ll Make a Phone Call
+      - Lockpick
+      - Pickpocket
+      - Silver Tongue
+    GEAR:
+      - Pistol
+      - Knife or Lockpicking Set or Handcuffs
+  Spy:
+    ATTRIBUTES:
+      - Crime
+    SKILLS:
+      - Endure
+      - Fight
+      - Stunt
+      - Cool
+      - Drive
+      - Shoot
+      - Flirt
+      - Detect
+      - Awareness
+      - Stealth
+    FEATS:
+      - Gunslinger
+      - Heartbreaker
+      - Martial Arts
+      - Master of Disguise
+      - Parkour
+      - Shadow
+    GEAR:
+      - Elegant Clothes
+      - Pistol with Silencer
+      - Item of Choice
+TROPES:
+  Bad to the Bone:
+    CATCH_PHRASE: “Listen, I'm no hero. I do not care.”
+    DESCRIPTION: You’re clearly trouble. You're the kind of arrogant prick no parent would ever want to see beside their child. You’re bad news, no two ways about it. But maybe you’re only looking for a chance to do the right thing.
+    ATTRIBUTES:
+      - Nerves
+      - Crime
+    FEATS:
+      - Knife Thrower
+      - Parkour
+      - Proven Driver
+      - Shadow
+    SKILL_POINTS:
+      - Force
+      - Stunt
+      - Drive
+      - Shoot
+      - Flirt
+      - Style
+      - Dexterity
+      - Streetwise
+  Cheater:
+    CATCH_PHRASE: “I swear. I have never seen this man in my life!”
+    DESCRIPTION: You lie for work, for fun, or out of necessity. Anyway, you lie well, often, and easily. Trusting you is a really risky decision, but you know how to be persuasive.
+    ATTRIBUTES:
+      - Smooth
+      - Crime
+    FEATS:
+      - Pickpocket
+      - Lockpick
+      - Shadow
+      - Silver Tongue
+    SKILL_POINTS:
+      - Stunt
+      - Cool
+      - Shoot
+      - Speech
+      - Style
+      - Dexterity
+      - Stealth
+      - Streetwise
+  Cool but Distressed:
+    CATCH_PHRASE: “It’s useless... You’d never understand.”
+    DESCRIPTION: Your house is in complete disarray, and you mope around with your head hung low, brooding about your traumatic past in-between a cigarette and a shot. You’re a mess... But so damn cool at the same time.
+    ATTRIBUTES:
+      - Nerves
+      - Smooth
+    FEATS:
+      - Detective
+      - Gunslinger
+      - Proven Driver
+      - Silver Tongue
+    SKILL_POINTS:
+      - Fight
+      - Cool
+      - Drive
+      - Shoot
+      - Flirt
+      - Detect
+      - Know
+      - Streetwise
+  Diehard:
+    CATCH_PHRASE: “Do your worst. I can do this all day.”
+    DESCRIPTION: It doesn’t matter how many times they push you to the ground, you just keep standing back up to fight for what you believe in. When the game gets hard, and tensions run high, you always manage to give it your best. You’re just wired like that.
+    ATTRIBUTES:
+      - Brawn
+      - Nerves
+    FEATS:
+      - Gunslinger
+      - Hard to Kill
+      - Martial Arts
+      - Military Bg
+    SKILL_POINTS:
+      - Endure
+      - Force
+      - Fight
+      - Cool
+      - Drive
+      - Shoot
+      - Leadership
+      - Heal
+  Free Spirit:
+    CATCH_PHRASE: “I go wherever I want and only do what I want to do.”
+    DESCRIPTION: Nobody can tell you what to do. You’re a free spirit, and you always follow your heart. You’re temperamental and rebellious, and hate the idea of following orders or keeping to the plan. You’d much rather improvise.
+    ATTRIBUTES:
+      - Brawn
+      - Crime
+    FEATS:
+      - Artist
+      - Parkour
+      - Pickpocket
+      - That’s All?
+    SKILL_POINTS:
+      - Fight
+      - Stunt
+      - Drive
+      - Survival
+      - Style
+      - Fix
+      - Stealth
+      - Streetwise
+  Genius Bruiser:
+    CATCH_PHRASE: “Let’s try to be reasonable. There’s no need to resort to violence.”
+    DESCRIPTION: You’ve got a brilliant brain piloting the frame of a bodybuilder. You’re as big and muscular as you are smart and knowledgeable. You’re a walking paradox. You prefer to play it smart whenever possible, but if push comes to shove, you can hold your own in a fight.
+    ATTRIBUTES:
+      - Brawn
+      - Focus
+    FEATS:
+      - Bodybuilder
+      - High Culture
+      - Scientist
+      - That’s All?
+    SKILL_POINTS:
+      - Endure
+      - Force
+      - Fight
+      - Leadership
+      - Speech
+      - Fix
+      - Know
+      - Heal
+  Good Samaritan:
+    CATCH_PHRASE: “It was the right thing to do. Anyone would have done the same.”
+    DESCRIPTION: To you, helping others is the obvious choice. Doesn't matter if you have to hold the door or run into a burning building. If there were more people like you, the world would be a better place.
+    ATTRIBUTES:
+      - Smooth
+      - Focus
+    FEATS:
+      - Get Down!
+      - High Culture
+      - Physician
+      - Selfless
+    SKILL_POINTS:
+      - Endure
+      - Cool
+      - Shoot
+      - Speech
+      - Style
+      - Detect
+      - Heal
+      - Know
+  Hot Stuff:
+    CATCH_PHRASE: “Close your eyes. I have a surprise you’re going to love.”
+    DESCRIPTION: You’re elegant and sexy, irresistibly stylish, or simply really, really... really ridiculously good looking. When you walk down the street, people turn to look at you. It’s impossible to resist your charm.
+    ATTRIBUTES:
+      - Smooth
+      - Crime
+    FEATS:
+      - Artist
+      - Cash Flow
+      - Heartbreaker
+      - I’ll Make a Phone Cal
+    SKILL_POINTS:
+      - Fight
+      - Drive
+      - Flirt
+      - Style
+      - Detect
+      - Know
+      - Awareness
+      - Dexterity
+  Hunk:
+    CATCH_PHRASE: “Step away from the door. I’ll take care of this.”
+    DESCRIPTION: You’re pretty big, tall, muscular, and athletic. Perhaps you’re tough and intimidating, or maybe a gentle giant who always knows how to put people at ease. Either way, you’ve clearly been hitting the gym.
+    ATTRIBUTES:
+      - Brawn
+      - Smooth
+    FEATS:
+      - Bodybuilder
+      - Combo
+      - Intimidation
+      - Selfless
+    SKILL_POINTS:
+      - Endure
+      - Force
+      - Fight
+      - Stunt
+      - Survival
+      - Flirt
+      - Leadership
+      - Style
+  Jerk with a Heart of Gold:
+    CATCH_PHRASE: “No, I told you, don’t even think about it... Don’t look at me like that though!”
+    DESCRIPTION: You’re impudent, unreasonable, and far too sure of yourself. You're the kind of person who mocks their friends, or flirts with everyone. Sometimes you're unbearable but, deep down, you care.
+    ATTRIBUTES:
+      - Brawn
+      - Smooth
+    FEATS:
+      - Heartbreaker
+      - Martial Arts
+      - Parkour
+      - Silver Tongue
+    SKILL_POINTS:
+      - Fight
+      - Survival
+      - Flirt
+      - Speech
+      - Style
+      - Dexterity
+      - Stealth
+      - Streetwise
+  Last boy scout / Girl Scout:
+    CATCH_PHRASE: “Let me help you, its no trouble at all.”
+    DESCRIPTION: They don’t make heroes like you anymore. You have good morals and an old-school education, that give you a nostalgic kind of charm. You face your mission with determination, a positive attitude, and a pinch of naivety.
+    ATTRIBUTES:
+      - Brawn
+      - Nerves
+    FEATS:
+      - Hard to Kill
+      - Hunter
+      - Military Bg
+      - Selfless
+    SKILL_POINTS:
+      - Endure
+      - Stunt
+      - Cool
+      - Shoot
+      - Survival
+      - Flirt
+      - Fix
+      - Stealth
+  Leader:
+    CATCH_PHRASE: “Cover me, I’m going in.”
+    DESCRIPTION: You’re always on the first line, ready to lead by example and to take matters into your own hands. Even at the most difficult of times, you’re steady and reliable, a real touchstone for your friends.
+    ATTRIBUTES:
+      - Nerves
+      - Focus
+    FEATS:
+      - Always Prepared
+      - Get Down!
+      - Head on a Swivel
+      - Mastermind
+    SKILL_POINTS:
+      - Endure
+      - Cool
+      - Shoot
+      - Survival
+      - Leadership
+      - Detect
+      - Heal
+      - Know
+  Lone Wolf:
+    CATCH_PHRASE: “Go to hell! Leave me alone.”
+    DESCRIPTION: You come off to strangers as abrasive and rude. Indeed, you’re pretty good at keeping others at arm’s length, but your friends know that they can rely on you. You live on your own, possibly in close contact with nature.
+    ATTRIBUTES:
+      - Brawn
+      - Crime
+    FEATS:
+      - Archer
+      - Head on a Swivel
+      - Martial Arts
+      - That’s All?
+    SKILL_POINTS:
+      - Force
+      - Fight
+      - Stunt
+      - Cool
+      - Survival
+      - Flirt
+      - Leadership
+      - Streetwise
+  Mentor:
+    CATCH_PHRASE: “We do not choose the hand we are dealt. But we can choose how to play our cards.”
+    DESCRIPTION: People like you always know the right thing to say to comfort, move, or encourage others. Sometimes you’re tough and you can come off as too strict, but you’re the parent-figure everyone needs, sometimes.
+    ATTRIBUTES:
+      - Smooth
+      - Focus
+    FEATS:
+      - Always Prepared
+      - Mastermind
+      - Pep Talk
+      - Silver Tongue
+    SKILL_POINTS:
+      - Endure
+      - Cool
+      - Survival
+      - Leadership
+      - Speech
+      - Heal
+      - Know
+      - Awareness
+  Neurotic Geek:
+    CATCH_PHRASE: "“That’s not how this works, dammit. I’ve told you: it takes time!”"
+    DESCRIPTION: You’re a real nerd. Computers, comics, and pop culture have no secrets for you... Unfortunately, none of your friends know what you’re even talking about. After spending too many days locked up in your room, a bit of action is just what you need.
+    ATTRIBUTES:
+      - Focus
+      - Crime
+    FEATS:
+      - Hacker
+      - Intuition
+      - Outsmart
+      - Scientist
+    SKILL_POINTS:
+      - Drive
+      - Speech
+      - Detect
+      - Fix
+      - Know
+      - Awareness
+      - Dexterity
+      - Stealth
+  Party Killer:
+    CATCH_PHRASE: “This time, we do everything by the book. No mistakes.”
+    DESCRIPTION: When everyone else is hyped, you always know how to ruin the moment. You’re cynical or fussy, and you like to have the last word in every discussion. Loving you doesn’t come easy.
+    ATTRIBUTES:
+      - Nerves
+      - Crime
+    FEATS:
+      - Head on a Swivel
+      - Marksman
+      - Mastermind
+      - Pep Talk
+    SKILL_POINTS:
+      - Force
+      - Stunt
+      - Cool
+      - Shoot
+      - Leadership
+      - Awareness
+      - Stealth
+      - Streetwise
+  Trusty Sidekick:
+    CATCH_PHRASE: “All set! What would you do without me?”
+    DESCRIPTION: There’s one person you really care about in your life. One you see as truly worthy or in need of your help or protection. You've decided to stick by their side, and have become the perfect wingman, a trusted friend who’s worth more than any treasure.
+    ATTRIBUTES:
+      - Nerves
+      - Focus
+    FEATS:
+      - Get Down!
+      - Mechanic
+      - Physician
+      - Proven Driver
+    SKILL_POINTS:
+      - Drive
+      - Shoot
+      - Survival
+      - Speech
+      - Heal
+      - Fix
+      - Dexterity
+      - Stealth
+  Vigilante:
+    CATCH_PHRASE: “This city is sick, and I am the cure.”
+    DESCRIPTION: You’ve stood to watch, while the law tried and failed to solve the problems of your city, of the entire world. In the end, you’ve decided that it was up to you to intervene and sort out things the hard way. Your methods and your morals are borderline at best.
+    ATTRIBUTES:
+      - Brawn
+      - Focus
+    FEATS:
+      - Intimidation
+      - Martial Arts
+      - Parkour
+      - Shadow
+    SKILL_POINTS:
+      - Fight
+      - Stunt
+      - Leadership
+      - Detect
+      - Fix
+      - Awareness
+      - Stealth
+      - Streetwise
+FEATS:
+  ALWAYS PREPARED: |
+    You always have an ace up your sleeve.
+
+    [Quick Action] You take out or retrieve a useful item, a piece of information, or a small, easy-to-hide weapon.
+  ARCHER: |
+    You’re a modern-day Robin Hood, your arrows never miss.
+
+    Gain a Free Re-roll when using, repairing, evaluating, or handling a bow.
+  ARTIST: |
+    Popular or misunderstood, you’re still an artist. The world is your stage.
+
+    Choose an art-form (i.e.: dancing, singing, painting, etc.). 
+
+    Gain a Free Re-roll for all rolls regarding your chosen art-form.
+  BODYBUILDER: |
+    You’re big, strong, and muscular. How much can you bench?
+
+    Gain a Free Re-roll when lifting, carrying, or breaking something.
+  CAR JUMP: |
+    You speed up an improvised ramp and make your ride jump in the air. Everyone holds their breath.
+
+    [Full Turn] While driving, you can have your ride jump over something to automatically pass an obstacle or barrier, or to gain +2 Speed during a Chase. 
+
+    Upon landing, the ride loses 1 Armor. You can use this Feat with all rides that travel on land or water, but not with flying Rides.
+  CASH FLOW: |
+    You’re from old money, or simply have quite a lot of cash on hand. Either way, money is no problem!
+
+    You start the game with 3 Cash. Gain 1 Cash at the beginning of each Session, unless you are imprisoned or lost in the middle of nowhere.
+  COMBO: |
+    After each strike, there is always another, faster than the first. One-two! Come on! 
+
+    After hitting an Enemy, you can spend 1 Adrenaline to deal 1 additional Grit. You can spend several to continue the combo and deal additional damage.
+  COUNTER: |
+    The best defense is always a good offense.
+
+    React against an Enemy by rolling Brawn+Fight instead of the requested Skill. You ignore all -1s from Conditions and circumstances.
+  CRAZY STUNT: |
+    You’re the reason why they invented those “Don’t try this at home” disclaimers.
+
+    [Full Turn] When you’re driving, you can make an absolutely crazy maneuver in order to win the chase. Destroy your ride and flip a coin. 
+
+    * Heads: the Director fills in 1 Need box.
+    * Tails: the Director fills in 5 Need boxes. 
+
+    If, after this maneuver, all Need boxes are full, you won the chase.
+  DETECTIVE: |
+    The crime-scene speaks to you. Where others see chaos, you know how to spot a clue. 
+
+    Gain a Free Re-roll when looking for clues, following trails, or searching a room.
+  FULL THROTTLE!: |
+    You’re a speed junkie who lives life in the fast lane.
+
+    When you’re behind the wheel of a ride, you ignore penalties from the Nervous Condition and from Top Speed.
+
+    Once per chase, when you reach Top Speed, you gain 1 Adrenaline.
+  FLYING KICK: |
+    No enemy is out of reach for your deadly kicks.
+
+    Attack an Enemy within Close or Medium Range, gain +1 to the roll.
+
+    Additionally, you can always attack an Enemy within Close Range while bare-handed, and you don’t need to spend Adrenaline to do so.
+  GET DOWN!: |
+    You grab your friend and drag them away from danger one second before disaster.
+
+    [Full Turn] You and another Hero quickly hide, dodge a hail of bullets, or avoid being run over without needing to roll the dice.
+  GUNSLINGER: |
+    The gun is an extension of your arm. Every shot hits its mark.
+
+    Gain a Free Re-roll when using, repairing, evaluating, or handling a pistol or revolver.
+  HACKER: |
+    You’re a computer wizard. No firewall can stop you.
+
+    Gain a Free Re-roll for all rolls about computers, to hack a system or to bypass IT security measures.
+  HARD TO KILL: |
+    It doesn’t matter what they throw at you. You keep standing back up.
+
+    When you fill in your Bad Box, you gain 1 Adrenaline and +1 to your next roll.
+  HEAD ON A SWIVEL: |
+    You’re always ready to spot what’s coming.
+
+    Gain a Free Re-roll when preempting dangers or ambushes, or trying to locate lurking enemies.
+  HEARTBREAKER: |
+    Nobody can resist your damned smile.
+
+    Gain a Free Re-roll when seducing or making a good impression on others.
+  HIGH CULTURE: |
+    You’ve studied and it shows.
+
+    Gain a Free Re-roll for all rolls to recall informa tion about general culture, literature, history, and geography.
+  HUNTER: |
+    You have predator instincts and know how to move in the wilds.
+
+    Gain a Free Re-roll for all rolls made to follow or hunt an animal, to find your bearings, or to hide while in the wilds.
+  INTIMIDATION: |
+    You’re an ice-cold tough guy. You’re truly scary. 
+    
+    Gain a Free Re-roll when intimidating or interrogating somebody.
+  INTUITION: |
+    You notice hidden details other people miss.
+
+    [Quick Action] Ask the Director to give you a clue or suggestion, or find the Weak Spot of an Enemy.
+  I’LL MAKE A PHONE CALL: |
+    You have a contact, a friend, or a favor you can call in. It’s just a phone call away.
+
+    [Full Turn] You call one of your contacts asking for a piece of information, a favor, a ride, or up to 3 Cash. You gain whatever you asked for during the next Time-Out.
+
+  KNIFE THROWER: |
+    Knives, axes, shuriken, or gaming cards. If you can hold it, you can throw it.
+
+    Gain +1 when using a throwing weapon.
+  LIE TO ME: |
+    You can understand the person in front of you at a glance.
+
+    Gain a Free Re-roll for all rolls made to understand somebody’s intentions or to spot lies.
+  LOCKPICK: |
+    Doors, safes, and vaults stand no chance against your surgically precise methods.
+
+    Gain a Free Re-roll when trying to pick any lock, door, or closed container.
+  MARKSMAN: |
+    There are many rifles like yours, but nobody uses a rifle like you do.
+
+    Gain a Free Re-roll when using, repairing, evaluating, or handling a rifle, shotgun, sub-machine or machine gun.
+  MARTIAL ARTS: |
+    You know kung fu, muay thai, boxing, or another fighting style.
+
+    Gain a Free Re-roll for all Action and Reaction Rolls made when fighting unarmed.
+  MASTER OF DISGUISE: |
+    You know how to change your appearance and hide your identity.
+
+    Gain a Free Re-roll for all rolls made to disguise yourself, to go unnoticed, or to take on someone else’s identity.
+  MASTERMIND: |
+    Your brilliant ideas allow you to always come out on top.
+
+    Repeat one roll of any kind. Ignore all -1s from Conditions and circumstances.
+  MECHANIC: |
+    You grew up in a workshop and know everything about engines.
+
+    Gain a Free Re-roll when building or repairing Rides and other gear.
+  MILITARY BACKGROUND: |
+    You’re a soldier. You know military hierarchy and protocol.
+
+    Gain a Free Re-roll for all rolls about military knowledge, for coordinating a strategy, or when recalling your training.
+  OUTSMART: |
+    As you always say: work smart, not hard!
+
+    Make an Action or Reaction Roll of any kind using Know instead of the required Skill.
+  PARKOUR: |
+    You’re a free runner or an expert acrobat. You don’t go down the stairs, you jump the whole ramp.
+
+    Gain a Free Re-roll when jumping, performing feats of acrobatics, or breaking a fall.
+  PEP TALK: |
+    When the game gets hard, everyone gathers around you, and you always know just what to say.
+
+    Gain a Free Re-roll when inspiring or coordinating others.
+  PHYSICIAN: |
+    You’re a nurse, medical doctor, or paramedic. You’re certainly not squeamish about blood.
+
+    Gain a Free Re-roll for all rolls made to find a diagnosis, to operate on someone, or to remove physical Conditions such as the Hurt Condition
+  PICKPOCKET: |
+    You’re no mere thief, you’re a theft artist.
+
+    Gain a Free Re-roll when stealing something from somebody.
+  PROVEN DRIVER: |
+    Engines are your passion. You’re unrivaled at the wheel.
+
+    Choose one type of ride (i.e., cars, bikes, flying, etc.)
+
+    Gain a Free Re-roll when driving, repairing, or evaluating rides of your chosen type.
+  PUNCH RELOAD: |
+    After suffering a big hit, you clench your fists and keep on fighting.
+
+    [Quick Action] Once per combat, after failing a Reaction Roll against an Enemy, you can stand back up and immediately gain 1 Adrenaline.
+  REPORTER: |
+    You’re always on the hunt for truth. Your pen is mightier than a gun.
+
+    Gain a Free Re-roll for all rolls made to interview people, gain information, and find contacts.
+  SCIENTIST: |
+    It could work! And you know exactly how.
+
+    Choose a STEM discipline (i.e.: engineering, chemistry, botany, etc.).
+
+    Gain a Free Re-roll for all rolls regarding your chosen discipline.
+  SELFLESS: |
+    You always defend other people with your life. You’re a true hero!
+
+    Gain a Free Re-roll when defending or saving others, or when acting selflessly.
+  SHADOW: |
+    Nobody can catch you. You’re quick and quiet as a shadow.
+
+    Gain a Free Re-roll when hiding, sneaking, or tailing someone.
+  SILVER TONGUE: |
+    Your words speak louder than actions, and you certainly know how to talk your way out of trouble.
+
+    Gain a Free Re-roll for all rolls made to lie, to persuade others, to find a compromise, or to bargain.
+  SPINOUT: |
+    You pull the break and quickly turn the wheel. Everyone better hold on tight.
+
+    [Full Turn] All Heroes on the ride you are driving skip their Reaction Turn during a Chase. Flip a coin. 
+
+    * Heads: -1 Speed.
+    * Tails: +1 Speed.
+  THAT’S ALL?: |
+    You are hard to persuade and even harder to impress.
+
+    Gain a Free Re-roll for all rolls made to show courage, to withstand pain, and to resist threats or interrogations.
+  TOO YOUNG TO DIE: |
+    You’re young and carefree. You feel like nothing can stop you.
+
+    When filling in the Bad Box, you suffer no Condition.
+
+    You can only gain this Feat when creating a Young Hero.
+ATTRIBUTES:
+  BRAWN:
+    BRAWN: 2
+    ENDURE: 1
+    FIGHT: 1
+    FORCE: 1
+    STUNT: 1
+  NERVES:
+    NERVES: 2
+    COOL: 1
+    DRIVE: 1
+    SHOOT: 1
+    SURVIVAL: 1
+  SMOOTH:
+    SMOOTH: 2
+    FLIRT: 1
+    LEADERSHIP: 1
+    SPEECH: 1
+    STYLE: 1
+  FOCUS:
+    FOCUS: 2
+    DETECT: 1
+    FIX: 1
+    HEAL: 1
+    KNOW: 1
+  CRIME:
+    CRIME: 2
+    AWARENESS: 1
+    DEXTERITY: 1
+    STEALTH: 1
+    STREETWISE: 1

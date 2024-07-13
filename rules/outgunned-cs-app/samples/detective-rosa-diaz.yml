@@ -1,0 +1,23 @@
+personal_data:
+  name: Detective Rosa Díaz
+  character_description: |
+    Eres una detective dura, criada en las calles. No aguantas gilipolleces y estás aquí para hacer tu trabajo, no para hacer amigos. Respetas a los ciudadanos pero ahi de cualquier delincuente que se cruce en tu camino. Aún así, entiendes que hay una organización y una jerarquía y la cumples (a tu manera).
+
+    La agencia te reclutó a través del departamento de policía en el que trabajabas. Ahora, compaginas tu tiempo como policía con un trabajo extra salvando el mundo.
+  role: Agent
+  trope: Hunk
+  job: Detective
+  age: Young
+  flaw: Es demasiado ruda y le cuesta pasar desapercivida
+  catch_phrase: Los planes son planes. Soy dura, no un anarquista.
+  attributes:
+    - Brawn
+  feats: 
+    - Intimidation
+    - Gunslinger
+    - Hard to Kill
+  gear:
+    - Pistol
+    - Handcuffs
+    - Badge
+    - Telephone
