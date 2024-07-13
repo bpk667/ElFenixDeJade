@@ -104,7 +104,7 @@ Alternativamente, también pueden intentar estudiar el índice por sí mismos o 
   
 En el momento que Iryna o los PJs empiecen a leer alguno de los libros, empieza la fiesta: Activan a Olaus.  
   
-El personaje que esté más alejado o distraído hace una tirada de _focus + detect_ o de _crime + awareness_.  
+El personaje que esté más alejado o distraído hace una tirada de `dificultad crítica en focus + detect` o de `dificultad crítica en crime + awareness`.  
  - Éxito básico: Nota algo por el rabillo del ojo pero no ve qué es.  
  - Éxito crítico: Ve un par de libros caer en las estanterías del pasillo superior.  
  - Éxito extremo: Ve que los libros han volado desde un extremo a otro del pasillo. Si se acerca a ver qué libros son, verá El Guardián de la Eternidad.  
@@ -114,7 +114,7 @@ El personaje que esté más alejado o distraído hace una tirada de _focus + det
   
 Pocos minutos después todos hacen una tirada similar. Con éxito crítico detectarán que el reflejo de las vitrinas no refleja exactamente la biblioteca.  
 En el reflejo no aparece la máquina de escribir y en su lugar hay unos frascos de distintos colores. Parece un reflejo antiguo y oscuro.  
-Un éxito crítico en _focus + know_ les permite ver que un libro con elaboradas runas similares a las del Mercurius ter Maximus está esparcido en la mesa, sin encuadernar.  
+Un `éxito crítico en focus + know` les permite ver que un libro con elaboradas runas similares a las del Mercurius ter Maximus está esparcido en la mesa, sin encuadernar.  
 No están seguros debido a la suciedad de las vitrinas, pero parece que unas sombras desdibujadas se mueven detrás de ellos en el reflejo.  
   
 Si estudian los fantasmas con más detalle, pueden distinguir:  
@@ -129,12 +129,12 @@ Olaus no les va poner fácil llevarse los libros. Si lo intentan, atacará con s
   
 La sombra más prominente está frente al libro Letaliter Sanctio / Mercurius ter Maximus con una espada apuntando a la persona que está leyendo el libro.  
 Si algún PJ intenta coger el libro, el fantasma intentará darle con la espada.  
- - Si el PJ se aparta a tiempo (_nerves + stunt_) no pasa nada.  
- - Si falla (dificultad crítico) el PJ tiene un brazo inútil hasta final de escena pero consigue ver claramente a los fantasmas.  
+ - Si el PJ se aparta a tiempo (`dificultad crítico de nerves + stunt`) no pasa nada.  
+ - Si falla el PJ adquiere el estado `scared` y tiene un brazo inútil hasta final de escena pero consigue ver claramente a los fantasmas.  
   
-Una tirada de _crime + awareness_ les indicará que el fantasma sólo ataca cuando se intenta mover el libro. No así los otros dos fantasmas.  
+Una tirada de `dificultad básica de crime + awareness` les indicará que el fantasma sólo ataca cuando se intenta mover el libro. No así los otros dos fantasmas.  
   
-Alguien con experiencia en temas místicos puede hacer una tirada de _focus + know_ y recordar que a los fantasmas no les gusta la plata y que se los puede intentar contener con sal o con agua bendita.  
+Alguien con experiencia en temas místicos puede hacer una tirada de `dificulad básica en focus + know` y recordar que a los fantasmas no les gusta la plata y que se los puede intentar contener con sal o con agua bendita.  
 Con un éxito crítico puede recordar que ha visto referencias al libro El Guardián de la Eternidad en el índice de Iryna.  
   
   

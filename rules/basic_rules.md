@@ -220,3 +220,65 @@ Useful when you’re trying to build tension outside of a combat or chase.
 
 **Tired Condition**: Gives no Penalty.
 
+
+### Suffering a condition
+
+- As a consequence of a failure.
+- When you fill in the Bad Box of your Grit.
+- When failure is not enough.
+
+
+### Removing a condition
+
+Up to 2 Conditions each day. 
+
+
+### Types
+
+**Hurt**
+- Effect: -1 to Brawn.
+- Acquired:  Suffer physical damage.
+- Removed: Treat your wounds with a `Critical Action Roll in Focus+Heal`.
+
+**Nervous**
+- Effect: -1 to Nerves.
+- Acquired: Survive danger by an inch, efforts are insufficient, damaging, or useless.
+- Removed: Time-Out to relax, enjoy a hobby, or indulge a bit.
+
+**Like a fool**
+- Effect: -1 to Smooth.
+- Acquired: You cover yourself in ridicule, or give your friends reasons to not trust you or to lose respect for you.
+- Removed: Proving your worth, a friend cheer you up or help you find self-esteem `Critical Action Roll in Smooth+Heal`.
+
+**Distracted**
+- Effect: -1 to Focus.
+- Acquired: Charmed or confused, spend a night hitting the books, etc.
+- Removed: Spend `2 Adrenaline on a Focus roll`, or spend  one of your actions during a Time-Out doing absolutely nothing to clear your mind.
+
+**Scared**
+- Effect: -1 to Crime.
+- Acquired: Suffer a great shock or fright.
+- Removed: Facing the subject of your fear again and being victorious or, during a Time-Out, to confide in one of your friends and get the weight off your chest (both players need to spend one action).
+
+**Tired**
+- Effect: No effect.
+- Acquired: Too long without eating or drinking, or when you stay up all night without getting any rest. When you fill in your Bad Box in a not-so-bad or not memorable situation
+- Removed: Eating a hot meal and getting some good sleep
+
+**Broken**
+- Effect: -1 to all rolls.
+- Acquired: When you should suffer a fourth Condition. If you already look Tired and Hurt.
+- Removed: Spending a couple of days in a hospital or a friend treat your wounds with `extreme Action Roll in Focus+Heal`.
+
+Other conditions: (pg. 93)
+- Disheartened.
+- Confused.
+- Angry.
+
+
+# Death Roulette
+
+When:  
+  When lost all Grit, the next failure in a Roll will force you to take a spin on the Death Roulette.
+
+
