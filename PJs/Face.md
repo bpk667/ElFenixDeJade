@@ -11,11 +11,11 @@ Eres el Face, especialista en salir de cualquier problema hablando. Aunque en pr
 ## Wanda (Un pez llamado Wanda)
 ![Wanda](./imgs/wanda.jpg)
 
-"Camaleónica" ni siquiera empieza a describirte: Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. Cuando todo acaba tu estás lejos, tienes el dinero y los memos se encuentran con un palmo de narices preguntándose que ha podido pasar.
+"Camaleónica" ni siquiera empieza a describirte: Puedes meterte en la piel de cualquier personaje, seducir a cualquiera y ser quien quieras. Cuando todo acaba tu estás lejos, tienes el dinero y los memos se encuentran con un palmo de narices preguntándose qué ha podido pasar.
 
 No tienes aprecio por los sentimientos de los demás, lo cual te ha granjeado bastantes enemigos, pero te gusta pagar tus deudas y devolver los favores. La organización no te reclutó: Te infiltraste en ella y cuando viste que te interesaba, "presentaste" tu curriculum.
 
-Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar...".
+Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar..."
 
 ## Teniente Tempelton Peck (Equipo A)
 
