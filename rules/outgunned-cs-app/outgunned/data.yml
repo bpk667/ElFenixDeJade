@@ -144,31 +144,31 @@ ROLES:
       - Silver Tongue
     GEAR:
       - 1$ item of choice or Old ride with Speed 0
-Brain:
-  ATTRIBUTES:
-    - Focus
-  SKILL_POINTS:
-    - Drive
-    - Leadership
-    - Speech
-    - Style
-    - Detect
-    - Fix
-    - Heal
-    - Know
-    - Dexterity
-    - Stealth
-  FEATS:
-    - Hacker
-    - High Culture
-    - Intuition
-    - Mastermind
-    - Outsmart
-    - Scientist
-  GEAR:
-    - Portable Computer
-    - Notebook
-    - Pencil
+  Brain:
+    ATTRIBUTES:
+      - Focus
+    SKILL_POINTS:
+      - Drive
+      - Leadership
+      - Speech
+      - Style
+      - Detect
+      - Fix
+      - Heal
+      - Know
+      - Dexterity
+      - Stealth
+    FEATS:
+      - Hacker
+      - High Culture
+      - Intuition
+      - Mastermind
+      - Outsmart
+      - Scientist
+    GEAR:
+      - Portable Computer
+      - Notebook
+      - Pencil
   Sleuth:
     ATTRIBUTES:
       - Focus

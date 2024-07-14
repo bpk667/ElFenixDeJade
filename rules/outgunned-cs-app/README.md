@@ -16,11 +16,12 @@
 Lo unico que hay que poner son las cosas opcionales o que puedan cambiar, estas son:
 
 * En Trope:
-    * El punto de atributo (a elegir entre dos)
-    * La feature a elegir
+    * El punto de atributo (a elegir entre las dos opciones)
+    * La feature a elegir de la lista
 * En Role:
-    * Las dos features a elegir de la lista
+    * Dos features a elegir de la lista
     * El gear
+    * Revisar que el atributo no coincide con el elegido en el trope
 
 ## Ejemplo:
 
