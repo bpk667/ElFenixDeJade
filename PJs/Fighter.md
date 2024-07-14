@@ -28,4 +28,5 @@ Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a m�
 
 
 ## Yor Forger (Spy x Family)
+![Yor](./imgs/yor.jpg)
 Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo.
