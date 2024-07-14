@@ -267,3 +267,49 @@ def outgunned_character_sheet_generate(character_data, character_sheet):
 
     char_generator.render()
 
+def outgunned_print_role_details(role):
+    role_data = OutgunnedData().get_role(role)
+    print("* %s" % role)
+
+    print("  - Attribute point:")
+    for att in role_data["ATTRIBUTES"]:
+        print("    + %s" % att)
+    
+    print("  - Skill points:")
+    for skill in role_data["SKILL_POINTS"]:
+        print("    + %s" % skill)
+
+    print("  - Features (Choose two from):")
+    for feat in role_data["FEATS"]:
+        print("    + %s" % feat)
+        print("      %s" % OutgunnedData().get_feat(feat).replace("\n", "\n      "))
+
+def outgunned_print_trope_details(trope):
+    trope_data = OutgunnedData().get_trope(trope)
+    print("* %s" % trope)
+
+    print("  - Catch phrase: %s" % trope_data["CATCH_PHRASE"])
+    print("  - Description: %s" % trope_data["DESCRIPTION"])
+
+    print("  - Attributes (Choose one from):")
+    for att in trope_data["ATTRIBUTES"]:
+        print("    + %s" % att)
+
+    print("  - Skill points:")
+    for skill in trope_data["SKILL_POINTS"]:
+        print("    + %s" % skill)
+
+    print("  - Features (Choose one from):")
+    for feat in trope_data["FEATS"]:
+        print("    + %s" % feat)
+        print("      %s" % OutgunnedData().get_feat(feat).replace("\n", "\n      "))
+
+
+def outgunned_print_roles():
+    for role in OutgunnedData().get_roles():
+        outgunned_print_role_details(role)
+
+
+def outgunned_print_tropes():
+    for trope in OutgunnedData().get_tropes():
+        outgunned_print_trope_details(trope)

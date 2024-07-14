@@ -23,8 +23,17 @@ Lo unico que hay que poner son las cosas opcionales o que puedan cambiar, estas 
     * El gear
     * Revisar que el atributo no coincide con el elegido en el trope
 
-## Ejemplo:
+## Ejemplos:
 
 ```bash
+# Generar la hoja de personaje de rosa diaz:
 python outgunned-cs-app.py -i samples/detective-rosa-diaz.yml -o samples/detective-rosa-diaz.md
+# Mostrar todas las tropes
+python outgunned-cs-app.py --print_tropes
+# Mostrar todos los roles
+python outgunned-cs-app.py --print_roles
+# Mostrar el trope Vigilante
+python outgunned-cs-app.py --trope=Vigilante
+# Mostrar el rol Brain
+python outgunned-cs-app.py --role=Brain
 ```
