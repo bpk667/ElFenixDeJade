@@ -1,0 +1,19 @@
+personal_data:
+  name: Teniente Templeton "Fénix" Peck
+  character_description: |
+    Lo primero que te define es que eres un jugador de equipo: Engañar y mentir es solo algo que haces para que la misión siga. Tu especialidad es conseguir cosas: si para eso tienes que ser vendedor de seguros hoy y repartidor de fedex mañana, que así sea. Has estado en el ejército y se nota, te gusta la organización y que haya una jerarquía. La organización te reclutó cuando te licenciaron del ejército por desobedecer a tus superiores.
+  role: Face
+  trope: Hot Stuff
+  job: Exsoldado
+  age: Adult
+  flaw: Soy demasiado vanidoso
+  catch_phrase: Tenemos un plan, ¿Verdad?
+attributes:
+  - Crime
+feats: 
+  - Master of Disguise
+  - Silver Tongue
+  - Heartbreaker
+gear:
+  - Pistol
+  - Fountain Pen de Graf von Faber-Castell

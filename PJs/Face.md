@@ -17,7 +17,7 @@ No tienes aprecio por los sentimientos de los demás, lo cual te ha granjeado ba
 
 Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta familiar..."
 
-## Teniente Tempelton Peck (Equipo A)
+## Teniente Tempelton "Fénix" Peck (Equipo A)
 
 ![Peck](./imgs/Original_Faceman.webp)
 

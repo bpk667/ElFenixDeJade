@@ -8,7 +8,7 @@
 * **Trope:** Cheater
 * **Job:** Supervisión de de recursos y gestión de activos
 * **Age:** Adult
-* **Flaw:** Soy demasiado vanidosa
+* **Flaw:** Soy demasiado blanda con una cara bonita.
 * **Catchphrase:** Disculpe, su cara me resulta familiar...
 
 ## Descripcion del personaje
