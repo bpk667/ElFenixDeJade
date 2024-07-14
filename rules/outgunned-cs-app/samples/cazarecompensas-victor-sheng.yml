@@ -1,0 +1,20 @@
+personal_data:
+  name: Victor Sheng
+  character_description: |
+    There are many stories about the seasoned bounty hunter Victor Sheng, but nobody knows how many of those are true. Always cheerful, he never loses his cool and always knows how to turn the situation to his advantage.
+
+  role: Sleuth
+  trope: Mentor
+  job: Bounty hunter
+  age: Adult
+  flaw: I’m too old for this job
+  catch_phrase: Leave it, it’s not worth it
+  attributes:
+    - Nerves
+  feats: 
+    - Detective
+    - Marksman
+    - Always Prepared
+  gear:
+    - Pistol
+    - Shotgun

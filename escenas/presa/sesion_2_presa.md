@@ -19,7 +19,7 @@ Infiltración y desactivar los explosivos.
 ## Plan de Taras Intercorp.  
 
 Objetivos:  
- - Volar la presa para que inunde la casa donde se encuentra la reliquia El Fénix de Jade.  
+ - Volar la presa para que inunde el palacete donde se encuentra la reliquia El Fénix de Jade.  
  - Incriminarán al grupo ecoterrorista Préstamo de Nuestros Hijos.  
   
 Tienen a un buen grupo de ex-trabajadores controlados mentalmente.  

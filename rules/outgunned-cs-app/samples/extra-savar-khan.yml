@@ -1,0 +1,19 @@
+personal_data:
+  name: Savar Khan
+  character_description: |
+    A martial artist with a dazzling smile, Savar is convinced he can get out of any situation thanks to either his charm or a well-placed fist. With him, there’s never a dull moment, nor a safe one.
+
+  role: Fighter
+  trope: Jerk with a Heart of Gold
+  job: Extra
+  age: Adult
+  flaw: I’m overconfident
+  catch_phrase: This is a piece of cake
+  attributes:
+    - Nerves
+  feats: 
+    - Martial Arts
+    - Combo
+    - Flying Kick
+  gear:
+    - Telephone

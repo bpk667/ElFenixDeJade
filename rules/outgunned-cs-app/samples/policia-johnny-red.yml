@@ -1,0 +1,24 @@
+personal_data:
+  name: Johnny Reed
+  character_description: |
+    Johnny is an unrepentant hot-head hiding behind a facade as an upstanding officer. While he is extremely focused on his duty, he often doesn't go by the book when he feels circumstances call for it.
+
+    Agent Reed is an undercover police officer tasked with retrieving the blueprints for Project Medusa. His direct superior is the only one who knows anything about his mission, and his partners are also unaware of his true identity.
+
+  role: Agent
+  trope: Last Boy Scout
+  job: Police
+  age: Adult
+  flaw: Never off the clock.
+  catch_phrase: With all due respect, to hell with the rules.
+  attributes:
+    - Nerves
+  feats: 
+    - Gunslinger
+    - Hard to Kill
+    - Selfless
+  gear:
+    - Pistol
+    - Badge
+    - Handcuffs
+    - Telephone

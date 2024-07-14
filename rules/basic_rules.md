@@ -281,4 +281,9 @@ Other conditions: (pg. 93)
 When:  
   When lost all Grit, the next failure in a Roll will force you to take a spin on the Death Roulette.
 
+# Combat
+
+## Cannon fodder
+Basic Cannon Fodder:    9 GRIT      ATK: 2 BASIC        DEF: BASIC
+Critical Cannon Fodder: 9 GRIT      ATK: CRITICAL       DEF: CRITICA
 

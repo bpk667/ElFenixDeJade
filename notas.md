@@ -31,20 +31,24 @@ Objetivos de Taras:
 2. Destruir al linaje familiar del cazavampiros que le incapacitó.
 
 
-## PIS-13 - Paranormal Intelligence Service 13.
-[TODO] *Fake name*:
+## PRIS-13 - Paranormal Research & Intelligence Service 13.
+
+**Public/Fake name**: Police Research & Intelligence Service.
 
 Rama secreta conocida por los PJs:
-- Públicamente la ornanización no existe.
+- Públicamente la organización no existe.
 - Es una agencia de espionaje filantrópica.
-- Se dedica a llevar a la justicia a gente que está por envima de la ley.
+- Se dedica a llevar a la justicia a gente que está por encima de la ley.
 
 No conocido por los PJs:
 - Investigan y dan caza a seres sobrenaturales para el bien de la humanidad.
 - Sospechan que Taras Intercorp está dirigida por seres sobrenaturales.
+- Sus decisiones pueden ser discutibles ocasionalmente.
+<<!--
+TODO: ¿Sigue siendo relevante al tratarse de una organización pública?
 - Tienen una serie de empresas / tapadera.
-- Sus decisiones pueden ser discutible ocasionalmente.
 - Fueron fundados por los supervivientes que se enfrentaron a Kuzma.
+-->
 
 
 ## Pai-lien chiao (Sociedad del Loto Blanco)  
@@ -252,38 +256,6 @@ Dossier:
 ### Casino
 
 Objetivo de los jugadores: Robar el maletín.
-
-Sesión de ruleta.
-El empresario del Loto Blanco tiene que retener a François hasta que consigan el maletín.
-
-
-Hitos:
-1. Averiguar el número de habitación.
-    1. Seducir a Alphonse (tiene una habitación comunicada).
-    2. Pick pocket a François.
-    3. Entrar a la habitación por el balcón (está abierto) o el aire acondicionado.
-    4. Forzar la puerta.
-2. Robar el maletín. 
-    - En la habitación se van a encontrar con Atsumi del Loto Blanco.
-    - Hay un gorila en la puerta.
-    - [MUY MUY PROBABLEMENTE] El gorila dará la alarma
-3. Salir del hotel.
-    - François tiene un séquito de 13 matones que reaccionarán a la alarma.
-    - Maletín:
-        - Lo tienen los Wuxia: Todos los perseguimos.
-        - Lo tienen los PJs: A huir y darles esquinazo.
-3. Huir con él hasta la base de la agencia.
-    - Coches cada 2 PJs.
-    - Si alguien está creativo puede robar una moto (las llaves están en una tabla del aparcacoches).
-    - Matones tienen 2-4 coches.
-    - Loto Blanco: 1 ó 2 coches.
-    - Eventos entre tiradas:
-        - Semáforo en rojo.
-        - La puerta del hotel se está cerrando.
-        - Un vampiro salta hasta el coche de los PJs.
-        - Disparos entre ellos.
-        - El monje se sube al evento de nuestro coche.
-    
 
 
 ### Biblioteca
