@@ -107,7 +107,7 @@ Heroes can also forgo rolling the dice to spend their turn trying to Help you fa
 - Gain a Requisite that allows you to roll the dice.
 
 
-# Adrenaline (&#26A1;)
+# Adrenaline (<big>&#x26A1;</big>)
 
 **Gain**:  
 - When you get a success against all odds
