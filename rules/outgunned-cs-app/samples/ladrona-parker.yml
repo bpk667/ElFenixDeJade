@@ -1,0 +1,22 @@
+personal_data:
+  name: Parker
+  character_description: |
+    Como Parker puedes ser una experta ladrona, capaz de llevar a cabo cualquier golpe... Y, al mismo tiempo, completamente disfuncional para la vida "normal". Toda tu vida se ha centrado en grandes robos y has dejado fuera todo lo demás, lo que te da una personalidad "única". Impulsiva, desconfiada y bastante obsesiva.
+
+    En la cárcel no tienen Netflix. Por eso, cuando el último trabajo salió mal y se acercó PRIS-13 ofreciendo una amnistía a cambio de trabajar para ellos 2 años, no tuviste que pensártelo. ¿Quién iba a decirlo? Parece que tus habilidades son compatibles con tener una nómina del gobierno.
+  role: Criminal
+  trope: Free Spirit
+  job: Ladrona
+  age: Adult
+  flaw: Soy demasiado impulsiva.
+  catch_phrase: ¿Por qué todos mirais para mí? Vale, toma.
+attributes:
+  - Brawn
+feats: 
+  - Always Prepared
+  - Lockpick
+  - Pickpocket
+gear:
+  - Pistol
+  - Lockpicking Set
+  - Handcuffs
