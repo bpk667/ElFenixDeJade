@@ -41,6 +41,7 @@ Catchphrase: "¿Por qué todos mirais para mí? Vale, toma."
 O quizás, como Carmen fuiste criada por una organización para cometer todo tipo de crímenes. Ahora, roba solo para ayudar a los demás. Tienes muchas habilidades, pero solo las usas si la causa es justa. Y siempre con un plan detrás.
 
 Después de que el último golpe contra V.I.L.E. - tu antigua organización - saliese mal, te encontraste en una situación incómoda. Tocaba retirarse una temporada para recuperar el aliento y planear los siguientes golpes.
+
 Pero tu naturaleza no te permite relajarte en un balneario, así que has decidido aprovechar que tenías una oferta de PRIS-13 sobre la mesa para unirte ellos y, ya que estás, conseguir acceso a sus bases de datos. Sabes que tienen un acceso excepcional a bases de datos fuertemente protegidas y te sentirías mal si no aprovechases la ocasión para echarle el guante.
 
 
