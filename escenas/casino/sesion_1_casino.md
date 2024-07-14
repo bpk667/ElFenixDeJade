@@ -167,7 +167,7 @@ Si se quedan más tiempo del necesario, vienen refuerzos.
 
 ### Chase. En la persecución de coches.
 
-Need: [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Need (12): &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square;
 
 PJs:                2 coches speed 1.
                     Pueden robar motos en el aparcamiento de speed 2 (las llaves están en una tabla del aparcacoches).
