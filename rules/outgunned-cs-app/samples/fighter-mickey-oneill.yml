@@ -1,0 +1,22 @@
+personal_data:
+  name: Mickey O'Neill
+  character_description: |
+    Campeón callejero de Boxeo sin guantes, te conoces al dedillo todos los tugurios de apuestas clandestinas del Reino Unido. Te has unido a la organización porque te persiguen todos los mafiosos de Londres por amañar los combates con el resto de tu familia. Los echas de menos, pero desaparecer y que te dieran por muerto era la mejor opción para todos. 
+
+    Además de ser un hacha en la lucha y sabiendo cuándo tirarte en la lona (y cuando no), tienes bastante labia y eres capaz de salir de muchas situaciones mintiendo, engañando y timando. 
+  role: Fighter
+  trope: Jerk with a Heart of Gold
+  job: Bouncer and street fighter
+  age: Adult
+  flaw: Esta vieja herida siempre está dando por culo.
+  catch_phrase: Buen golpe, ahora me toca a mí...
+attributes:
+  - Smooth
+feats: 
+  - Martial Arts
+  - Hard to Kill
+  - Silver Tongue
+gear:
+  - Puño americano (TODO. Ver qué ventajas dan)
+  - Pistol
+  - Rolex falso

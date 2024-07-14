@@ -24,7 +24,7 @@ Campeón callejero de Boxeo sin guantes, te conoces al dedillo todos los tugurio
 
 Además de ser un hacha en la lucha y sabiendo cuándo tirarte en la lona (y cuando no), tienes bastante labia y eres capaz de salir de muchas situaciones mintiendo, engañando y timando. 
 
-<!--Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..." -->
+Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..."
 
 
 ## Yor Forger (Spy x Family)
