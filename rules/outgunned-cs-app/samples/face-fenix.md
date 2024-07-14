@@ -69,5 +69,5 @@ Gain a Free Re-roll when seducing or making a good impression on others.
 ## Objetos
 
 * Pistol
-* Fountain Pen de Graf von Faber-Castell
+* Bolígrafo Fountain de Graf von Faber-Castell
 
