@@ -18,6 +18,9 @@ En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban bal
 
 El epítome de tipo duro de los ochenta. Solo podrías ser más ochentero si llevaras calentadores, un walkman y una tonelada de laca. Duro, silencioso, siempre con la frase lapidaria en la boca. Protector con su familia, leal a su país o su organización y dado a la violencia calculada. ¿Para qué vas a conseguir las cosas hablando si se pueden arreglar de dos hostias?.
 
+Tras darte cuenta de que la organización a la que dedicaste tu vida estaba dirigida por corruptos y chupatintas, te fuiste sin mirar atrás. Desengañado, pasaste un tiempo vagando por Madripur e Indonesia.
+
+Lo malo de ser un soldado honrado es que no haces mucho dinero, así que tuviste que volver a activo. PRIS-13 es una de los grupos con las que colaboraste en el pasado y te parecían decentes, quizá un poco más secretista de lo que te gustaría, pero al menos parece que mantienen el hocico limpio.
 
 
 ## Alice Abernathy (Resident Evil)
