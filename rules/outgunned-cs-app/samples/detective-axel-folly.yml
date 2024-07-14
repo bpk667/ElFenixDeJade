@@ -1,0 +1,23 @@
+personal_data:
+  name: Detective Axel Folly
+  character_description: |
+    Te criaste en un barrio malo de Detroit y acabaste llegando a Policía. Lo hiciste con la intención de proteger tu comunidad y, en la medida de lo posible lo estás haciendo. El problema de ser poli en Detroit es que no hay dinero y hay que buscar soluciones imaginativas a las cosas. Afortunadamente, tu tienes ese don además de una sonrisa impertérrita y la capacidad de tomartelo todo a cachondeo.
+
+    Todavía no tienes muy claro por qué te reclutó la organización ni si encajas del todo aquí, pero está claro que alguien tiene que ayudar a este grupo de estirados a relajarse un poco mientras hacen su trabajo.
+  role: Agent
+  trope: Free Spirit
+  job: Detective
+  age: Young
+  flaw: Problemas con la autoridad
+  catch_phrase: No se preocupe no estoy de servicio. Estoy de vacaciones.
+attributes:
+  - Crime
+feats: 
+  - Parkour
+  - Gunslinger
+  - Get Down!
+gear:
+  - Pistol
+  - Handcuffs
+  - Badge
+  - Telephone

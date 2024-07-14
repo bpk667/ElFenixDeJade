@@ -1,0 +1,22 @@
+personal_data:
+  name: Dra. Temperance "Bones" Brennan
+  character_description: |
+    Eres muy buena en tu trabajo y estás especializada en múltiples campos científicos y académicos (la Dra. Brennan es experta en Arqueología y Medicina, pero tu puedes serlo en otra cosa). A veces te clasifican de brusca, pero la verdad es que lo que pasa es que no te gusta demasiado la gente. Otros te califican directamente de arrogante, pero... ¿Que sabrán ellos? Cuando tengan 3 doctorados y dos becas Mc Arthur que te hablen.
+
+    Obviamente, la organización se acercó a reclutarte por tu trabajo. Y bien que hiceron, por que el que llevaba todo antes que tú era un incompetente. ¡Apenas tenía un doctorado!
+  role: Brain
+  trope: Neurotic Geek
+  job: Forense
+  age: Young
+  flaw: Inadaptada social
+  catch_phrase: He abierto cerebros de Homo Erectus más avanzados que el suyo.
+attributes:
+  - Crime
+feats: 
+  - Scientist
+  - Outsmart
+  - Intuition
+gear:
+  - Portable Computer
+  - Notebook
+  - Pencil
