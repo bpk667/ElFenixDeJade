@@ -118,9 +118,10 @@ Heroes can also forgo rolling the dice to spend their turn trying to Help you fa
 Automatically gain 2 Adrenaline when they fill in the Hot Box on their Grit track.
 
 **Spend**:  
-- 1 Adrenaline (&#26A1;) to gain +1 to an Action or Reaction Roll.
-- 1 Adrenaline (&#26A1;) to activate the special ability of some Feats.
-- 6 Adrenaline (&#26A1; &#26A1; &#26A1; &#26A1; &#26A1; &#26A1;) to immediately gain a Spotlight.
+- 1 Adrenaline (<big>&#x26A1;</big>) to gain +1 to an Action or Reaction Roll.
+- 1 Adrenaline (<big>&#x26A1;</big>) to activate the special ability of some Feats.
+
+- 6 Adrenaline ( <big> &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; </big>) to immediately gain a Spotlight.
 
 
 # Spotlight
