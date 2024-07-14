@@ -6,7 +6,7 @@ Eres el Commando, un soldado curtido en mil batallas. La persona dura, experta e
 
 ...Quieres un personaje que sea directo.
 ...Te gustan las armas grandes.
-...Te gustan las pelis las pelis de Acción con muchos tiros.
+...Te gustan las pelis de Acción con muchos tiros.
 
 # Puedes ser cómo...
 En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban balas como el que tira caramelos en la cabalgata de reyes. Solo piensa un poco, escoge algunos de tus favoritos y piensa en qué te gustaba de ellos. Toma lo que más me guste y construye tu personalidad en consecuencia. Aquí te dejamos algunos ejemplos para que te sea más sencillo.
@@ -27,6 +27,8 @@ Lo malo de ser un soldado honrado es que no haces mucho dinero, así que tuviste
 
 ![Alice](./imgs/1200px-Resident_Evil_Afterlife.jpg)
 
-Superviviente nata, nada puede contigo: ni corporaciones malignas, ni virus asesinos, ni paramilitares armados. Usas la violencia cuando hay motivos serios para ello (casualmente pareces atraer a los motivos serios, pero eso es una cuestión para otro día). Eso no quiere decir que no puedas estar en familia, pero tiendes a distanciarte de la gente. Los amigos de hoy pueden llegar a ser los objetivos del mañana, así que ¿Por qué molestarse?.
+Superviviente nata, nada puede contigo: ni corporaciones malignas, ni virus asesinos, ni paramilitares armados. Usas la violencia cuando hay motivos serios para ello (casualmente pareces atraer a los motivos serios, pero eso es una cuestión para otro día). Eso no quiere decir que no puedas estar en familia, pero tiendes a distanciarte de la gente. Los amigos de hoy pueden llegar a ser los objetivos del mañana, así que ¿Por qué molestarse?
 
-<!--Catchphrase: "Si es que siempre me toca a mí sacar la basura" -->
+PRIS-13 lleva un tiempo en tu radar así que, cuando intentaron reclutarte, no te resististe demasiado. Nadie está tan limpio como ellos afirman que están. No has encontrado nada sospecho (de momento), pero algo no te cuadra. Así que vas a mantener los ojos abiertos y, si se da la ocasión, mirar debajo de la alfombra.
+
+Catchphrase: "Matarte no arreglará las cosas, pero es un comienzo."

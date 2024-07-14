@@ -1,0 +1,21 @@
+personal_data:
+  name: Alice Abernathy
+  character_description: |
+    Superviviente nata, nada puede contigo: ni corporaciones malignas, ni virus asesinos, ni paramilitares armados. Usas la violencia cuando hay motivos serios para ello (casualmente pareces atraer a los motivos serios, pero eso es una cuestión para otro día). Eso no quiere decir que no puedas estar en familia, pero tiendes a distanciarte de la gente. Los amigos de hoy pueden llegar a ser los objetivos del mañana, así que ¿Por qué molestarse?
+
+    PRIS-13 lleva un tiempo en tu radar así que, cuando intentaron reclutarte, no te resististe demasiado. Nadie está tan limpio como ellos afirman que están. No has encontrado nada sospecho (de momento), pero algo no te cuadra. Así que vas a mantener los ojos abiertos y, si se da la ocasión, mirar debajo de la alfombra.
+  role: Comando
+  trope: Diehard
+  job: Soldier
+  age: Adult
+  flaw: No confío en nadie.
+  catch_phrase: Matarte no arreglará las cosas, pero es un comienzo.
+attributes:
+  - Nerves
+feats: 
+  - Hard to Kill
+  - Hunter
+  - Martial Arts 
+gear:
+  - Gun
+  - Gun
