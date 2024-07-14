@@ -145,7 +145,39 @@ Si el PJ no quiere participar, Jimmy amenazará con decirle al casino quién es 
 Si uno de los PJs o uno de El Loto Blanco se enfrenta con el gorila, cuando éste reciba algún tipo de daño:  
 1. Se levanta como si nada.  
 2. Le salen dos grandes colmillos mientras sonríe.  
-3. Y dice algo del tipo: "__Vas a tener que hacerlo mejor__".  
+3. Y dice algo del tipo: "__Vas a tener que hacerlo mejor__".
+
+4. En el momento que esté tocado o alguien salga corriendo con el maletín, se toca la oreja y dice:  
+> "__Atención, tenemos intrusos en la suite. Mujer asiática X, PJs X. Tienen el portátil de Mr. Dijon, repito, tienen el portátil de Mr. Dijon."
+
+
+### Si el maletín lo tiene Atsumi (la ladrona).
+
+Atsumi sale corriendo al balcón (planta 7).  
+Si los personajes son rápidos rápido (`éxito básico de Nerves + awareness`, llegan a tiempo de:  
+    - Verla correr dos plantas más abajo corriendo sobre las barandillas ente balcones como si fuese terreno plano.  
+    - Al acercarse a la esquina salta hacia lo que parece el vacío. 4 segundos después la ven corriendo hacia la entrada del casino.  
+        **Nota GM**: Ella no tiene las llaves del coche y así avisa a su equipo y le da tiempo a los PJs a bajar.  
+    - Cuando los PJs estén llegando a la entrada, verán al Loto Blanco arrancando a toda leche en su coche.
+
+El gorila se toca la oreja y dice:  
+> "__Atención, tenemos intrusos en la suite. Mujer asiática X, PJs X. Tienen el portátil de Mr. Dijon, repito, tienen el portátil de Mr. Dijon."
+
+
+### Si el maletín lo tienen los PJs.
+
+Todo el mundo intentará atacarles.  
+TODO: Fichas de Atsumi y el gorila.
+
+**Si intentan enfrentarse a los dos:**  
+En X turnos se unirá la guardia del hotel a la fiesta.  
+Pelea de Basic Cannon Fodder.  
+    Basic Cannon Fodder:    9 GRIT      ATK: 2 BASIC        DEF: BASIC  
+
+**Si intentar huir por las escaleras:**  
+Si son rápidos - `dificultad crítica en Crime + random (depende de cómo lo roleen)` - llegan a los coches sin enfrentamientos.
+
+Si fallan, un par de matones (goon) de Taras Intercorp intentarán detenerles al llegar a la planta baja.
 
 
 ### En la persecución/huida dentro del hotel.  
@@ -156,6 +188,7 @@ No se van a quitar. Pueden intentar empujarlas (`éxito básico en brawn + force
 
 ### Si los PJs deciden quedarse en el hotel.  
 
+En X turnos se unirán más matones de Taras Intercorp.
 Pelea de Basic Cannon Fodder.  
     Basic Cannon Fodder:    9 GRIT      ATK: 2 BASIC        DEF: BASIC  
 
@@ -172,7 +205,7 @@ Need (12): &square; &square; &square; &square; &square; &square; &square; &squar
 PJs:                2 coches speed 1.  
                     Pueden robar motos en el aparcamiento de speed 2 (las llaves están en una tabla del aparcacoches).  
 Matones de Taras:   3 coches de speed 1.  
-Loto Blanco:        2 coches speed 1.  
+Loto Blanco:        1 coches speed 1.  
 
 Cada grupo comparte una sola need y speed.  
 
