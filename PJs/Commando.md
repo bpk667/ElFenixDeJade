@@ -14,7 +14,7 @@ En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban bal
 
 ## Jonh Matrix (Commando)
 
-
+![Matrix](./imgs/John-Matrix-Commando-Schwarzenneger.webp)
 
 El epítome de tipo duro de los ochenta. Solo podrías ser más ochentero si llevaras calentadores, un walkman y una tonelada de laca. Duro, silencioso, siempre con la frase lapidaria en la boca. Protector con su familia, leal a su país o su organización y dado a la violencia calculada. ¿Para qué vas a conseguir las cosas hablando si se pueden arreglar de dos hostias?.
 
