@@ -11,14 +11,14 @@ personal_data:
   age: Adult
   flaw: Never off the clock.
   catch_phrase: With all due respect, to hell with the rules.
-  attributes:
-    - Nerves
-  feats: 
-    - Gunslinger
-    - Hard to Kill
-    - Selfless
-  gear:
-    - Pistol
-    - Badge
-    - Handcuffs
-    - Telephone
+attributes:
+  - Nerves
+feats: 
+  - Gunslinger
+  - Hard to Kill
+  - Selfless
+gear:
+  - Pistol
+  - Badge
+  - Handcuffs
+  - Telephone

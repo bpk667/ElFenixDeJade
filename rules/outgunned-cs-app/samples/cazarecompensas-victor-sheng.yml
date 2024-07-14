@@ -9,12 +9,12 @@ personal_data:
   age: Adult
   flaw: I’m too old for this job
   catch_phrase: Leave it, it’s not worth it
-  attributes:
-    - Nerves
-  feats: 
-    - Detective
-    - Marksman
-    - Always Prepared
-  gear:
-    - Pistol
-    - Shotgun
+attributes:
+  - Nerves
+feats: 
+  - Detective
+  - Marksman
+  - Always Prepared
+gear:
+  - Pistol
+  - Shotgun

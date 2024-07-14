@@ -9,11 +9,11 @@ personal_data:
   age: Adult
   flaw: I’m overconfident
   catch_phrase: This is a piece of cake
-  attributes:
-    - Nerves
-  feats: 
-    - Martial Arts
-    - Combo
-    - Flying Kick
-  gear:
-    - Telephone
+attributes:
+  - Nerves
+feats: 
+  - Martial Arts
+  - Combo
+  - Flying Kick
+gear:
+  - Telephone

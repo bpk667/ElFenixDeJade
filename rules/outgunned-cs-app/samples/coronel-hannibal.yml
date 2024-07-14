@@ -1,0 +1,22 @@
+personal_data:
+  name: El Coronel John "Hannibal" Smith
+  character_description: |
+    Todo el mundo tiene una especialidad, la tuya es planificar. La mayoría de las personas no saben planificar: Hacen planes demasiado rígidos, que se rompen al contacto con el enemigo. Tu no. Tu sabes que un plan tiene que fluir como un río, tener espacio para moverse y respirar. Tiene que tener incertidumbres o no saldrá bien.
+
+    La organización te reclutó después de que te licenciaran con deshonor de tu puesto en el ejército tras muchos años de servicio. Desde aquella, usas tu cerebro y tu socarrona sonrisa por el bien del mundo.
+  role: Brain
+  trope: Good Samaritan
+  job: Forense
+  age: Adult
+  flaw: Perseguido por la justicia
+  catch_phrase: Me encanta que los planes salgan bien
+attributes:
+  - Smooth
+feats: 
+  - Selfless
+  - Mastermind
+  - Intuition
+gear:
+  - Portable Computer
+  - Notebook
+  - Pencil
