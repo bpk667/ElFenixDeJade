@@ -1,6 +1,12 @@
-# PJs.  
+# PNJs.  
 
 ## Grupo Taras Intercorp en el casino.  
+
+<details>
+
+<summary>Grupo Taras Intercorp en el casino</summary>
+
+
 
 *François Dijon*.  
 Dossier:  
@@ -27,7 +33,15 @@ Fuma mucho y es muy chapas.
 Todos los aparcacoches le evitan como la peste.  
 Como nadie le hace ni puto caso, está deseando que alguien le escuche para darse importancia de que su jefe está _forrao_ y que es uno de los que "realmente tienen poder, no como los gilipollas esos que salen en la tele."  
 
+</details>
+
+
 ## Pai-lien chiao (Sociedad del Loto Blanco)  
+
+<details>
+
+<summary>Pai-lien chiao (Sociedad del Loto Blanco)</summary>
+
 
 *Huang Su*. Monje Shaolin.  
 Es el jefe y líder espiritual de El Loto Blanco.  
@@ -49,12 +63,17 @@ Cuando era niña El Loto Blanco la rescató de las calles y la crió en el monas
 Está infiltrada en el servicio del hotel. ¿Crupier o camarera?  
 Experta en trucos de ladrona/ratera. Mezcla entre ladrona y monje Shaolin.  
 
+</details>
+
+
 # Objetivos:  
 
 1. Conseguir el portátil de François Dijon.  
 2. Averiguar información sobre Taras Intercorp.  
 
+
 ## Información que pueden conseguir.  
+
 De François:  
 - Taras es oficialmente una empresa de capital inversión ucraniana.  
 - Si se lo curran, François puede llegar a decirles que, aunque nunca vaya a salir en la portada de la revista PEI 300, el dueño y CEO de la empresa es **Helmut Neumeyer**.  
@@ -200,6 +219,10 @@ Si se quedan más tiempo del necesario, vienen refuerzos.
 
 ### Chase. En la persecución de coches.  
 
+<details>
+
+<summary>Chase</summary>
+
 Need (12): &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square;  
 
 PJs:                2 coches speed 1.  
@@ -261,3 +284,4 @@ Entre tiradas:
 - Disparos entre ellos.  
 - El monje se sube al techo del coche de los PJs.  
 
+</details>
