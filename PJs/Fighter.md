@@ -14,7 +14,7 @@ Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes qu
 
 Un tipo duro con un corazón de oro. Has visto todos los conflictos del mundo, has estado en casi todos ellos y los odias con toda tu alma. Te has unido a la organización sólo por que por una vez te da la oportunidad de proteger a los más débiles. Aunque tu especialidad son los puños, prefieres no pelear y resolver las peleas con tu carisma. Tú no empiezas las peleas, pero siempre las terminas.
 
-Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas".
+<!--Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas".-->
 
 ## Mickey O'Neill (Snatch: Cerdos y Diamantes)
 
@@ -24,9 +24,12 @@ Campeón callejero de Boxeo sin guantes, te conoces al dedillo todos los tugurio
 
 Además de ser un hacha en la lucha y sabiendo cuándo tirarte en la lona (y cuando no), tienes bastante labia y eres capaz de salir de muchas situaciones mintiendo, engañando y timando. 
 
-Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..."
+<!--Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..." -->
 
 
 ## Yor Forger (Spy x Family)
 ![Yor](./imgs/yor.jpg)
-Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo.
+
+Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo. Quizás incluso tienes dos identidades: una "normal" y tu "alternativa" como defensora de la justicia.
+
+Yor te da una idea de otro motivo por el que pudiste ser reclutado por la agencia: quizás la agencia te adoptó cuando murieron tus padres y te crió para convertirte en una luchadora experta capaz de lidiar con cualquier "problema".
