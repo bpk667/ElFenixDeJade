@@ -1,0 +1,19 @@
+personal_data:
+  name: Elliot Spencer
+  character_description: |
+    Un tipo duro con un corazón de oro. Has visto todos los conflictos del mundo, has estado en casi todos ellos y los odias con toda tu alma. Te has unido a la organización sólo por que por una vez te da la oportunidad de proteger a los más débiles. Aunque tu especialidad son los puños, prefieres no pelear y resolver las peleas con tu carisma. Tú no empiezas las peleas, pero siempre las terminas.
+  role: Fighter
+  trope: Good Samaritan
+  job: Exsoldado
+  age: Adult
+  flaw: No creo en mí mismo. 
+  catch_phrase: No me gustan las pistolas.
+attributes:
+  - Smooth
+feats: 
+  - Martial Arts
+  - Flying Kick
+  - Get Down!
+gear:
+  - Tarjeta caducada del videoclub (sí, del videoclub).
+  - Guantes de cuero recortados.

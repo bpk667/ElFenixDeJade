@@ -14,7 +14,7 @@ Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes qu
 
 Un tipo duro con un corazón de oro. Has visto todos los conflictos del mundo, has estado en casi todos ellos y los odias con toda tu alma. Te has unido a la organización sólo por que por una vez te da la oportunidad de proteger a los más débiles. Aunque tu especialidad son los puños, prefieres no pelear y resolver las peleas con tu carisma. Tú no empiezas las peleas, pero siempre las terminas.
 
-<!--Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas".-->
+Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas."
 
 ## Mickey O'Neill (Snatch: Cerdos y Diamantes)
 
