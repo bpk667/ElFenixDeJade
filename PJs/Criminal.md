@@ -37,5 +37,10 @@ Catchphrase: "¿Por qué todos mirais para mí? Vale, toma."
 
 ## Carmen Sandiego (Carmen Sandiego)
 
-![Lupin](./imgs/sandiego.jpg)
+![Sandiego](./imgs/sandiego.jpg)
 O quizás, como Carmen fuiste criada por una organización para cometer todo tipo de crímenes. Ahora, roba solo para ayudar a los demás. Tienes muchas habilidades, pero solo las usas si la causa es justa. Y siempre con un plan detrás.
+
+Después del último golpe contra V.I.L.E., tu antigua organización, saliese mal; te encontraste en una situación incómoda. Tocaba retirarse una temporada para
+recuperar el aliento y planear los siguientes golpes. Pero tu naturaleza no te permite hacerlo en un balneario, así que has decidido aprovechar el impás para unirte
+a PRIS-13 y conseguir acceso a sus bases de datos. Sabes que tienen accesos únicos a bases de datos fuertemente protegidas y te sentirías mal si no aprovechases la
+ocasión para echarle el guante.

@@ -1,0 +1,24 @@
+personal_data:
+  name: Carmen Santiego
+  character_description: |
+    Fuiste criada por una organización para cometer todo tipo de crímenes. Ahora, roba solo para ayudar a los demás. Tienes muchas habilidades, pero solo las usas si la causa es justa. Y siempre con un plan detrás.
+
+    Después de que el último golpe contra V.I.L.E. - tu antigua organización - saliese mal, te encontraste en una situación incómoda. Tocaba retirarse una temporada para recuperar el aliento y planear los siguientes golpes.
+
+    Pero tu naturaleza no te permite relajarte en un balneario, así que has decidido aprovechar que tenías una oferta de PRIS-13 sobre la mesa para unirte ellos y, ya que estás, conseguir acceso a sus bases de datos. Sabes que tienen un acceso excepcional a bases de datos fuertemente protegidas y te sentirías mal si no aprovechases la ocasión para echarle el guante.
+  role: Criminal
+  trope: Vigilante
+  job: Ladrona
+  age: Adult
+  flaw: Ashamed and haunted by my past.
+  catch_phrase: In and out. It’s a piece of cake
+attributes:
+  - Focus
+feats: 
+  - Always Prepared
+  - Lockpick
+  - Shadow
+gear:
+  - Pistol
+  - Lockpicking Set
+  - Handcuffs
