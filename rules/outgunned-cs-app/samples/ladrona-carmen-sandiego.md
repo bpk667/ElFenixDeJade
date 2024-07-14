@@ -8,8 +8,8 @@
 * **Trope:** Vigilante
 * **Job:** Ladrona
 * **Age:** Adult
-* **Flaw:** Ashamed and haunted by my past.
-* **Catchphrase:** In and out. It’s a piece of cake
+* **Flaw:** Avergonzada y perseguida por su pasado.
+* **Catchphrase:** Entrar y salir. Es pan comido.
 
 ## Descripcion del personaje
 
