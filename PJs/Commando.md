@@ -14,14 +14,14 @@ En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban bal
 
 ## Jonh Matrix (Commando)
 
-![Matrix](./imgs/John-Matrix-Commando-Schwarzenegger-a.webp)
+![Matrix](./imgs/John-Matrix-Commando-Schwarzenegger-a.jpg)
 El epítome de tipo duro de los ochenta. Solo podrías ser más ochentero si llevaras calentadores, un walkman y una tonelada de laca. Duro, silencioso, siempre con la frase lapidaria en la boca. Protector con su familia, leal a su país o su organización y dado a la violencia calculada. ¿Para qué vas a conseguir las cosas hablando si se pueden arreglar de dos hostias?.
 
 
 
 ## Alice Abernathy (Resident Evil)
 
-![Matrix](./imgs/1200px-Resident_Evil_Afterlife.jpg.webp)
+![Alice](./imgs/1200px-Resident_Evil_Afterlife.jpg.)
 
 Superviviente nata, nada puede contigo: ni corporaciones malignas, ni virus asesinos, ni paramilitares armados. Usas la violencia cuando hay motivos serios para ello (casualmente pareces atraer a los motivos serios, pero eso es una cuestión para otro día). Eso no quiere decir que no puedas estar en familia, pero tiendes a distanciarte de la gente. Los amigos de hoy pueden llegar a ser los objetivos del mañana, así que ¿Por qué molestarse?.
 
