@@ -6,7 +6,8 @@ Eres el fighter, especialista en cuerpo a cuerpo. Aunque haces más cosas, las p
 - ...Prefieres los puños y la velocidad a las armas de fuego.
 - ...Te molan las pelis de Artes Marciales.
 
-# Puedes ser cómo
+# Puedes ser cómo...
+Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes que pillar los rasgos que te gustan de cada uno y hacerlos tuyos. Aquí te damos algunos ejemplos de luchadores de ficción "famosos" para te den ideas:
 
 ## Elliot Spencer (Las reglas del Juego)
 ![Elliot](./imgs/Christian.Kane.webp)
@@ -25,3 +26,6 @@ Además de ser un hacha en la lucha y sabiendo cuándo tirarte en la lona (y cua
 
 Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a mí..."
 
+
+## Yor Forger (Spy x Family)
+Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo.
