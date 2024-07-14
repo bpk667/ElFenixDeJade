@@ -12,7 +12,7 @@ Hay muchos ejemplos de cerebros en las pelis y series de acción: Desde el exper
 
 ## La Dra. Temperance "Bones" Brennan
 
-![Brennan](./imgs/Christian.Kane.webp)
+![Brennan](./imgs/brennan.jpg)
 
 Eres muy buena en tu trabajo y estás especializada en múltiples campos científicos y académicos (la Dra. Brennan es experta en Arqueología y Medicina, pero tu puedes serlo en otra cosa). A veces te clasifican de brusca, pero la verdad es que lo que pasa es que no te gusta demasiado la gente. Otros te califican directamente de arrogante, pero... ¿Que sabrán ellos? Cuando tengan 3 doctorados y dos becas Mc Arthur que te hablen.
 
@@ -22,6 +22,9 @@ Si quieres ideas de cómo acabaste en la organización, te damos una: la organiz
 
 
 ## El Coronel John "Hannibal" Smith
+
+![Brennan](./imgs/smith.jpg)
+
 Todo el mundo tiene una especialidad, la tuya es planificar. La mayoría de las personas no saben planificar: Hacen planes demasiado rígidos, que se rompen al contacto con el enemigo. Tu no. Tu sabes que un plan tiene que fluir como un río, tener espacio para moverse y respirar. Tiene que tener incertidumbres o no saldrá bien.
 
 Aquí tienes un ejemplo de cómo pudiste acabar en la organización: La organización te reclutó después de que te licenciaran con deshonor de tu puesto en el ejército tras muchos años de servicio. Desde aquella, usas tu cerebro y tu socarrona sonrisa por el bien del mundo.
