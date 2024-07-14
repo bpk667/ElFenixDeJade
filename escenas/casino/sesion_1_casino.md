@@ -74,6 +74,10 @@ Experta en trucos de ladrona/ratera. Mezcla entre ladrona y monje Shaolin.
 
 ## Información que pueden conseguir.  
 
+<details>
+
+<summary>Información</summary>
+
 De François:  
 - Taras es oficialmente una empresa de capital inversión ucraniana.  
 - Si se lo curran, François puede llegar a decirles que, aunque nunca vaya a salir en la portada de la revista PEI 300, el dueño y CEO de la empresa es **Helmut Neumeyer**.  
@@ -102,6 +106,7 @@ En el portátil:
     - Planos de la **Presa Möhne** en Alemania.  
     - Planos del Palacio de Arnsberg y alrededores.  
 
+</details>
 
 ## Plan de Pai-lien chiao.  
 
@@ -145,7 +150,11 @@ Hitos:
 
 ## Escenas adicionales.  
 
-### En la sección de juego del casino.  
+### En el casino.  
+
+<details>
+
+<summary>Jimmy El Tiburón</summary>
 
 **Jimmy El Tiburón.**  
 Reconoce a X (TODO: Decidir PJ). Han colaborado en un par de trabajos en el pasado.  
@@ -158,8 +167,15 @@ Reconoce a X (TODO: Decidir PJ). Han colaborado en un par de trabajos en el pasa
 
 Si el PJ no quiere participar, Jimmy amenazará con decirle al casino quién es y que está buscado en múltiples casinos.  
 
+</details>
 
-### En el enfrentamiento con el gorila que vigila la suite.  
+### En el hotel.
+
+<details>
+
+<summary>En el hotel.</summary>
+
+#### En el enfrentamiento con el gorila que vigila la suite.  
 
 Si uno de los PJs o uno de El Loto Blanco se enfrenta con el gorila, cuando éste reciba algún tipo de daño:  
 1. Se levanta como si nada.  
@@ -170,7 +186,7 @@ Si uno de los PJs o uno de El Loto Blanco se enfrenta con el gorila, cuando ést
 > "__Atención, tenemos intrusos en la suite. Mujer asiática X, PJs X. Tienen el portátil de Mr. Dijon, repito, tienen el portátil de Mr. Dijon."
 
 
-### Si el maletín lo tiene Atsumi (la ladrona).
+#### Si el maletín lo tiene Atsumi (la ladrona).
 
 Atsumi sale corriendo al balcón (planta 7).  
 Si los personajes son rápidos rápido (`éxito básico de Nerves + awareness`, llegan a tiempo de:  
@@ -183,7 +199,7 @@ El gorila se toca la oreja y dice:
 > "__Atención, tenemos intrusos en la suite. Mujer asiática X, PJs X. Tienen el portátil de Mr. Dijon, repito, tienen el portátil de Mr. Dijon."
 
 
-### Si el maletín lo tienen los PJs.
+#### Si el maletín lo tienen los PJs.
 
 Todo el mundo intentará atacarles.  
 TODO: Fichas de Atsumi y el gorila.
@@ -199,13 +215,13 @@ Si son rápidos - `dificultad crítica en Crime + random (depende de cómo lo ro
 Si fallan, un par de matones (goon) de Taras Intercorp intentarán detenerles al llegar a la planta baja.
 
 
-### En la persecución/huida dentro del hotel.  
+#### En la persecución/huida dentro del hotel.  
 
 Hay dos señoras gordas bloqueando el paso al final del pasillo.  
 No se van a quitar. Pueden intentar empujarlas (`éxito básico en brawn + force`) o pasar entre ellas (`éxito básico en brawn+stunt`).  
 
 
-### Si los PJs deciden quedarse en el hotel.  
+#### Si los PJs deciden quedarse en el hotel.  
 
 En X turnos se unirán más matones de Taras Intercorp.
 Pelea de Basic Cannon Fodder.  
@@ -216,8 +232,10 @@ A mitad de combate, uno de los matones llama refuerzos.
 Si se quedan más tiempo del necesario, vienen refuerzos.  
     Critical Cannon Fodder: 9 GRIT      ATK: CRITICAL       DEF: CRITICA  
 
+</details>
 
-### Chase. En la persecución de coches.  
+
+### Chase. Persecución de coches.  
 
 <details>
 
