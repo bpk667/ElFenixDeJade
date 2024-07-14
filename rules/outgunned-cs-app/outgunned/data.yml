@@ -2,7 +2,7 @@ ROLES:
   Comando:
     ATTRIBUTES:
       - Brawn
-    SKILLS:
+    SKILL_POINTS:
       - Endure
       - Fight
       - Force
@@ -27,7 +27,7 @@ ROLES:
   Fighter:
     ATTRIBUTES:
       - Brawn
-    SKILLS:
+    SKILL_POINTS:
       - Endure
       - Fight
       - Force
@@ -50,7 +50,7 @@ ROLES:
   Ace:
     ATTRIBUTES:
       - Nerves
-    SKILLS:
+    SKILL_POINTS:
       - Stunt
       - Cool
       - Drive
@@ -74,7 +74,7 @@ ROLES:
   Agent:
     ATTRIBUTES:
       - Nerves
-    SKILLS:
+    SKILL_POINTS:
       - Endure
       - Fight
       - Stunt
@@ -100,7 +100,7 @@ ROLES:
   Face:
     ATTRIBUTES:
       - Smooth
-    SKILLS:
+    SKILL_POINTS:
       - Flirt
       - Leadership
       - Speech
@@ -124,7 +124,7 @@ ROLES:
   Nobody:
     ATTRIBUTES:
       - Smooth
-    SKILLS:
+    SKILL_POINTS:
       - Fight
       - Shoot
       - Survival
@@ -147,7 +147,7 @@ ROLES:
 Brain:
   ATTRIBUTES:
     - Focus
-  SKILLS:
+  SKILL_POINTS:
     - Drive
     - Leadership
     - Speech
@@ -172,7 +172,7 @@ Brain:
   Sleuth:
     ATTRIBUTES:
       - Focus
-    SKILLS:
+    SKILL_POINTS:
       - Endure
       - Stunt
       - Cool
@@ -196,7 +196,7 @@ Brain:
   Criminal:
     ATTRIBUTES:
       - Crime
-    SKILLS:
+    SKILL_POINTS:
       - Force
       - Stunt
       - Drive
@@ -220,7 +220,7 @@ Brain:
   Spy:
     ATTRIBUTES:
       - Crime
-    SKILLS:
+    SKILL_POINTS:
       - Endure
       - Fight
       - Stunt

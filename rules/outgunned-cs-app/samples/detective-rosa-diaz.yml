@@ -10,14 +10,14 @@ personal_data:
   age: Young
   flaw: Es demasiado ruda y le cuesta pasar desapercivida
   catch_phrase: Los planes son planes. Soy dura, no un anarquista.
-  attributes:
-    - Brawn
-  feats: 
-    - Intimidation
-    - Gunslinger
-    - Hard to Kill
-  gear:
-    - Pistol
-    - Handcuffs
-    - Badge
-    - Telephone
+attributes:
+  - Brawn
+feats: 
+  - Intimidation
+  - Gunslinger
+  - Hard to Kill
+gear:
+  - Pistol
+  - Handcuffs
+  - Badge
+  - Telephone

@@ -15,7 +15,7 @@
 
 <CHARACTER_DESCRIPTION>
 
-## <TROPE>
+## TROPE: <TROPE>
 
 **Nota: No es necesario apuntar en la hoja de personaje**
 
@@ -28,3 +28,7 @@
 ## Habilidades
 
 <FEATURES>
+
+## Objetos
+
+<GEAR>
