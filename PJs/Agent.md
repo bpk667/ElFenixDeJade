@@ -11,6 +11,8 @@ Eres el Agent, una persona que trabaja algún tipo de agencia gubernamental: FBI
 - ...Te molan las pelis policiacas.
 
 ## Puedes ser cómo...
+Afortunadamente, hay muchísimos ejemplos de policías o agentes del gobierno a lo largo de las películas o series. Toma cosas de todos los que te gusten y hazte tu propia personalidad. Aquí te damos algunos ejemplos para que te inspires:
+
 
 ### Detective Rosa Díaz (Brooklyn 99)
 Eres una detective dura, criada en las calles. No aguantas gilipolleces y estás aquí para hacer tu trabajo, no para hacer amigos. Respetas a los ciudadanos pero ahi de cualquier delincuente que se cruce en tu camino. Aún así, entiendes que hay una organización y una jerarquía y la cumples (a tu manera).
@@ -25,6 +27,10 @@ Te criaste en un barrio malo de Detroit y acabaste llegando a Policía. Lo hicis
 Todavía no tienes muy claro por qué te reclutó la organización ni si encajas del todo aquí, pero está claro que alguien tiene que ayudar a este grupo de estirados a relajarse un poco mientras hacen su trabajo.
 
 Si decides ser como Axel, tu catchphrase será: *No se preocupe no estoy de servicio. Estoy de vacaciones. (guiño)*
+
+### Yuri Briar (Spy x Family)
+
+Yuri no trabaja como agente de policía... Trabaja para el servicio secreto, encontrando y destapando a espías enemigos en su país. Es incansable y tiene una fortaleza mental y física extremas. Se crió como huérfano y su hermana se desvivía porque Yuri sobreviviera, lo que hace que tenga una lealtad a su familia inquebrantable (y también a su país). Claro que todo esto no lo hizo la persona más sociable del mundo: a veces es demasiado agresivo y pierde la paciencia demasiado rápido.
 
 
 <!---
