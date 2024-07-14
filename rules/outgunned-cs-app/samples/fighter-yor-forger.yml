@@ -1,0 +1,21 @@
+personal_data:
+  name: Yor Forger
+  character_description: |
+    Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo. Quizás incluso tienes dos identidades: una "normal" y tu "alternativa" como defensora de la justicia.
+
+    Yor te da una idea de otro motivo por el que pudiste ser reclutado por la agencia: quizás la agencia te adoptó cuando murieron tus padres y te crió para convertirte en una luchadora experta capaz de lidiar con cualquier "problema".
+  role: Fighter
+  trope: Lone Wolf
+  job: Espía
+  age: Adult
+  flaw: No creo en mí misma.
+  catch_phrase: Oh... Esto me recuerda cuando mi hermano pequeño todavía era pequeño y adorable.
+attributes:
+  - Fighter
+feats: 
+  - Martial Arts
+  - Hard to Kill
+  - Head on a Swivel
+gear:
+  - 2 Knifes (TODO ver cómo van las reglas)
+  - Pistol
