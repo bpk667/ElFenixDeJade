@@ -27,4 +27,6 @@ Catchphrase: "La verdad está ahí fuera"
 
 Veronica representa a la persona con talento natural para la investigación. Una mente que siempre encuentra patrones, unos ojos capaces de detectarlo todo y una vida llena de giros dramáticos. A veces impulsiva, no puedes dejar que una injusticia pase a tu alrededor sin meter la nariz. Y la verdad es que si no lo hicieras la policía siempre acabaría arrestando a la persona que no es.
 
-<!--Catchphrase: "Se que parece imposible, pero es así"-->
+Tras una larga temporada asesorando a la policía y otras agencias como el FBI o PRIS-13, te ha picado la curiosidad por ver si puedes aportar algo más: Hasta ahora has estado prácticamente haciendo su trabajo sin cobrar ni un duro, ¿por qué no tener una nomina ya que estás? Además, con un poco de suerte puedes enseñarles un par de cosas. ¿Te imaginas un mundo donde supiesen hacer su trabajo?
+
+Catchphrase: "Se que parece imposible, pero es así.

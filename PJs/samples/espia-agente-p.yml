@@ -1,0 +1,22 @@
+personal_data:
+  name: Agente P (Phineas Flynn)
+  character_description: |
+    ¡El hecho de que no seas un ornitorrinco no quiere decir que no puedas copiar la personalidad de uno de los mejores superespías de la historia!. No podrás tener un pico ni un espolón venenoso, pero puedes ser valiente, callado y tranquilo. Alguien que está detrás hasta que los malos llegan y entonces se convierte en una vorágine de movimiento.
+
+    Parece que tu talento no ha pasado desapercibido para PRIS-13. Eres el agente más joven de la historia y a veces eso provoca envidias, pero te da igual mientras puedas seguir divirtiéndote entre adultos (aunque sean un poco zotes).
+  role: Spy
+  trope: Neurotic Geek
+  job: Inventor / espía
+  age: Young
+  flaw: Hay cosas de adultos que se te escapan.
+  catch_phrase: Vaya, eso no puede ser bueno.
+attributes:
+  - NO CRIME
+feats: 
+  - Martial Arts
+  - Shadow
+  - Hacker
+gear:
+  - Reloj Casio.
+  - Juego de destornilladores.
+  - Pandereta.

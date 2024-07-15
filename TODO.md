@@ -1,11 +1,11 @@
 # Lista de tareas pendientes
 
 - [ ] Leerse los libros.
-- [ ] Definir PJs
-    - [ ] ~~Crear fichas de PJs.~~
+- [X] Definir PJs
+    - [X] ~~Crear fichas de PJs.~~
         - [X] Crear transfondo
         - [X] Asignar a personas
-        - [ ] Completar habilidades
+        - [X] Completar habilidades
     - [X] Catalogo de roles
 - [ ] Crear escena rascacielos.
 - [ ] Crear escena palacete. **in progress: moz667**

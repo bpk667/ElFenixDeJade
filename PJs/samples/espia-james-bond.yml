@@ -1,0 +1,23 @@
+personal_data:
+  name: James Bond (007)
+  character_description: |
+    Puedes ser como el superespía James Bond: preparado, carismático y quizás un poco arrogante. Si te ves a las películas clásicas, ándate con cuidado que muchas de las cosas de esa época dan mucho "Cringe".
+
+    Inteligencia del MI6 ha averiguado que varios de los lugartenientes de la organización terrorista Quantum fueron reclutados en PRIS-13, así que no te ha quedado otra que dejar el retiro paradisiaco donde estabas e infiltrarte en el PRIS-13.
+  role: Spy
+  trope: Hot Stuff
+  job: Espía
+  age: Adult
+  flaw: Te pierde una cara bonita.
+  catch_phrase: Imposible es lo que hago de 9 a 6.
+attributes:
+  - Smooth
+feats: 
+  - Gunslinger
+  - Parkour
+  - Heartbreaker
+gear:
+  - Esmoquin perfectamente planchado.
+  - Reloj de pulsera con hilo de acero retráctil y dardos.
+  - Teléfono.
+  - Pistol.
