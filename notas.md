@@ -2,7 +2,7 @@
   
 Es un simulacro/pastiche de las películas de acción de los 80.  
   
-Los PJs trabajan para Spectra Dice.  
+Los PJs trabajan para 
 Es una agencia no gubernamental inglesa tipo Federal Bureau of Control (Control).  
   
 Los malos son Vampiros tipo Blade.   
@@ -219,10 +219,10 @@ El agente Cavalieri
 
 ## Glosario
 
-* **Spectra Dice**: Es una agencia no gubernamental inglesa tipo Federal Bureau of Control (Control).  
-* **Taras Intercorp**: Holding de empresas con una parte publica (empresas normales) y otra privada (negocios ilegales como trafico de armas, drogas... etc)
+* **PRIS-13**: Es una agencia no gubernamental inglesa tipo Federal Bureau of Control (Control).  
+* **Taras Intercorp**: Holding de empresas con una parte publica (empresas normales) y otra privada (negocios ilegales como trafico de armas, drogas, etc.)
 * **Fénix de Jade**: La reliquia te protege contra el control mental de Kuzma o hace que te haga menos daño.
-* **Vuxia**: ????
+* **Wuxia**: ????
 
 
 # Estructura general.  
