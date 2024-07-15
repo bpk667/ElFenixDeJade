@@ -14,9 +14,11 @@ El Sleuth es el detective. El investigador incansable que no se rinde hasta que 
 
 ![mulder](./imgs/mulder.jpg)
 
-Uno de los investigadores de televisión por antonomasia. Inquisitivo, obsesionado siempre con la verdad y algo paranoide en ocasiones (la mayoría de las veces con razón). Aunque perteneces a una organización, muchas veces pareces completamente ajeno a ella. Eres la oveja negra, título que te has ganado a pulso por enfretarte a todo el mundo para conocer la verdad. 
+Uno de los investigadores de televisión por antonomasia. Inquisitivo, obsesionado siempre con la verdad y algo paranoide en ocasiones (la mayoría de las veces con razón). Aunque perteneces a una organización, muchas veces pareces completamente ajeno a ella. Eres la oveja negra, título que te has ganado a pulso por enfrentarte a todo el mundo para conocer la verdad. 
 
-<!--Catchphrase: "La verdad está ahi fuera". -->
+Tras la desaparición de Scully, y debido a la negativa del del FBI de investigar o dejar investigar el caso, te ves forzado a tomar una excedencia del FBI. Investigando como un agente libre, consigues situar a agentes de PRIS-13 en el mismo hotel donde se vio por última vez a Scully. Pero, después de todo lo que has pasado, y sin saber en quién confiar, decides infiltrarte para averiguar más información.  No te cuesta convencerles de tu resentimiento contra el FBI y, con tu experiencia y dotes, es pan comido hacerles ver que eres un activo valioso.
+
+Catchphrase: "La verdad está ahí fuera"
 
 
 ## Veronica Mars (Veronica Mars)
