@@ -5,8 +5,18 @@
     - [ ] ~~Crear fichas de PJs.~~
         - [X] Crear transfondo
         - [X] Asignar a personas
-        - [ ] Completar habilidades
+        - [X] Completar habilidades
+        - [ ] Extra PJS
     - [X] Catalogo de roles
+- [ ] Estructura de la aventura
+    - [ ] Sesion 1
+        - [ ] Recopilacion de informacion (El Casino)
+        - [ ] STATUS de **El Profesor** (La Biblioteca)
+    - [ ] Sesion 2
+        - [ ] El Golpe (El Palacete)
+        - [ ] El Giro (La Presa)
+    - [ ] Sesion 3
+        - [ ] El Gran final (El Rascacielos)
 - [ ] Crear escena rascacielos.
 - [ ] Crear escena palacete. **in progress: moz667**
 - [ ] Crear fichas de enemigos.
