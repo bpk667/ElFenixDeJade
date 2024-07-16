@@ -46,7 +46,7 @@ En el centro, un parterre lleno de hierbas aromáticas como lavanda y romero inu
 
 Adicionalmente, han añadido antorchas y lámparas de aceite para dar una ambientación mas cálida y personal, que en ese momento se encuentra el personal de servicio encendiendo.
 
-También se pueden ver como van llegando algunos invitados engalanados para la ocasión acercándose a la puerta del palacio. Junto a unos setos, dos jóvenes que notáis desentonan con el resto de la decoración, se encuentran fumando y revisando a los invitados según van llegando.
+También se pueden ver como van llegando algunos invitados engalanados para la ocasión acercándose a la puerta del palacio. Junto a unos setos, dos jóvenes que notáis desentonan con el resto de la decoración, se encuentran fumando y controlando a los invitados según van llegando.
 
 #### Encuentro con Isabella Rossi y Lorenzo Moretti
 

@@ -14,7 +14,7 @@
         - [ ] STATUS de **El Profesor** (La Biblioteca)
     - [ ] Sesion 2
         - [ ] El Golpe (El Palacete)
-        - [ ] El Giro (La Presa)
+            - [ ] El Giro (La Presa)
     - [ ] Sesion 3
         - [ ] El Gran final (El Rascacielos)
 - [ ] Crear escena rascacielos.

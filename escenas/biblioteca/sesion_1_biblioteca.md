@@ -124,19 +124,19 @@ Lo normal es que para encontrar el despacho de **El profesor**, utilicen alguno 
 
 No deberia costarles demasiado encontrar el despacho. Este se encuentra en la primera planta del edificio destinado al personal de doncencia en la mitad de un enorme pasillo, donde se encuentran una multitud de otros despachos de profesores y doctores de la universidad.
 
-**Iryna** estará esperando en la puerta del despacho, dependiendo de la hora que decidan los PJs visitar el mismo:
+**Gladis** estará esperando en la puerta del despacho, dependiendo de la hora que decidan los PJs visitar el mismo:
 
-* Si van en horario lectivo, encontraran algo de bullicio con profesores y estudiantes recorriendo el pasillo, algunos hablando en la puerta y comentando diversos temas de la universidad (notas, trabajos...), **Iryna** estará a un par de puertas vigilando la puerta del despacho y en cuanto note que se acercan a los personajes comenzara una conversacion con ellos.
+* Si van en horario lectivo, encontraran algo de bullicio con profesores y estudiantes recorriendo el pasillo, algunos hablando en la puerta y comentando diversos temas de la universidad (notas, trabajos...), **Gladis** estará a un par de puertas vigilando la puerta del despacho y en cuanto note que se acercan a los personajes comenzara una conversacion con ellos.
 
-* Si van fuera de horario lectivo, las puertas estaran cerradas y los despachos y el pasillo estaran vacios a excepcion de **Iryna** que se encuentra haciendo guardia en el pasillo. En cuanto vea a los PJs, se dirigira a ellos
+* Si van fuera de horario lectivo, las puertas estaran cerradas y los despachos y el pasillo estaran vacios a excepcion de **Gladis** que se encuentra haciendo guardia en el pasillo. En cuanto vea a los PJs, se dirigira a ellos
 
-##### 2.1.1 Encuentro con Iryna
+##### 2.1.1 Encuentro con Gladis
 
-**Iryna** es una lingüistica, rata de biblioteca de manual de unos cincuenta y pocos.
+**Gladis** es una lingüistica, rata de biblioteca de manual de unos cincuenta y pocos.
 
 **Notas GM:**
 
-**Iryna** esta contratada por **Taras Intercorp** para averiguar la información que haya sobre la reliquia.
+**Gladis** esta contratada por **Taras Intercorp** para averiguar la información que haya sobre la reliquia.
 
 Su objetivo principal, en este punto de la historia, es vigilar para que el agente de **Taras Intercorp** pueda registrar el despacho.
 
@@ -153,12 +153,12 @@ Al ver a los pjs, les ententendra (intentara llamar la atencion del agente que s
     * ¿Le conoceis por sus investigaciones? El bueno de **El profesor** es bastante reservado con sus investigaciones, aunque ambos somos lingüistas, los proyectos que tenemos asignados dentro de la universidad son diferentes... lo mismo ha tenido que hacer algun viaje por este motivo, no es raro en nuestro area de conocimiento... Me imaginé que su falta era debido a esto...
     * **Si los PJs le comentan que son documentaristas** ¿A si...? que emocionante, ¿de que trata el documental?, ¿puedo salir en el?, ya veras cuando se lo cuente a *Roseta*, se va a morir de la envidia...
 
-Una vez completadas todas las preguntas, se escuchara un ruido dentro del despacho (un jarron romperse), y antes de que los PJs decidan que hacer, **Iryna** actuará:
+Una vez completadas todas las preguntas, se escuchara un ruido dentro del despacho (un jarron romperse), y antes de que los PJs decidan que hacer, **Gladis** actuará:
 
 * ¿Que ha sido ese ruido? ¿Habeis oido eso?
 * Ha sido en el despacho de al lado... ¿no?
 
-**Nota GM:** *Me gustaba la idea de que los PJs tengan al menos una pista para saber la naturaleza de Iryna, esta podria ser esa pista, deliveradamente intenta dirigir a otro lado.*
+**Nota GM:** *Me gustaba la idea de que los PJs tengan al menos una pista para saber la naturaleza de Gladis, esta podria ser esa pista, deliveradamente intenta dirigir a otro lado.*
 
 **El agente de Taras del despacho**, al abrir la ventana, ha tirado un jarrón, en cuanto vea a los PJs, saltara por la ventana.
 
@@ -170,21 +170,21 @@ Los PJs tienen que decidir:
     * Si consiguen capturar a **El agente de Taras del despacho**:
         * Dirá: `Tenebrae nos vocat. Tenebrae nos liberabunt.`
         * Le empezara a salir espuma por la boca
-            * Los PJs pueden hacer una tirada en **Heal / Crime / Know dificultad Critica**, y esto les hara entender, que ha reventado una capsula de cianuro que llevaba entre los dientes. Como no han visto meterse nada en la boca, es presumible que **El agente de Taras del despacho** lo tuviera ya preparado de antes.
+            * Los PJs pueden hacer una tirada en **`Focus + Heal / Crime + Street Wise` dificultad Critica**, y esto les hara entender, que ha reventado una capsula de cianuro que llevaba entre los dientes. Como no han visto meterse nada en la boca, es presumible que **El agente de Taras del despacho** lo tuviera ya preparado de antes.
 
-* No hacer nada, con lo que **Iryna** seguirá haciendo algo de teatrillo:
+* No hacer nada, con lo que **Gladis** seguirá haciendo algo de teatrillo:
     * ¿quien era ese sujeto?
     * Ohhh.. Santa Madona!!! que mal esta el mundo... ladrones en la universidad
     * ¿que buscaran en el despacho de el bueno de **El profesor**?
 
 
-**Iryna** se ofrecerá a ayudarles en lo que necesiten, su motivación es ayudar a exclarecer lo que ha ocurrido con el profesor. Si los PJs son reticentes a recibir la ayuda por su parte, les lanzara una serie de indirectas como que tendrian que llamar a la policia para investigar lo sucedido. Los PJs deberian entonces decidir que hacer:
+**Gladis** se ofrecerá a ayudarles en lo que necesiten, su motivación es ayudar a exclarecer lo que ha ocurrido con el profesor. Si los PJs son reticentes a recibir la ayuda por su parte, les lanzara una serie de indirectas como que tendrian que llamar a la policia para investigar lo sucedido. Los PJs deberian entonces decidir que hacer:
 
 * Es mejor no llamar la atención por el bien de su operacion (revelar que no son documentaristas)
-* Preguntar a la agencia que hacer, en cuyo caso la agencia, despues de hacer un chequeo de **Iryna** no tendra inconveniente de que revelen la naturaleza de su investigacion y que se apoyen en ella para investigar mas a fondo
-* No preguntar a la agencia y que les de igual que llame a las autoridades, en cuyo caso **Iryna** se irá sin mas
+* Preguntar a la agencia que hacer, en cuyo caso la agencia, despues de hacer un chequeo de **Gladis** no tendra inconveniente de que revelen la naturaleza de su investigacion y que se apoyen en ella para investigar mas a fondo
+* No preguntar a la agencia y que les de igual que llame a las autoridades, en cuyo caso **Gladis** se irá sin mas
 
-Da igual lo que ocurra ya que **Iryna**, no llamara a las autoridades, aunque hay que tener en cuenta que en cualquier caso avisara a **Tara Intercorp** de todo los sucedido
+Da igual lo que ocurra ya que **Gladis**, no llamara a las autoridades, aunque hay que tener en cuenta que en cualquier caso avisara a **Tara Intercorp** de todo los sucedido
 
 
 #### 2.2 La casa de **El profesor**
@@ -345,7 +345,7 @@ Para saberlo alguien debe tener un background sobrenatural o tendrán que leer E
 ### El agente de Taras del despacho
 
 <!-- TODO: Descripcion -->
-
+Olaus
 * **No lo saben los PJs** Es un agente de Taras y participó en la tortura pero no han encontrado dónde está la información de la reliquia.
 * Cuando lo descubran, intentara huir y, si lo pillan, se suicidará.
 
