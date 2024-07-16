@@ -45,7 +45,6 @@ Gain one of the following abilities:
 <big>&#x26A1;</big> [ **Vampire** ] You dissolve into a swarm of bats to move to a point within Medium Range or to avoid an attack without rolling the dice.  
 <big>&#x26A1;</big> [ **Werewolf** ] You turn into a Beast until the end of the Scene, even if there is no full moon.  
 
-<big>&#x26A1;</big>  
 
 ## Feats (Action Flicks. Pg. 168)  
 
@@ -78,20 +77,20 @@ vulnerable to.
 
 ## Special actions (Action Flicks. Pg. 169)  
 
-**DANGER IN THE AIR [1 <big>&#x26A1;</big>]  **  
+**DANGER IN THE AIR** [<big>&#x26A1;</big>]  
 The Enemy turns into a swarm of bats. Alternatively, they howl at the sky.  
 If a Hero fails a Critical Reaction Roll in Nerves+ Fight, they lose their next Action Turn.  
 
-**UNLEASH THE BEAST [1 <big>&#x26A1;</big>]  **  
+**UNLEASH THE BEAST** [<big>&#x26A1;</big>]  
 The Enemy turns into a fearsome, bloodthirsty creature and gains the Beast Feat.  
 If they wish, the Director may also choose to change the Type or Template of the Enemy, opting for a higher one.  
 
-**BLOODSUCKING [2 <big>&#x26A1;</big>]  **  
+**BLOODSUCKING** [<big> &#x26A1; &#x26A1; </big>]  
 The Enemy grabs a Hero and drains them of blood or vital energy.  
 The Director rolls a numeric die. A Hero loses an amount of Grit equal to the result of the roll, and the Enemy recovers the same amount of Grit.  
 
 
-**DARK INFLUENCE [2 <big>&#x26A1;</big>]  **  
+**DARK INFLUENCE** [<big>&#x26A1; &#x26A1; </big>]  
 The Enemy locks eyes with a Hero or charms a Hero with the sound of their voice.  
 The Director rolls a numeric die:  
 1. The Hero is locked in a waking nightmare.  
@@ -107,6 +106,6 @@ The Director rolls a numeric die:
 6. The Hero cannot control their body and is forced to harm themselves.  
 		They become Hurt.  
 
-**DARK GIFT [3 <big>&#x26A1;</big>]  **  
+**DARK GIFT** [<big> &#x26A1; &#x26A1; &#x26A1; </big>]  
 The Enemy infects a Hero with their curse. Maybe as a punishment, maybe by mistake. The Hero adds 2 Lethal Bullets to their Death Roulette, and they must take a spin on the Death Roulette.  If the Hero survives, they immediately gain the Damned Feat.  
 
