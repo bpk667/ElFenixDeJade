@@ -10,6 +10,17 @@
 - [ ] Crear escena rascacielos.
 - [ ] Crear escena palacete. **in progress: moz667**
 - [ ] Crear fichas de enemigos.
+    - [ ] François. Abogado de Taras (vampiro)(casino)
+    - [ ] Borysko. Gorila de la suite (vampiro)(casino)
+    - [ ] Atsumi. Ladrona (Wuxia)(casino)
+    - [ ] Li Chan. Empresario (Wuxia)(casino) 
+    - [ ] Huang Su. Monje Shaolin (Wuxia)(casino)
+    - [ ] Olaus Wormius (espectro)(biblioteca)
+    - [ ] Espectro menor (espectro)(biblioteca)
+    - [ ] Hombre lobo (presa)
+    - [ ] Pedro (Ghoul)(presa)
+    - [ ] Max (Ghoul)(presa)
+    - [ ] Kuzma(Vampiro milenario)(rascacielos)
 - [ ] Crear mapas.
 
 ## Mesh

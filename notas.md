@@ -315,3 +315,8 @@ Pistas: Despacho de la universidad. Casa del lingüista.
  - Grupo A: Ataque frontal al edificio del vampiro jefe.  
  - Grupo B: Infiltración sigilosa en el edificio para facilitar el trabajo del otro grupo.  
   
+
+
+# Leveling up. Monstrous feat. (action flicks. Pg. 166).
+**Nota GM:** Después de que los PJs se hayan enfrentado a algún vampiro u hombre-lobo, le podríamos dar la opción de que se suban **Montrous feats** en lugar de una feat normal, pero tenemos que verlo con más detalle.
+
