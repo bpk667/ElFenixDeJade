@@ -69,7 +69,7 @@ Hay cámaras de seguridad normales (que nadie está mirando, pero eso no lo sabe
 **Entrada por el almacén. Sala 15.**  
 La pueden encontrar:  
   - Si **Jan** está con ellos, se lo puede decir.
-  - Si deciden investigar en los alrededores `éxito crítico en FOCUS+DETECT`.
+  - Si deciden investigar en los alrededores `éxito básico en FOCUS+DETECT`.
 
 Descripción:
   - Sala amplia de unos 200 metros llena de cajas con recambios, maquinaria (un toro, un traspalé, etc.) y una mesa con un monitor.
@@ -86,7 +86,7 @@ Hay 7 trabajadores parapetados. Están hipnotizados y tienen poco aprecio por su
 Trabajadores:  
   - Un hombre de 50 y pico años con traje y corbata. Administrador de almacenes (**con rifle de caza**).  
       - Es el padre de **Jan**. Si está **Jan**, le reconocerá  
-      - Los PJs pueden intentar retener a **Jan** con un `éxito extremo de `  
+      - Los PJs pueden intentar retener a **Jan** con un `éxito extremo de Nerves+Awareness`  
   - Una mujer en traje de unos 40 años. Oficial de compras (**con una llave grifa grande**)  
   - 1 hombre viejo con traje raído. Bedel (**con rifle de caza**)  
   - 3 hombres y 1 mujer en forma con mono sucio de grasa. Maquinistas y operarios.  
