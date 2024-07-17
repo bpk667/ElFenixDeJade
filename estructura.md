@@ -17,25 +17,63 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Briefing inicial
+## Sesion 0: Briefing inicial
 
-`TODO: dia / hora / duracion`
+`19 de Julio / 2 horas max`
 
-<!-- TODO: revisar estos puntos -->
-
-* Se les explica el mundo
-* Se les da a los jugadores el catalogo con los distintos PJs disponibles
-* Explicacion basica de las reglas?
-* Preguntas y respuestas
+* Se les explica el mundo `15'`
+    * Época actual. Mundo similar al nuestro.
+    * Enseñamos los roles para que vean las diferencias posibles.
+    * Roleo VS tercera persona (simplificar la experiencia)
+    * Velos y rayas (limites de los jugadores)
+    * Explicacion muy basica de las mecanicas
+* Para quién trabajan `15'`
+    * Quién es **PRIS-13**
+        * Police Research & Intelligence Service.
+        * Organización secreta.
+        * Públicamente la organización no existe.
+        * Es una agencia de espionaje filantrópica.
+        * Se dedica a llevar a la justicia a gente que está por encima de la ley.
+    * **NO mencionar nada sobrenatural.**
+* Se reparten los roles: `30'`
+    * Se les dan las 8 hojas de catalogo de roles y cada pj elija uno
+    * Se les da las hojas y sus resumenes de personaje (los ficheros md con los detalles de los distintos pjs) para que las completen
+    * Comentar que estan abiertos a modificaciones
+* Briefing de arranque **ROLEO** `30'`
+    * Nos presentamos los PJs y NPJs (GMs)
+    * Hacemos breafing de las 2 misiones:
+        * [Recopilacion de informacion (El Casino)](#recopilacion-de-informacion-el-casino)
+        * [STATUS de **El Profesor** (La Biblioteca)](#status-de-el-profesor-la-biblioteca)
+    * Les dejamos el resto de tarde/noche libre para que se organicen en 2 equipos
 
 
 ## Sesion 1
 
-`TODO: dia / hora / duracion`
+`20 de Julio / 4 horas max`
 
 ### Recopilacion de informacion (El Casino)
 
-<!-- TODO: -->
+* Averiguar el número de habitación.  
+    - Seducir a Alphonse (tiene una habitación comunicada).  
+    - Pick pocket a François.  
+        * **Jimmy El Tiburón.**
+    - Entrar a la habitación por el balcón (está abierto) o el aire acondicionado.  
+    - Forzar la puerta.  
+
+* Robar el maletín.  
+    - En la habitación se van a encontrar con Atsumi del Loto Blanco.  
+    - Hay un gorila en la puerta.  
+    - [MUY MUY PROBABLEMENTE] El gorila dará la alarma y haya un enfrentamiento con él.  
+
+* Salir del hotel.  
+    - François tiene un séquito de 13 matones que reaccionarán a la alarma.  
+    - Maletín:  
+        - Lo tienen los Wuxia: Todos los perseguimos.  
+        - Lo tienen los PJs: A huir y darles esquinazo.  
+
+* Huir con él hasta la base de la agencia.
+
+* Al final del todo: Los PJs tendran la localizacion de la reliquia
 
 
 ### STATUS de **El Profesor** (La Biblioteca)
@@ -92,7 +130,7 @@
 
 ## Sesion 2
 
-`TODO: dia / hora / duracion`
+`21 de Julio / 4 horas max`
 
 ### El Golpe (El Palacete)
 
@@ -161,7 +199,7 @@
 
 ## Sesion 3
 
-`TODO: dia / hora / duracion`
+`22 de Julio / 4 horas max (por la mañana)`
 
 ### El Boss Final (El Rascacielos)
 
@@ -172,20 +210,56 @@
         * vive en las ultimas dos plantas **46 y 47**
         * no sale nunca del edificio (o al menos no se tiene constancia)
     * **Secretismo** No sabemos que medidas de seguridad tiene, los PJs tienen que investigarlo in-situ
-* A media tarde_
-* Planta 0:
-    * Recepcion y solo pueden ir a -1 con sus credenciales
-* Planta -1:
-    * Entran como grupo de mantenimiento (calderas, aire...)
-        * Descubrir pistas de la -2
-    * Monitorizar las comunicaciones (pinchar telefonos)
-        * Descubrir centralitas de fibra **Hackers**
-* Planta -2:
-    * Hacerse con el control de la sala de vigilancia
-        * Controlas camaras, alarmas...
-    * Celdas con humanos para alimentarse
-        * **Opcional** Liberarlos
-    * Ghouls custiodiando
-    * Hacerse con el control de la sala de mantenimiento electrico y ascensores
+    * La agencia les permite volver a elegir equipos
+    * Los equipos van al mismo sitio pero estan divididos en 2:
+        * Equipo de infiltracion (mantenimiento)
+        * Equipo de asalto
+    * En todo momento, pueden hablar entre los dos equipos para coordinarse
 
-<!-- TODO: Sin completar -->
+* Equipo de infiltracion (mantenimiento)
+    * Accesible durante una jornada laboral (por las credenciales) y a media tarde (vampiros)
+
+    * Planta 0:
+        * Recepcion y solo pueden ir a -1 con sus credenciales
+
+    * Planta -1:
+        * Entran como personal de mantenimiento (calderas, aire...)
+            * Descubrir pistas de la -2
+        * Monitorizar las comunicaciones (pinchar telefonos) **internas**
+            * Descubrir centralitas de fibra **Hackers**
+        * Detectar e inutilizar linea de comunicacion de emergencia
+
+    * Planta -2:
+        * Hacerse con el control de la sala de vigilancia
+            * Controlas camaras **Reduce XX minions**, alarmas...
+        * Celdas con humanos para alimentarse
+            * **Opcional** Liberarlos
+        * Ghouls custiodiando
+        * **Imposible suscess** Hacerse con el control de la sala de mantenimiento electrico y ascensores
+
+* Equipo de asalto
+
+    * Planta 0 (Recepcion):
+        * Evitar dos guardias y un recepcionista
+        * Si el primer grupo ha hecho bien su trabajo, no podran pedir refuerzos
+        * Si tardan mucho... apareceran mas guardias
+    
+    * Planta 46 (Piso de **Kuzma**):
+        * **Ventaja: Solo pueden subir directamente si se han hecho con el control de la sala de mantenimiento**
+        * Kuzma
+        * 2 hombres lobo
+
+    * Planta 44 (Recibidor direccion):
+        * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
+        * **Ventaja: Reduce cantidad si mantenimiento se ha ocupado de las camaras**
+        * TODO: Repasar reglas para como gestionar este tema y definir
+
+        * **Carne de cañon** XX minions tipo 1
+        * **Carne de cañon** XX minions tipo 2
+        * **Carne de cañon** XX minions tipo 3
+
+    * Planta 45 (Sala de reuniones de directores):
+        * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
+        * 2 lugar tenientes (TODO: hacer los npjs)
+        * 3 hombres lobo (si les quitan el collar, les ayudaran)
+

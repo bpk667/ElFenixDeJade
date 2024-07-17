@@ -1,37 +1,62 @@
 # Lista de tareas pendientes
 
 - [ ] Leerse los libros.
+    - [ ] Revisar LVL UP **moz667**
+    - [ ] Revisar combate **bpk**
+- [ ] App
+    - [ ] Revisar simbolo adrenalina (rellenar)
+    - [ ] Corregir att + skills
+    - [ ] Features de vampiros, hombres lobo y fantasmas
 - [X] Definir PJs
-    - [X] ~~Crear fichas de PJs.~~
-        - [X] Crear transfondo
-        - [X] Asignar a personas
-        - [X] Completar habilidades
-        - [ ] Extra PJS
+    - [X] ~~Crear fichas de PJs.~~ **Se las crean los jugadores a partir del resumen entregado**
+    - [X] Crear transfondo
+    - [X] Asignar a personas
+    - [X] Completar habilidades
+    - [X] Extra PJS
     - [X] Catalogo de roles
 - [ ] Estructura de la aventura
+    - [X] Estructura base: [estructura.md](./estructura.md)
     - [ ] Sesion 1
-        - [ ] Recopilacion de informacion (El Casino)
-        - [ ] STATUS de **El Profesor** (La Biblioteca)
+        - [X] Recopilacion de informacion (El Casino)
+        - [ ] STATUS de **El Profesor** (La Biblioteca)  **in progress: moz667**
     - [ ] Sesion 2
-        - [ ] El Golpe (El Palacete)
-            - [ ] El Giro (La Presa)
+        - [ ] El Golpe (El Palacete) **in progress: moz667**
+            - [ ] El Giro (La Presa) **in progress: bpk**
     - [ ] Sesion 3
-        - [ ] El Gran final (El Rascacielos)
-- [ ] Crear escena rascacielos.
-- [ ] Crear escena palacete. **in progress: moz667**
+        - [ ] El Gran final (El Rascacielos)  **pending: bpk / moz667**
+            - [ ] Equipo de mantenimiento **bpk**
+            - [ ] Equipo de asalto **moz667**
 - [ ] Crear fichas de enemigos.
-    - [ ] François. Abogado de Taras (vampiro)(casino)
-    - [ ] Borysko. Gorila de la suite (vampiro)(casino)
-    - [ ] Atsumi. Ladrona (Wuxia)(casino)
-    - [ ] Li Chan. Empresario (Wuxia)(casino) 
-    - [ ] Huang Su. Monje Shaolin (Wuxia)(casino)
-    - [ ] Olaus Wormius (espectro)(biblioteca)
-    - [ ] Espectro menor (espectro)(biblioteca)
-    - [ ] Hombre lobo (presa)
-    - [ ] Pedro (Ghoul)(presa)
-    - [ ] Max (Ghoul)(presa)
-    - [ ] Kuzma(Vampiro milenario)(rascacielos)
+    - [ ] François. Abogado de Taras (vampiro)(casino) **bpk**
+    - [ ] Borysko. Gorila de la suite (vampiro)(casino) **bpk**
+    - [ ] Atsumi. Ladrona (Wuxia)(casino) **bpk**
+    - [ ] Li Chan. Empresario (Wuxia)(casino) **bpk**
+    - [ ] Huang Su. Monje Shaolin (Wuxia)(casino) **bpk**
+    - [ ] Olaus Wormius (espectro)(biblioteca) **moz667**
+    - [ ] Espectro menor (espectro)(biblioteca) **moz667**
+    - [ ] Hombre lobo (presa) **bpk**
+    - [ ] Pedro (Ghoul)(presa) **bpk**
+    - [ ] Max (Ghoul)(presa) **bpk**
+    - [ ] Kuzma (Vampiro milenario)(rascacielos) **moz667**
+    - [ ] ... faltan **moz667**
 - [ ] Crear mapas.
+    - [ ] presa  **bpk**
+    - [ ] palacio **moz667** `https://d1vzi28wh99zvq.cloudfront.net/images/11356/_product_images/358460/H_-_Adventure_Shot_2.jpg`
+- [ ] Lapizes **moz667**
+- [ ] Dados **bpk**
+- [ ] Impresiones **bpk**
+    - [ ] Hojas de personajes (vacias) x 10 copias
+    - [ ] Catalogo de roles
+    - [ ] Hojas de personajes (detalles)
+    - [ ] Escenas
+        - [ ] Detalle escena
+        - [ ] **opcional** PNJs **Ficha**
+        - [ ] **opcional** PNJs **Descripcion**
+    - [ ] Reglas **Resumen de reglas**
+    - [ ] Glosario con terminos, pjs, etc **falta hacer el md**
+- [ ] Folios **moz667**
+- [ ] Gomas **moz667**
+
 
 ## Mesh
 

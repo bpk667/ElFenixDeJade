@@ -221,14 +221,6 @@ El agente Cavalieri
     Por qué no nos han pedido permiso para venir aquí.  
     Puede se run tf. de ayuda o le poseen...  
 
-## Glosario
-
-* **PRIS-13**: Es una agencia no gubernamental inglesa tipo Federal Bureau of Control (Control).  
-* **Taras Intercorp**: Holding de empresas con una parte publica (empresas normales) y otra privada (negocios ilegales como trafico de armas, drogas, etc.)
-* **Fénix de Jade**: La reliquia te protege contra el control mental de Kuzma o hace que te haga menos daño.
-* **Wuxia**: ????
-
-
 # Estructura general.  
   
 Toma de contacto:  
@@ -293,3 +285,10 @@ Pistas: Despacho de la universidad. Casa del lingüista.
 # Leveling up. Monstrous feat. (action flicks. Pg. 166).
 **Nota GM:** Después de que los PJs se hayan enfrentado a algún vampiro u hombre-lobo, le podríamos dar la opción de que se suban **Montrous feats** en lugar de una feat normal, pero tenemos que verlo con más detalle.
 
+
+
+- [ ] Revisar que las features y habilidades de los PJs, se complimentan con la aventura
+    * [ ] Rutano Antiguo **???DIFICULTAD??? FOCUS + KNOW**
+    * [ ] Conocimiento Sobrenatural **???DIFICULTAD??? FOCUS + DETECT**
+    * [ ] Lock picking **???DIFICULTAD??? CRIME + DEXTERITY**
+    * [ ] Conducir **???DIFICULTAD??? NERVES + DRIVE**
