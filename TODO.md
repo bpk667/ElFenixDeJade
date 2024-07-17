@@ -2,7 +2,7 @@
 
 - [ ] Leerse los libros.
     - [ ] Revisar LVL UP **moz667**
-    - [ ] Revisar combate **bpk**
+    - [X] Revisar combate
 - [X] App **moz667**
     - [X] Revisar simbolo adrenalina (rellenar) **moz667**
     - [X] Corregir att + skills **moz667**
@@ -21,7 +21,7 @@
         - [ ] STATUS de **El Profesor** (La Biblioteca)  **in progress: moz667**
     - [ ] Sesion 2
         - [ ] El Golpe (El Palacete) **in progress: moz667**
-            - [ ] El Giro (La Presa) **in progress: bpk**
+            - [X] El Giro (La Presa) **in progress: bpk**
     - [ ] Sesion 3
         - [ ] El Gran final (El Rascacielos)  **pending: bpk / moz667**
             - [ ] Equipo de mantenimiento **bpk**
@@ -40,10 +40,10 @@
     - [ ] Kuzma (Vampiro milenario)(rascacielos) **moz667**
     - [ ] ... faltan **moz667**
 - [ ] Crear mapas.
-    - [ ] presa  **bpk**
+    - [X] Presa  **bpk**
     - [ ] palacio **moz667** `https://d1vzi28wh99zvq.cloudfront.net/images/11356/_product_images/358460/H_-_Adventure_Shot_2.jpg`
 - [X] Compras **moz667**
-    - [X] Lapizes
+    - [X] Lápices
     - [X] Folios
     - [X] Gomas
     - [X] Clips

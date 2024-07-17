@@ -1,4 +1,6 @@
-# Tiradas.
+# Basic rules
+
+## Tiradas.
 
 Attribute + Skill ( +- Adrenaline, Conditions, and Gear).
 
@@ -26,7 +28,7 @@ Jackpot!:
 
 ![Success Rates](./imgs/success_rates.png)
 
-# Dificultad
+## Dificultad
 
 - *Basic*. All rolls that concern really simple things but still hide a small chance for accidents.
 		A quick and easy action or reaction. Like jumping over an obstacle, stealing the keys off of a distracted agent, throwing something.
@@ -41,7 +43,7 @@ Jackpot!:
 - *Impossible*. Only come into play when Heroes have got ten themselves in big trouble.
 		A desperate action or reaction. Like calmly exiting a car in the middle of a 180 while shooting at a tiny target, getting rid of a large group of enemies with nothing but a pencil, taking down a helicopter with a speeding car because you’re running low on ammo. Stuff from movie trailers.
 
-## Double difficulty.
+### Double difficulty.
 
 Especially complex or dangerous roll. 2 Basic, 2 Critical, or 2 Extreme.
 - 2 successes to prevail.
@@ -52,14 +54,14 @@ Especially complex or dangerous roll. 2 Basic, 2 Critical, or 2 Extreme.
 E.g. Boss. Require rolls with double difficulty in order for you to hit them or to avoid their blows.
 
 
-## Combine successes:
+### Combine successes:
 - 3 Basic Successes into 1 Critical Success.
 - 3 Critical Successes into 1 Extreme Success.
 - 1 Critical Success like 3 Basic Successes.
 - 1 Extreme Success like 3 Critical Successes.
 
 
-## Re-roll (pg.68).
+### Re-roll (pg.68).
 
 When: If you have scored at least one Basic Success, you can Re-roll.
 
@@ -75,7 +77,7 @@ After a Re-roll:
 - You can make a Free Re-roll even if you didn’t score any successes on your first roll.
 
 
-### All in
+#### All in
 
 When: After a Re-roll or Free Re-roll if you got a better result.
 
@@ -86,7 +88,7 @@ After all in:
 - Otherwise, you lose all previous successes.
 
 
-## Acciones extra
+### Acciones extra
 
 Extra successes:
 - Extra Basic Success: Quick Action.
@@ -94,7 +96,7 @@ Extra successes:
 - Extra Extreme Success: Cool Action.
 
 
-# Help
+## Help
 
 Gear or Supporting Characters can grant you Help.
 Heroes can also forgo rolling the dice to spend their turn trying to Help you face a difficult challenge.
@@ -107,7 +109,7 @@ Heroes can also forgo rolling the dice to spend their turn trying to Help you fa
 - Gain a Requisite that allows you to roll the dice.
 
 
-# Adrenaline (<big>&#x26A1;</big>)
+## Adrenaline (<big>&#x26A1;</big>)
 
 **Gain**:  
 - When you get a success against all odds
@@ -124,7 +126,7 @@ Automatically gain 2 Adrenaline when they fill in the Hot Box on their Grit trac
 - 6 Adrenaline ( <big> &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; </big>) to immediately gain a Spotlight.
 
 
-# Spotlight
+## Spotlight
 
 6 Adrenaline -> 1 Spotlight.
 
@@ -149,7 +151,7 @@ After using a Spotlight and gaining its benefits, flip a coin:
 - Exception when you save the life of a friend. Then, if the result is tails, they gain 1 Spotlight.
 
 
-# Dangerous roles
+## Dangerous roles
 
 When: action or reaction that puts your life or safety on the line. (e.g. hiding from a team of armed soldiers)
 
@@ -158,7 +160,7 @@ When: action or reaction that puts your life or safety on the line. (e.g. hiding
 - Extreme: You lose 9 Grit
 - Impossible: You lose All Grit
 
-## Damage Control
+### Damage Control
 
 TIPS:  
 - PJ should call it and propose how it happens.
@@ -172,9 +174,9 @@ How:
 No Damage Control for an Impossible Roll.
 
 
-# Grit
+## Grit
 
-## Loosing grit
+### Loosing grit
 
 Effects:
 - As long as you have a single open Grit box remaining, you have nothing to fear.
@@ -185,14 +187,14 @@ Effects:
 - Hot box: Get a rush of 2 Adrenaline.
 
 
-## Gaining grit
+### Gaining grit
 
 - Sleep on it.
 - Catch a Break.
 - At the end of a gaming Session.
 
 
-# Gamble
+## Gamble
 
 Gamble rolls can be either Dangerous or normal.
 
@@ -209,7 +211,7 @@ Useful when you’re trying to build tension outside of a combat or chase.
 - For every Snake Eye, you lose 1 Grit. 
 
 
-# Conditions
+## Conditions
 
 -1 to all rolls made with that Attribute
 
@@ -222,19 +224,19 @@ Useful when you’re trying to build tension outside of a combat or chase.
 **Tired Condition**: Gives no Penalty.
 
 
-### Suffering a condition
+#### Suffering a condition
 
 - As a consequence of a failure.
 - When you fill in the Bad Box of your Grit.
 - When failure is not enough.
 
 
-### Removing a condition
+#### Removing a condition
 
 Up to 2 Conditions each day. 
 
 
-### Types
+#### Types
 
 **Hurt**
 - Effect: -1 to Brawn.
@@ -277,14 +279,95 @@ Other conditions: (pg. 93)
 - Angry.
 
 
-# Death Roulette
+## Death Roulette
 
 When:  
   When lost all Grit, the next failure in a Roll will force you to take a spin on the Death Roulette.
 
-# Combat
-
-## Cannon fodder
+### Cannon fodder
 Basic Cannon Fodder:    9 GRIT      ATK: 2 BASIC        DEF: BASIC
 Critical Cannon Fodder: 9 GRIT      ATK: CRITICAL       DEF: CRITICA
+
+
+## Combat
+
+Order:
+  1. Action.
+      - Quick Action. Examples:
+          - Grab or toss an object.
+          - Reload a weapon.
+          - Reach an Enemy who is in Close Range.
+      - Action Roll (complex action). Example:
+          - Attacking the Enemy.
+    
+  2. Reaction.
+  3. Go to 1.
+
+### Initiative
+
+PJs:
+- If the Heroes are the first to attack.
+- Can rely on the element of surprise.
+PNJs:
+- Heroes are caught by surprise, or hesitate before acting.
+When in doubt:
+- Flip a coin.
+
+
+### Action
+
+Attack are direct actions against an enemy (non collateral actions)
+
+  - **Difficulty** equal to the Enemy Defense.
+  - For every success, the Enemy loses 1 Grit.
+  - Examples:
+      - Enemy with Basic Defense:
+          - 2 Basic Successes    : Enemy loses 2 Grit.
+          - 1 Critical Success   : Enemy loses 3 Grit.
+
+Examples of attacks.
+  - Melee                                   : `Brawn+Fight`.
+  - Ram with the car                        : `Nerves+Drive`.
+  - knock scaffolding down over their heads : `Focus+Fix`.
+
+### Reaction
+
+All Reaction Rolls made during combat are **Dangerous Rolls**.
+
+  - Difficulty equal to the Enemy Attack.
+  - If fail, lose some Grit.
+      - **Optional, Damage Control**. Can spend smaller successes to do some Damage Control.
+
+Examples of reactions.
+  - Attack with fists and metal bars : `Brawn+Fight`
+  - Shoot at you                     : `Brawn+Stunt`
+  - Try to crush or choke you        : `Brawn+Endure`
+  - Try to push you the ground       : `Brawn+Force`
+  - Throw tables and chairs at you   : `Nerves+Stealth`
+  - Try to surround you              : `Nerves+Awareness`
+
+As a general rule, all Heroes taking part in combat must make the same Reaction Roll.
+
+Usually, all Heroes fighting against the same Enemy defend themselves by making the same Reaction Roll with the same Attribute and Skill.
+
+In corner cases, when the situation benefits from it, each Hero can make a different Reaction Roll based on their situation.
+  This adds complexity and make combat longer.
+
+
+#### Extra Reactions
+
+You can spend **extra successes** during a Reaction Turn to take extra actions.
+
+**Extra success** at least equal to the Enemy Defense: you can counterattack.
+
+Examples:
+  - Counterattack:
+      1. Reaction Roll against an Enemy with Critical Attack and Defense.
+      2. You score 2 Critical Successes.
+        - Use 1 success to defend.
+        - Spend the second to counter and cause the Enemy to lose 1 Grit.
+  - Protect your friends:
+      - Spend extra successes scored during a Reaction Turn to protect your friends who may have failed their Reaction Rolls.
+      - You can NOT use lower successes to do Damage Control for them.
+
 

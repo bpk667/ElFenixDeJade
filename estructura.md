@@ -180,21 +180,22 @@
 #### El Giro (La Presa)
 
 * Los PJs se acercan en coche a la presa.
-* Al dejar los coches atrás.  
-* Hit&Run de un lobo.  
-* Encuentro con Jan.  
+* Dejan los coches.
+    * Hit&Run de un lobo.  
+    * Encuentro con Jan.  
 * Llegan a la entrada del edificio de la presa.  
-    1. Opción 1. Incursión por la puerta principal:  
-    2. Opción 2. Infiltrarse por los tubos de ventilación. Sólo caben los dos PJs más pequeños.
-* Incursión.  
+* Incursión en el edificio.
+    1. Opción 1. Incursión por la puerta principal.  
+    2. Opción 2. Infiltrarse por el almacén.  
 * *Opcional* Si los PJs consiguen escuchar a los Ghouls, pueden enterarse de por qué quieren  
 * Combate final
     * Hombre lobo lucha contra PJs o contra Ghouls
     * Un Ghoul explota una de las cargas
-        * Los PJs intenta desactivar las otras dos
+        * Los PJs intenta desactivar las otras dos cargas.
 * Al final del todo:
     * Evitar que vuelen toda la presa
-    * **opcional** liberar al hombre lobo y con ello conseguir la ayuda de estos en **el rascacielos**
+    * **Opcional** liberar al hombre lobo y con ello conseguir la ayuda de estos en **el rascacielos**
+    * **Opcional** encontrar papeles incriminando a Préstamo de Nuestros Hijos.
 
 
 ## Sesion 3

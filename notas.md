@@ -223,27 +223,6 @@ El agente Cavalieri
 
 # Estructura general.  
   
-Toma de contacto:  
-Briefing a los PJs sobre las misiones. Se les pide que formen dos equipos.  
-  
-## Briefing del Casino.
-Objetivo: Robar el maletín del casino.
-Último jueves de cada mes está en Montecarlo y juega a la ruleta. a las 7pm. Los jugadares a las 6pm.
-
-*François Dijon*.
-Dossier:  
-- Es un representante / abogado de Taras Intercorp. 
-- Le gusta apostar fuerte y no le gusta perder.  
-- Taras Intercorp es una tapadera para el tráfico de armas.
-  
-*Alphonse Dijon*. El hijo de François (19 años).  
-Dossier:
-- Es un viva la virgen. Le gusta la fiesta.
-- Le da a TODO.
-- Muy clasista. Todo lo que tiene lo merece y la gente es su felpudo.
-- En un par de ocasiones le han arrestado por fiestas que se han ido de madre, pero papá le ha salvado el culo.
-
-
 ## Briefing de la biblioteca.
 
 - Investigar la desaparición de un agente.
