@@ -4,7 +4,7 @@
     - [ ] Revisar LVL UP **moz667**
     - [ ] Revisar combate **bpk**
 - [ ] App **moz667**
-    - [ ] Revisar simbolo adrenalina (rellenar) **moz667**
+    - [X] Revisar simbolo adrenalina (rellenar) **moz667**
     - [ ] Corregir att + skills **moz667**
     - [ ] Features de vampiros, hombres lobo y fantasmas **moz667**
 - [X] Definir PJs

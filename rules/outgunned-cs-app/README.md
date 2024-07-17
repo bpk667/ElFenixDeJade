@@ -36,4 +36,10 @@ python outgunned-cs-app.py --print_roles
 python outgunned-cs-app.py --trope=Vigilante
 # Mostrar el rol Brain
 python outgunned-cs-app.py --role=Brain
+
+# Generar todos los samples
+for sample in `ls samples`; do
+    sample_output=`echo $sample | sed -e "s/.yml/.md/g"`
+    python outgunned-cs-app.py -i samples/$sample -o samples/$sample_output.md
+done
 ```

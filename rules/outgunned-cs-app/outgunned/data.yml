@@ -605,6 +605,8 @@ TROPES:
       - Streetwise
 FEATS:
   ALWAYS PREPARED: |
+    (Cost ⚡)
+
     You always have an ace up your sleeve.
 
     [Quick Action] You take out or retrieve a useful item, a piece of information, or a small, easy-to-hide weapon.
@@ -623,6 +625,8 @@ FEATS:
 
     Gain a Free Re-roll when lifting, carrying, or breaking something.
   CAR JUMP: |
+    (Cost ⚡)
+
     You speed up an improvised ramp and make your ride jump in the air. Everyone holds their breath.
 
     [Full Turn] While driving, you can have your ride jump over something to automatically pass an obstacle or barrier, or to gain +2 Speed during a Chase. 
@@ -633,14 +637,20 @@ FEATS:
 
     You start the game with 3 Cash. Gain 1 Cash at the beginning of each Session, unless you are imprisoned or lost in the middle of nowhere.
   COMBO: |
+    (Cost ⚡)
+
     After each strike, there is always another, faster than the first. One-two! Come on! 
 
     After hitting an Enemy, you can spend 1 Adrenaline to deal 1 additional Grit. You can spend several to continue the combo and deal additional damage.
   COUNTER: |
+    (Cost ⚡)
+
     The best defense is always a good offense.
 
     React against an Enemy by rolling Brawn+Fight instead of the requested Skill. You ignore all -1s from Conditions and circumstances.
   CRAZY STUNT: |
+    (Cost ⚡)
+
     You’re the reason why they invented those “Don’t try this at home” disclaimers.
 
     [Full Turn] When you’re driving, you can make an absolutely crazy maneuver in order to win the chase. Destroy your ride and flip a coin. 
@@ -660,12 +670,16 @@ FEATS:
 
     Once per chase, when you reach Top Speed, you gain 1 Adrenaline.
   FLYING KICK: |
+    (Cost ⚡)
+
     No enemy is out of reach for your deadly kicks.
 
     Attack an Enemy within Close or Medium Range, gain +1 to the roll.
 
     Additionally, you can always attack an Enemy within Close Range while bare-handed, and you don’t need to spend Adrenaline to do so.
   GET DOWN!: |
+    (Cost ⚡)
+
     You grab your friend and drag them away from danger one second before disaster.
 
     [Full Turn] You and another Hero quickly hide, dodge a hail of bullets, or avoid being run over without needing to roll the dice.
@@ -702,10 +716,14 @@ FEATS:
     
     Gain a Free Re-roll when intimidating or interrogating somebody.
   INTUITION: |
+    (Cost ⚡)
+
     You notice hidden details other people miss.
 
     [Quick Action] Ask the Director to give you a clue or suggestion, or find the Weak Spot of an Enemy.
   I’LL MAKE A PHONE CALL: |
+    (Cost ⚡)
+
     You have a contact, a friend, or a favor you can call in. It’s just a phone call away.
 
     [Full Turn] You call one of your contacts asking for a piece of information, a favor, a ride, or up to 3 Cash. You gain whatever you asked for during the next Time-Out.
@@ -735,6 +753,8 @@ FEATS:
 
     Gain a Free Re-roll for all rolls made to disguise yourself, to go unnoticed, or to take on someone else’s identity.
   MASTERMIND: |
+    (Cost ⚡)
+
     Your brilliant ideas allow you to always come out on top.
 
     Repeat one roll of any kind. Ignore all -1s from Conditions and circumstances.
@@ -799,6 +819,8 @@ FEATS:
 
     Gain a Free Re-roll for all rolls made to lie, to persuade others, to find a compromise, or to bargain.
   SPINOUT: |
+    (Cost ⚡)
+    
     You pull the break and quickly turn the wheel. Everyone better hold on tight.
 
     [Full Turn] All Heroes on the ride you are driving skip their Reaction Turn during a Chase. Flip a coin. 

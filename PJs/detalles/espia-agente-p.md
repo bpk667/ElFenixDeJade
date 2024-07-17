@@ -26,7 +26,7 @@ You’re a real nerd. Computers, comics, and pop culture have no secrets for you
 
 ## Atributos
 
-* **NO CRIME:** 2
+* **Focus:** 2
 * **Crime:** 2
 * **Endure:** 2
 * **Fight:** 2
