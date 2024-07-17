@@ -3,10 +3,10 @@
 - [ ] Leerse los libros.
     - [ ] Revisar LVL UP **moz667**
     - [ ] Revisar combate **bpk**
-- [ ] App
-    - [ ] Revisar simbolo adrenalina (rellenar)
-    - [ ] Corregir att + skills
-    - [ ] Features de vampiros, hombres lobo y fantasmas
+- [ ] App **moz667**
+    - [ ] Revisar simbolo adrenalina (rellenar) **moz667**
+    - [ ] Corregir att + skills **moz667**
+    - [ ] Features de vampiros, hombres lobo y fantasmas **moz667**
 - [X] Definir PJs
     - [X] ~~Crear fichas de PJs.~~ **Se las crean los jugadores a partir del resumen entregado**
     - [X] Crear transfondo
@@ -42,8 +42,13 @@
 - [ ] Crear mapas.
     - [ ] presa  **bpk**
     - [ ] palacio **moz667** `https://d1vzi28wh99zvq.cloudfront.net/images/11356/_product_images/358460/H_-_Adventure_Shot_2.jpg`
-- [ ] Lapizes **moz667**
+- [ ] Compras **moz667**
+    - [ ] Lapizes
+    - [ ] Folios
+    - [ ] Gomas
+    - [ ] Clips
 - [ ] Dados **bpk**
+- [ ] Generar pdfs **moz667**
 - [ ] Impresiones **bpk**
     - [ ] Hojas de personajes (vacias) x 10 copias
     - [ ] Catalogo de roles
@@ -54,8 +59,6 @@
         - [ ] **opcional** PNJs **Descripcion**
     - [ ] Reglas **Resumen de reglas**
     - [ ] Glosario con terminos, pjs, etc **falta hacer el md**
-- [ ] Folios **moz667**
-- [ ] Gomas **moz667**
 
 
 ## Mesh
