@@ -271,3 +271,7 @@ Pistas: Despacho de la universidad. Casa del lingüista.
     * [ ] Conocimiento Sobrenatural **???DIFICULTAD??? FOCUS + DETECT**
     * [ ] Lock picking **???DIFICULTAD??? CRIME + DEXTERITY**
     * [ ] Conducir **???DIFICULTAD??? NERVES + DRIVE**
+
+
+- [ ] Inciativa
+    * ni idea de como hacer esto, lo mismo tirar `d6 + Stunt`

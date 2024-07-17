@@ -81,17 +81,19 @@
 * Llegan a Florencia.
 * Ir a la universidad o a la casa del agente desaparecido.
     * Van a la universidad:
-        * Hay una tía vigilando el despacho del lingüista (trabaja para Taras).
+        * Esta **Gladis** vigilando el despacho del lingüista (trabaja para Taras).
         * Al acercarse los PJs, ella va a intentar distraerles:
-            * La tía les dice que conoce al profesor y está buscándole.
+            * **Gladis** les dice que conoce al profesor y está buscándole.
             * Suena un ruído dentro de algo cayendo al suelo.
         * Al entrar en el despacho hay un tío revisando el despacho y está todo revuelto.
             * Si intentan sacarle información al tío, inentará huir:
-                Es un agente de Taras y participó en la tortura pero no han encontrado dónde está la información de la reliquia.
-                Puede intentar huir y, si lo pillan, suicidarse.
+                * Es un agente de Taras y participó en la tortura pero no han encontrado dónde está la información de la reliquia.
+                * Puede intentar huir y, si lo pillan, suicidarse.
         * Cuando estudien los papeles, identificarán el nombre de varios manuscritos y que éstos están en la biblioteca.
-            * Si los PJs no lo averiguan, la tía encontrará la información.
+            * Si los PJs no lo averiguan, **Gladis** encontrará la información.
             * Se ofrece a ayudarles. Se pegará a los PJs como una lapa.
+        * Si buscan en el despacho encontraran varios trabajos del profesor, libros y demas (lo que se espera encontrar en un despacho de profesor de universidad)
+            * Gear: memento
     * Van a la casa (chalet adosado a las afueras de Florencia):
         * Antes de entrar ven huellas de un Mercedes de alta gama.
         * Al empezar a registrar la casa:

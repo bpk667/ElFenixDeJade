@@ -36,3 +36,16 @@ Puedes tener hasta 3 puntos en cada atributo y habilidad. Cada héroe comienza c
 * Dexterity: Perform sleight of hand, steal something, pick a lock.
 * Stealth: Hide, sneak, or move quietly.
 * Streetwise: Interact with criminals, recall information useful for moving in seedy neighborhoods or dealing with organized crime.
+
+
+| X    | BASIC | CRITICAL       | EXTREME        | IMPOSIBLE      |
+|------|-------|----------------|----------------|----------------|
+| DICE | ROLL  | ROLL / RE-ROLL | ROLL / RE-ROLL | ROLL / RE-ROLL |
+| 2    | 17%   | - / -          | - / -          | - / -          |
+| 3    | 45%   | 3% / 5%        | - / -          | - / -          |
+| 4    | 72%   | 10% / 21%      | 0.5% / 1.5%    | - / -          |
+| 5    | 91%   |                |                | 0.1% / 0.5%    |
+| 6    | 99%   |                |                | 1% / 13%       |
+| 7    | 100%  |                |                |                |
+| 8    | 100%  |                |                |                |
+| 9    | 100%  |                |                |                |
