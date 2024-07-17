@@ -26,7 +26,7 @@ En la sala hay un
 El acceso está cortado. Hay múltiples pintadas del grupo Préstamo de Nuestros Hijos y la caseta está destrozada.  
 Los PJs tienen que dejar los coche ahí y seguir a pie.  
 
-### Al dejar los coches atrás.  
+### Dejan los coches.
 El camino está rodeado de un bosque espeso.  
 De vez en cuando oye un río que pasa cerca. En los ocasionales claros ven una presa a un par de kilómetros.  
 Aullido de lobo en la lejanía.  
@@ -64,7 +64,7 @@ Hay cámaras de seguridad normales (que nadie está mirando, pero eso no lo sabe
 
 **Opción 2**. Infiltrarse por el almacén y, desde ahí por los tubos de ventilación.
 
-### Incursión en el edicicio.
+### Incursión en el edificio.
 
 **Entrada por el almacén. Sala 15.**  
 La pueden encontrar:  
@@ -125,6 +125,5 @@ Los PJs contra el hombre lobo y los Ghouls.
 **Opcional**:
   - Alguno de los PJs puede detectar que el lobo tiene un collar extraño.  
       - Si rompen el collar, liberarán al hombre lobo y éste puede matar a los Ghouls.
-  - Si salvan al hombre lobo, éste se presentará a ellos. Le debe un favor a quien le haya liberado.
-  - Si revisan la sala 17 encontrarán papeles incriminando al grupo ecoterrorista Prestamo de Nuestros Hijos.
-  -
+      - Si salvan al hombre lobo, éste se presentará a ellos. Le debe un favor a quien le haya liberado.
+  - Si revisan la sala 17 encontrarán papeles incriminando al grupo ecoterrorista Préstamo de Nuestros Hijos.
