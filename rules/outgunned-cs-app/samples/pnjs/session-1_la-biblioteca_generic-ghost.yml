@@ -1,0 +1,13 @@
+personal_data:
+  name: Fantasma generico
+  character_description: |
+    Empieza con 6 ⚡
+  role: Fighter
+  trope: Diehard
+  age: Adult
+attributes:
+  - Nerves
+feats: 
+  - BOO!
+  - SMEAR THROUGH
+  - WHEEL AROUND

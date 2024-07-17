@@ -3,10 +3,10 @@
 - [ ] Leerse los libros.
     - [ ] Revisar LVL UP **moz667**
     - [X] Revisar combate
-- [X] App **moz667**
-    - [X] Revisar simbolo adrenalina (rellenar) **moz667**
-    - [X] Corregir att + skills **moz667**
-    - [X] Features de vampiros, hombres lobo y fantasmas **moz667**
+- [X] App
+    - [X] Revisar simbolo adrenalina (rellenar)
+    - [X] Corregir att + skills
+    - [X] Features de vampiros, hombres lobo y fantasmas
 - [X] Definir PJs
     - [X] ~~Crear fichas de PJs.~~ **Se las crean los jugadores a partir del resumen entregado**
     - [X] Crear transfondo
@@ -18,7 +18,7 @@
     - [X] Estructura base: [estructura.md](./estructura.md)
     - [ ] Sesion 1
         - [X] Recopilacion de informacion (El Casino)
-        - [ ] STATUS de **El Profesor** (La Biblioteca)  **in progress: moz667**
+        - [X] STATUS de **El Profesor** (La Biblioteca)
     - [ ] Sesion 2
         - [ ] El Golpe (El Palacete) **in progress: moz667**
             - [X] El Giro (La Presa) **in progress: bpk**
@@ -32,8 +32,8 @@
     - [ ] Atsumi. Ladrona (Wuxia)(casino) **bpk**
     - [ ] Li Chan. Empresario (Wuxia)(casino) **bpk**
     - [ ] Huang Su. Monje Shaolin (Wuxia)(casino) **bpk**
-    - [ ] Olaus Wormius (espectro)(biblioteca) **moz667**
-    - [ ] Espectro menor (espectro)(biblioteca) **moz667**
+    - [X] Olaus Wormius (espectro)(biblioteca)
+    - [X] Fantasma generico (espectro)(biblioteca)
     - [ ] Hombre lobo (presa) **bpk**
     - [ ] Pedro (Ghoul)(presa) **bpk**
     - [ ] Max (Ghoul)(presa) **bpk**

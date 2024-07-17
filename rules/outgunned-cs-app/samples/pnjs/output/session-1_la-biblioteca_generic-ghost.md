@@ -1,9 +1,9 @@
 
-# Olaus Wormius
+# Fantasma generico
 
 ## Datos personales
 
-* **Name:** Olaus Wormius
+* **Name:** Fantasma generico
 * **Role:** Fighter
 * **Trope:** Diehard
 * **Job:** SIN JOB!!!!
@@ -12,16 +12,6 @@
 * **Catchphrase:** SIN CATCH PHRASE!!!!
 
 ## Descripcion del personaje
-
-Condenado a la eternidad como se narra en El Guardián de la Eternidad.  
-
-Para liberarle y poder interrogarle habría que:  
-1. Dibujar una ouija.  
-2. Colocar a los pies de la ouija el libro.  
-3. Hacer un círculo de sal o de agua bendita alrededor.  
-4. Convocar a Olaus.
-
-Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
 
 Empieza con 6 ⚡
 
@@ -72,22 +62,22 @@ The Ghost appears suddenly or does something purely terrifying.
 Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
 
 
-### DEMATERIALIZE
+### SMEAR THROUGH
 
 (GHOST, SPECIAL ACTION, Cost 1 ⚡)
 
-The ghost suddenly vanishes into thin air.
+The Ghost passes through a Hero.
 
-After a Hero lands a blow, the Ghost ignores all loss of Grit.
+The Hero is now Smeared.
 
 
-### KNIFE VOLLEY
+### WHEEL AROUND
 
-(GHOST, SPECIAL ACTION, Cost 2 ⚡)
+(GHOST, SPECIAL ACTION, Cost 1 ⚡)
 
-The Ghost flings knives and other dangerous objects through the room.
+The Ghost whirls a Hero around mid-air.
 
-All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
+If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
 
 
 
