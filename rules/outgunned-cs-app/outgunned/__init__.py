@@ -296,8 +296,9 @@ class OutgunnedCSGenerator:
     def get_gear(self):
         gear_md = ""
 
-        for item in self.character_data['gear']:
-            gear_md += "* %s\n" % item
+        if 'gear' in self.character_data:
+            for item in self.character_data['gear']:
+                gear_md += "* %s\n" % item
         
         return gear_md
 

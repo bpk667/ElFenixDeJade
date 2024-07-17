@@ -1,0 +1,23 @@
+personal_data:
+  name: Olaus Wormius
+  character_description: |
+    Condenado a la eternidad como se narra en El Guardián de la Eternidad.  
+
+    Para liberarle y poder interrogarle habría que:  
+    1. Dibujar una ouija.  
+    2. Colocar a los pies de la ouija el libro.  
+    3. Hacer un círculo de sal o de agua bendita alrededor.  
+    4. Convocar a Olaus.
+
+    Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
+
+    Empieza con 6 
+  role: Fighter
+  trope: Diehard
+  age: Adult
+attributes:
+  - Nerves
+feats: 
+  - BOO!
+  - DEMATERIALIZE
+  - KNIFE VOLLEY
