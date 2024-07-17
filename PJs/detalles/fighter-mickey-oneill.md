@@ -26,22 +26,31 @@ You’re impudent, unreasonable, and far too sure of yourself. You're the kind o
 
 ## Atributos
 
-* **Smooth:** 2
-* **Brawn:** 2
-* **Endure:** 2
-* **Fight:** 3
-* **Force:** 2
-* **Stunt:** 2
-* **Cool:** 2
-* **Flirt:** 3
-* **Leadership:** 2
-* **Style:** 3
-* **Heal:** 2
-* **Dexterity:** 3
-* **Survival:** 2
-* **Speech:** 2
-* **Stealth:** 2
-* **Streetwise:** 2
+* **Smooth:** 3
+    * **Flirt:** 3
+    * **Leadership:** 2
+    * **Style:** 3
+    * **Speech:** 2
+* **Brawn:** 3
+    * **Endure:** 2
+    * **Fight:** 3
+    * **Force:** 2
+    * **Stunt:** 2
+* **Nerves:** 2
+    * **Cool:** 2
+    * **Survival:** 2
+    * **Drive:** 1
+    * **Shoot:** 1
+* **Focus:** 2
+    * **Heal:** 2
+    * **Detect:** 1
+    * **Fix:** 1
+    * **Know:** 1
+* **Crime:** 2
+    * **Stealth:** 2
+    * **Streetwise:** 2
+    * **Awareness:** 1
+    * **Desxterity:** 1
 
 
 ## Habilidades

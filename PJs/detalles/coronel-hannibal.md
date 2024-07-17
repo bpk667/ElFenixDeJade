@@ -26,21 +26,31 @@ To you, helping others is the obvious choice. Doesn't matter if you have to hold
 
 ## Atributos
 
-* **Smooth:** 2
-* **Focus:** 2
-* **Drive:** 2
-* **Leadership:** 2
-* **Speech:** 3
-* **Style:** 3
-* **Detect:** 3
-* **Fix:** 2
-* **Heal:** 3
-* **Know:** 3
-* **Dexterity:** 2
-* **Stealth:** 2
-* **Endure:** 2
-* **Cool:** 2
-* **Shoot:** 2
+* **Smooth:** 3
+    * **Leadership:** 2
+    * **Speech:** 3
+    * **Style:** 3
+    * **Flirt:** 1
+* **Focus:** 3
+    * **Detect:** 3
+    * **Fix:** 2
+    * **Heal:** 3
+    * **Know:** 3
+* **Brawn:** 2
+    * **Endure:** 2
+    * **Fight:** 1
+    * **Force:** 1
+    * **Stunt:** 1
+* **Nerves:** 2
+    * **Drive:** 2
+    * **Cool:** 2
+    * **Shoot:** 2
+    * **Survival:** 1
+* **Crime:** 2
+    * **Stealth:** 2
+    * **Awareness:** 1
+    * **Desxterity:** 1
+    * **Streetwise:** 1
 
 
 ## Habilidades
@@ -54,12 +64,16 @@ Gain a Free Re-roll when defending or saving others, or when acting selflessly.
 
 ### Mastermind
 
+(Cost ⚡)
+
 Your brilliant ideas allow you to always come out on top.
 
 Repeat one roll of any kind. Ignore all -1s from Conditions and circumstances.
 
 
 ### Intuition
+
+(Cost ⚡)
 
 You notice hidden details other people miss.
 

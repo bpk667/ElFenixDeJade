@@ -820,7 +820,7 @@ FEATS:
     Gain a Free Re-roll for all rolls made to lie, to persuade others, to find a compromise, or to bargain.
   SPINOUT: |
     (Cost ⚡)
-    
+
     You pull the break and quickly turn the wheel. Everyone better hold on tight.
 
     [Full Turn] All Heroes on the ride you are driving skip their Reaction Turn during a Chase. Flip a coin. 
@@ -838,33 +838,34 @@ FEATS:
 
     You can only gain this Feat when creating a Young Hero.
 ATTRIBUTES:
-  BRAWN:
-    BRAWN: 2
-    ENDURE: 1
-    FIGHT: 1
-    FORCE: 1
-    STUNT: 1
-  NERVES:
-    NERVES: 2
-    COOL: 1
-    DRIVE: 1
-    SHOOT: 1
-    SURVIVAL: 1
-  SMOOTH:
-    SMOOTH: 2
-    FLIRT: 1
-    LEADERSHIP: 1
-    SPEECH: 1
-    STYLE: 1
-  FOCUS:
-    FOCUS: 2
-    DETECT: 1
-    FIX: 1
-    HEAL: 1
-    KNOW: 1
-  CRIME:
-    CRIME: 2
-    AWARENESS: 1
-    DEXTERITY: 1
-    STEALTH: 1
-    STREETWISE: 1
+  Brawn: 2
+  Nerves: 2
+  Smooth: 2
+  Focus: 2
+  Crime: 2
+SKILL_POINTS:
+  Brawn:
+    Endure: 1
+    Fight: 1
+    Force: 1
+    Stunt: 1
+  Nerves:
+    Cool: 1
+    Drive: 1
+    Shoot: 1
+    Survival: 1
+  Smooth:
+    Flirt: 1
+    Leadership: 1
+    Speech: 1
+    Style: 1
+  Focus:
+    Detect: 1
+    Fix: 1
+    Heal: 1
+    Know: 1
+  Crime:
+    Awareness: 1
+    Desxterity: 1
+    Stealth: 1
+    Streetwise: 1

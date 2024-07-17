@@ -26,21 +26,31 @@ You lie for work, for fun, or out of necessity. Anyway, you lie well, often, and
 
 ## Atributos
 
-* **Crime:** 2
-* **Smooth:** 2
-* **Flirt:** 2
-* **Leadership:** 2
-* **Speech:** 3
-* **Style:** 3
-* **Detect:** 2
-* **Heal:** 2
-* **Know:** 2
-* **Dexterity:** 3
-* **Stealth:** 3
-* **Streetwise:** 3
-* **Stunt:** 2
-* **Cool:** 2
-* **Shoot:** 2
+* **Crime:** 3
+    * **Stealth:** 3
+    * **Streetwise:** 3
+    * **Awareness:** 1
+    * **Desxterity:** 1
+* **Smooth:** 3
+    * **Flirt:** 2
+    * **Leadership:** 2
+    * **Speech:** 3
+    * **Style:** 3
+* **Brawn:** 2
+    * **Stunt:** 2
+    * **Endure:** 1
+    * **Fight:** 1
+    * **Force:** 1
+* **Nerves:** 2
+    * **Cool:** 2
+    * **Shoot:** 2
+    * **Drive:** 1
+    * **Survival:** 1
+* **Focus:** 2
+    * **Detect:** 2
+    * **Heal:** 2
+    * **Know:** 2
+    * **Fix:** 1
 
 
 ## Habilidades

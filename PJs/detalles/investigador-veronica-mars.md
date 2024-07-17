@@ -26,21 +26,31 @@ To you, helping others is the obvious choice. Doesn't matter if you have to hold
 
 ## Atributos
 
-* **Smooth:** 2
-* **Focus:** 2
-* **Endure:** 3
-* **Stunt:** 2
-* **Cool:** 3
-* **Drive:** 2
-* **Shoot:** 3
-* **Detect:** 3
-* **Know:** 3
-* **Awareness:** 2
-* **Stealth:** 2
-* **Streetwise:** 2
-* **Speech:** 2
-* **Style:** 2
-* **Heal:** 2
+* **Smooth:** 3
+    * **Speech:** 2
+    * **Style:** 2
+    * **Flirt:** 1
+    * **Leadership:** 1
+* **Focus:** 3
+    * **Detect:** 3
+    * **Know:** 3
+    * **Heal:** 2
+    * **Fix:** 1
+* **Brawn:** 2
+    * **Endure:** 3
+    * **Stunt:** 2
+    * **Fight:** 1
+    * **Force:** 1
+* **Nerves:** 2
+    * **Cool:** 3
+    * **Drive:** 2
+    * **Shoot:** 3
+    * **Survival:** 1
+* **Crime:** 2
+    * **Awareness:** 2
+    * **Stealth:** 2
+    * **Streetwise:** 2
+    * **Desxterity:** 1
 
 
 ## Habilidades
@@ -53,6 +63,8 @@ Gain a Free Re-roll when looking for clues, following trails, or searching a roo
 
 
 ### I’ll Make a Phone Call
+
+(Cost ⚡)
 
 You have a contact, a friend, or a favor you can call in. It’s just a phone call away.
 

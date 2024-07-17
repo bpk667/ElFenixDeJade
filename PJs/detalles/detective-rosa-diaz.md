@@ -26,22 +26,31 @@ You’re pretty big, tall, muscular, and athletic. Perhaps you’re tough and in
 
 ## Atributos
 
-* **Brawn:** 2
-* **Nerves:** 2
-* **Endure:** 3
-* **Fight:** 3
-* **Stunt:** 3
-* **Cool:** 2
-* **Drive:** 2
-* **Shoot:** 2
-* **Leadership:** 3
-* **Detect:** 2
-* **Heal:** 2
-* **Awareness:** 2
-* **Force:** 2
-* **Survival:** 2
-* **Flirt:** 2
-* **Style:** 2
+* **Brawn:** 3
+    * **Endure:** 3
+    * **Fight:** 3
+    * **Stunt:** 3
+    * **Force:** 2
+* **Nerves:** 3
+    * **Cool:** 2
+    * **Drive:** 2
+    * **Shoot:** 2
+    * **Survival:** 2
+* **Smooth:** 2
+    * **Leadership:** 3
+    * **Flirt:** 2
+    * **Style:** 2
+    * **Speech:** 1
+* **Focus:** 2
+    * **Detect:** 2
+    * **Heal:** 2
+    * **Fix:** 1
+    * **Know:** 1
+* **Crime:** 2
+    * **Awareness:** 2
+    * **Desxterity:** 1
+    * **Stealth:** 1
+    * **Streetwise:** 1
 
 
 ## Habilidades

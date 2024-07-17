@@ -26,26 +26,38 @@ Nobody can tell you what to do. You’re a free spirit, and you always follow yo
 
 ## Atributos
 
-* **Brawn:** 2
-* **Crime:** 2
-* **Force:** 2
-* **Stunt:** 3
-* **Drive:** 3
-* **Shoot:** 2
-* **Survival:** 3
-* **Speech:** 2
-* **Awareness:** 2
-* **Dexterity:** 2
-* **Stealth:** 3
-* **Streetwise:** 3
-* **Fight:** 2
-* **Style:** 2
-* **Fix:** 2
+* **Brawn:** 3
+    * **Force:** 2
+    * **Stunt:** 3
+    * **Fight:** 2
+    * **Endure:** 1
+* **Crime:** 3
+    * **Awareness:** 2
+    * **Stealth:** 3
+    * **Streetwise:** 3
+    * **Desxterity:** 1
+* **Nerves:** 2
+    * **Drive:** 3
+    * **Shoot:** 2
+    * **Survival:** 3
+    * **Cool:** 1
+* **Smooth:** 2
+    * **Speech:** 2
+    * **Style:** 2
+    * **Flirt:** 1
+    * **Leadership:** 1
+* **Focus:** 2
+    * **Fix:** 2
+    * **Detect:** 1
+    * **Heal:** 1
+    * **Know:** 1
 
 
 ## Habilidades
 
 ### Always Prepared
+
+(Cost ⚡)
 
 You always have an ace up your sleeve.
 

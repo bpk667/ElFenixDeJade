@@ -1,9 +1,9 @@
 
-# Jonh Matrix
+# Jonh Matrix (Comando)
 
 ## Datos personales
 
-* **Name:** Jonh Matrix
+* **Name:** Jonh Matrix (Comando)
 * **Role:** Comando
 * **Trope:** Hunk
 * **Job:** Ex-Marine
@@ -28,21 +28,31 @@ You’re pretty big, tall, muscular, and athletic. Perhaps you’re tough and in
 
 ## Atributos
 
-* **Smooth:** 2
-* **Brawn:** 2
-* **Endure:** 3
-* **Fight:** 3
-* **Force:** 3
-* **Cool:** 2
-* **Shoot:** 2
-* **Survival:** 3
-* **Leadership:** 3
-* **Fix:** 2
-* **Awareness:** 2
-* **Stealth:** 2
-* **Stunt:** 2
-* **Flirt:** 2
-* **Style:** 2
+* **Smooth:** 3
+    * **Leadership:** 3
+    * **Flirt:** 2
+    * **Style:** 2
+    * **Speech:** 1
+* **Brawn:** 3
+    * **Endure:** 3
+    * **Fight:** 3
+    * **Force:** 3
+    * **Stunt:** 2
+* **Nerves:** 2
+    * **Cool:** 2
+    * **Shoot:** 2
+    * **Survival:** 3
+    * **Drive:** 1
+* **Focus:** 2
+    * **Fix:** 2
+    * **Detect:** 1
+    * **Heal:** 1
+    * **Know:** 1
+* **Crime:** 2
+    * **Awareness:** 2
+    * **Stealth:** 2
+    * **Desxterity:** 1
+    * **Streetwise:** 1
 
 
 ## Habilidades

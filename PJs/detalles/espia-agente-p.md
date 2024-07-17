@@ -26,22 +26,31 @@ You’re a real nerd. Computers, comics, and pop culture have no secrets for you
 
 ## Atributos
 
-* **Focus:** 2
-* **Crime:** 2
-* **Endure:** 2
-* **Fight:** 2
-* **Stunt:** 2
-* **Cool:** 2
-* **Drive:** 3
-* **Shoot:** 2
-* **Flirt:** 2
-* **Detect:** 3
-* **Awareness:** 3
-* **Stealth:** 3
-* **Speech:** 2
-* **Fix:** 2
-* **Know:** 2
-* **Dexterity:** 2
+* **Focus:** 3
+    * **Detect:** 3
+    * **Fix:** 2
+    * **Know:** 2
+    * **Heal:** 1
+* **Crime:** 3
+    * **Awareness:** 3
+    * **Stealth:** 3
+    * **Desxterity:** 1
+    * **Streetwise:** 1
+* **Brawn:** 2
+    * **Endure:** 2
+    * **Fight:** 2
+    * **Stunt:** 2
+    * **Force:** 1
+* **Nerves:** 2
+    * **Cool:** 2
+    * **Drive:** 3
+    * **Shoot:** 2
+    * **Survival:** 1
+* **Smooth:** 2
+    * **Flirt:** 2
+    * **Speech:** 2
+    * **Leadership:** 1
+    * **Style:** 1
 
 
 ## Habilidades

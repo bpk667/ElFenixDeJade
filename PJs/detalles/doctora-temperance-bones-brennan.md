@@ -26,19 +26,31 @@ You’re a real nerd. Computers, comics, and pop culture have no secrets for you
 
 ## Atributos
 
-* **Crime:** 2
-* **Focus:** 2
-* **Drive:** 3
-* **Leadership:** 2
-* **Speech:** 3
-* **Style:** 2
-* **Detect:** 3
-* **Fix:** 3
-* **Heal:** 2
-* **Know:** 3
-* **Dexterity:** 3
-* **Stealth:** 3
-* **Awareness:** 2
+* **Crime:** 3
+    * **Stealth:** 3
+    * **Awareness:** 2
+    * **Desxterity:** 1
+    * **Streetwise:** 1
+* **Focus:** 3
+    * **Detect:** 3
+    * **Fix:** 3
+    * **Heal:** 2
+    * **Know:** 3
+* **Brawn:** 2
+    * **Endure:** 1
+    * **Fight:** 1
+    * **Force:** 1
+    * **Stunt:** 1
+* **Nerves:** 2
+    * **Drive:** 3
+    * **Cool:** 1
+    * **Shoot:** 1
+    * **Survival:** 1
+* **Smooth:** 2
+    * **Leadership:** 2
+    * **Speech:** 3
+    * **Style:** 2
+    * **Flirt:** 1
 
 
 ## Habilidades
@@ -60,6 +72,8 @@ Make an Action or Reaction Roll of any kind using Know instead of the required S
 
 
 ### Intuition
+
+(Cost ⚡)
 
 You notice hidden details other people miss.
 

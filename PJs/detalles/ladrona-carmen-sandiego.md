@@ -28,27 +28,38 @@ You’ve stood to watch, while the law tried and failed to solve the problems of
 
 ## Atributos
 
-* **Focus:** 2
-* **Crime:** 2
-* **Force:** 2
-* **Stunt:** 3
-* **Drive:** 2
-* **Shoot:** 2
-* **Survival:** 2
-* **Speech:** 2
-* **Awareness:** 3
-* **Dexterity:** 2
-* **Stealth:** 3
-* **Streetwise:** 3
-* **Fight:** 2
-* **Leadership:** 2
-* **Detect:** 2
-* **Fix:** 2
+* **Focus:** 3
+    * **Detect:** 2
+    * **Fix:** 2
+    * **Heal:** 1
+    * **Know:** 1
+* **Crime:** 3
+    * **Awareness:** 3
+    * **Stealth:** 3
+    * **Streetwise:** 3
+    * **Desxterity:** 1
+* **Brawn:** 2
+    * **Force:** 2
+    * **Stunt:** 3
+    * **Fight:** 2
+    * **Endure:** 1
+* **Nerves:** 2
+    * **Drive:** 2
+    * **Shoot:** 2
+    * **Survival:** 2
+    * **Cool:** 1
+* **Smooth:** 2
+    * **Speech:** 2
+    * **Leadership:** 2
+    * **Flirt:** 1
+    * **Style:** 1
 
 
 ## Habilidades
 
 ### Always Prepared
+
+(Cost ⚡)
 
 You always have an ace up your sleeve.
 

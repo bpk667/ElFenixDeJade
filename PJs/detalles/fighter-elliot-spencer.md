@@ -24,22 +24,31 @@ To you, helping others is the obvious choice. Doesn't matter if you have to hold
 
 ## Atributos
 
-* **Smooth:** 2
-* **Brawn:** 2
-* **Endure:** 3
-* **Fight:** 2
-* **Force:** 2
-* **Stunt:** 2
-* **Cool:** 3
-* **Flirt:** 2
-* **Leadership:** 2
-* **Style:** 3
-* **Heal:** 3
-* **Dexterity:** 2
-* **Shoot:** 2
-* **Speech:** 2
-* **Detect:** 2
-* **Know:** 2
+* **Smooth:** 3
+    * **Flirt:** 2
+    * **Leadership:** 2
+    * **Style:** 3
+    * **Speech:** 2
+* **Brawn:** 3
+    * **Endure:** 3
+    * **Fight:** 2
+    * **Force:** 2
+    * **Stunt:** 2
+* **Nerves:** 2
+    * **Cool:** 3
+    * **Shoot:** 2
+    * **Drive:** 1
+    * **Survival:** 1
+* **Focus:** 2
+    * **Heal:** 3
+    * **Detect:** 2
+    * **Know:** 2
+    * **Fix:** 1
+* **Crime:** 2
+    * **Awareness:** 1
+    * **Desxterity:** 1
+    * **Stealth:** 1
+    * **Streetwise:** 1
 
 
 ## Habilidades
@@ -53,6 +62,8 @@ Gain a Free Re-roll for all Action and Reaction Rolls made when fighting unarmed
 
 ### Flying Kick
 
+(Cost ⚡)
+
 No enemy is out of reach for your deadly kicks.
 
 Attack an Enemy within Close or Medium Range, gain +1 to the roll.
@@ -61,6 +72,8 @@ Additionally, you can always attack an Enemy within Close Range while bare-hande
 
 
 ### Get Down!
+
+(Cost ⚡)
 
 You grab your friend and drag them away from danger one second before disaster.
 

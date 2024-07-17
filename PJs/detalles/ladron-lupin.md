@@ -26,25 +26,38 @@ You lie for work, for fun, or out of necessity. Anyway, you lie well, often, and
 
 ## Atributos
 
-* **Smooth:** 2
-* **Crime:** 2
-* **Force:** 2
-* **Stunt:** 3
-* **Drive:** 2
-* **Shoot:** 3
-* **Survival:** 2
-* **Speech:** 3
-* **Awareness:** 2
-* **Dexterity:** 3
-* **Stealth:** 3
-* **Streetwise:** 3
-* **Cool:** 2
-* **Style:** 2
+* **Smooth:** 3
+    * **Speech:** 3
+    * **Style:** 2
+    * **Flirt:** 1
+    * **Leadership:** 1
+* **Crime:** 3
+    * **Awareness:** 2
+    * **Stealth:** 3
+    * **Streetwise:** 3
+    * **Desxterity:** 1
+* **Brawn:** 2
+    * **Force:** 2
+    * **Stunt:** 3
+    * **Endure:** 1
+    * **Fight:** 1
+* **Nerves:** 2
+    * **Drive:** 2
+    * **Shoot:** 3
+    * **Survival:** 2
+    * **Cool:** 2
+* **Focus:** 2
+    * **Detect:** 1
+    * **Fix:** 1
+    * **Heal:** 1
+    * **Know:** 1
 
 
 ## Habilidades
 
 ### Always Prepared
+
+(Cost ⚡)
 
 You always have an ace up your sleeve.
 

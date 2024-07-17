@@ -26,20 +26,31 @@ You come off to strangers as abrasive and rude. Indeed, you’re pretty good at 
 
 ## Atributos
 
-* **Fighter:** 2
-* **Brawn:** 2
-* **Endure:** 2
-* **Fight:** 3
-* **Force:** 3
-* **Stunt:** 3
-* **Cool:** 3
-* **Flirt:** 3
-* **Leadership:** 3
-* **Style:** 2
-* **Heal:** 2
-* **Dexterity:** 2
-* **Survival:** 2
-* **Streetwise:** 2
+* **Brawn:** 4
+    * **Endure:** 2
+    * **Fight:** 3
+    * **Force:** 3
+    * **Stunt:** 3
+* **Nerves:** 2
+    * **Cool:** 3
+    * **Survival:** 2
+    * **Drive:** 1
+    * **Shoot:** 1
+* **Smooth:** 2
+    * **Flirt:** 3
+    * **Leadership:** 3
+    * **Style:** 2
+    * **Speech:** 1
+* **Focus:** 2
+    * **Heal:** 2
+    * **Detect:** 1
+    * **Fix:** 1
+    * **Know:** 1
+* **Crime:** 2
+    * **Streetwise:** 2
+    * **Awareness:** 1
+    * **Desxterity:** 1
+    * **Stealth:** 1
 
 
 ## Habilidades

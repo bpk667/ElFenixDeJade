@@ -24,21 +24,31 @@ You’re elegant and sexy, irresistibly stylish, or simply really, really... rea
 
 ## Atributos
 
-* **Crime:** 2
-* **Smooth:** 2
-* **Flirt:** 3
-* **Leadership:** 2
-* **Speech:** 2
-* **Style:** 3
-* **Detect:** 3
-* **Heal:** 2
-* **Know:** 3
-* **Dexterity:** 3
-* **Stealth:** 2
-* **Streetwise:** 2
-* **Fight:** 2
-* **Drive:** 2
-* **Awareness:** 2
+* **Crime:** 3
+    * **Stealth:** 2
+    * **Streetwise:** 2
+    * **Awareness:** 2
+    * **Desxterity:** 1
+* **Smooth:** 3
+    * **Flirt:** 3
+    * **Leadership:** 2
+    * **Speech:** 2
+    * **Style:** 3
+* **Brawn:** 2
+    * **Fight:** 2
+    * **Endure:** 1
+    * **Force:** 1
+    * **Stunt:** 1
+* **Nerves:** 2
+    * **Drive:** 2
+    * **Cool:** 1
+    * **Shoot:** 1
+    * **Survival:** 1
+* **Focus:** 2
+    * **Detect:** 3
+    * **Heal:** 2
+    * **Know:** 3
+    * **Fix:** 1
 
 
 ## Habilidades

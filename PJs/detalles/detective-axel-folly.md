@@ -26,23 +26,31 @@ Nobody can tell you what to do. You’re a free spirit, and you always follow yo
 
 ## Atributos
 
-* **Crime:** 2
-* **Nerves:** 2
-* **Endure:** 2
-* **Fight:** 3
-* **Stunt:** 3
-* **Cool:** 2
-* **Drive:** 3
-* **Shoot:** 2
-* **Leadership:** 2
-* **Detect:** 2
-* **Heal:** 2
-* **Awareness:** 2
-* **Survival:** 2
-* **Style:** 2
-* **Fix:** 2
-* **Stealth:** 2
-* **Streetwise:** 2
+* **Crime:** 3
+    * **Awareness:** 2
+    * **Stealth:** 2
+    * **Streetwise:** 2
+    * **Desxterity:** 1
+* **Nerves:** 3
+    * **Cool:** 2
+    * **Drive:** 3
+    * **Shoot:** 2
+    * **Survival:** 2
+* **Brawn:** 2
+    * **Endure:** 2
+    * **Fight:** 3
+    * **Stunt:** 3
+    * **Force:** 1
+* **Smooth:** 2
+    * **Leadership:** 2
+    * **Style:** 2
+    * **Flirt:** 1
+    * **Speech:** 1
+* **Focus:** 2
+    * **Detect:** 2
+    * **Heal:** 2
+    * **Fix:** 2
+    * **Know:** 1
 
 
 ## Habilidades
@@ -62,6 +70,8 @@ Gain a Free Re-roll when using, repairing, evaluating, or handling a pistol or r
 
 
 ### Get Down!
+
+(Cost ⚡)
 
 You grab your friend and drag them away from danger one second before disaster.
 

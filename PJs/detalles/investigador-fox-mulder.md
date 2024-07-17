@@ -26,20 +26,31 @@ Your house is in complete disarray, and you mope around with your head hung low,
 
 ## Atributos
 
-* **Smooth:** 2
-* **Focus:** 2
-* **Endure:** 2
-* **Stunt:** 2
-* **Cool:** 3
-* **Drive:** 3
-* **Shoot:** 3
-* **Detect:** 3
-* **Know:** 3
-* **Awareness:** 2
-* **Stealth:** 2
-* **Streetwise:** 3
-* **Fight:** 2
-* **Flirt:** 2
+* **Smooth:** 3
+    * **Flirt:** 2
+    * **Leadership:** 1
+    * **Speech:** 1
+    * **Style:** 1
+* **Focus:** 3
+    * **Detect:** 3
+    * **Know:** 3
+    * **Fix:** 1
+    * **Heal:** 1
+* **Brawn:** 2
+    * **Endure:** 2
+    * **Stunt:** 2
+    * **Fight:** 2
+    * **Force:** 1
+* **Nerves:** 2
+    * **Cool:** 3
+    * **Drive:** 3
+    * **Shoot:** 3
+    * **Survival:** 1
+* **Crime:** 2
+    * **Awareness:** 2
+    * **Stealth:** 2
+    * **Streetwise:** 3
+    * **Desxterity:** 1
 
 
 ## Habilidades
@@ -52,6 +63,8 @@ Gain a Free Re-roll for all rolls made to interview people, gain information, an
 
 
 ### I’ll Make a Phone Call
+
+(Cost ⚡)
 
 You have a contact, a friend, or a favor you can call in. It’s just a phone call away.
 

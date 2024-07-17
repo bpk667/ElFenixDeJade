@@ -26,20 +26,31 @@ It doesn’t matter how many times they push you to the ground, you just keep st
 
 ## Atributos
 
-* **Nerves:** 2
-* **Brawn:** 2
-* **Endure:** 3
-* **Fight:** 3
-* **Force:** 3
-* **Cool:** 3
-* **Shoot:** 3
-* **Survival:** 2
-* **Leadership:** 3
-* **Fix:** 2
-* **Awareness:** 2
-* **Stealth:** 2
-* **Drive:** 2
-* **Heal:** 2
+* **Nerves:** 3
+    * **Cool:** 3
+    * **Shoot:** 3
+    * **Survival:** 2
+    * **Drive:** 2
+* **Brawn:** 3
+    * **Endure:** 3
+    * **Fight:** 3
+    * **Force:** 3
+    * **Stunt:** 1
+* **Smooth:** 2
+    * **Leadership:** 3
+    * **Flirt:** 1
+    * **Speech:** 1
+    * **Style:** 1
+* **Focus:** 2
+    * **Fix:** 2
+    * **Heal:** 2
+    * **Detect:** 1
+    * **Know:** 1
+* **Crime:** 2
+    * **Awareness:** 2
+    * **Stealth:** 2
+    * **Desxterity:** 1
+    * **Streetwise:** 1
 
 
 ## Habilidades

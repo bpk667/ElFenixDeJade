@@ -47,6 +47,9 @@ class OutgunnedData(metaclass=SingletonMeta):
 
     def get_attributes(self):
         return self.outgunned_data['ATTRIBUTES']
+    
+    def get_skill_points(self):
+        return self.outgunned_data['SKILL_POINTS']
 
     def get_attribute(self, attribute):
         return self.get_check_case(
@@ -101,6 +104,7 @@ class OutgunnedCSGenerator:
     character_sheet = None
 
     calculated_attributes = {}
+    calculated_skill_points = {}
 
     def __init__(self, character_data, character_sheet):
         with open(character_data, 'r') as file:
@@ -195,45 +199,77 @@ class OutgunnedCSGenerator:
         for att in role_atts:
             self.add_to_calc_att(att)
         
-        # 3. Coger skill points del rol
+        # 3. Coger valores por defecto
+        for att in OutgunnedData().get_attributes():
+            if not att in self.calculated_attributes:
+                self.calculated_attributes[att] = 2
+            else:
+                self.calculated_attributes[att] += 2
+
+        return self.calculated_attributes
+
+
+    def calculate_skill_points(self):
+        if self.calculated_skill_points:
+            return self.calculated_skill_points
+
+        # 1. Coger lista de skill points por defecto
+        default_skill_points = OutgunnedData().get_skill_points()
+
+        # 2. Coger skill points del rol
         role_skills = OutgunnedData().get_role_skills(
             self.get_role()
         )
 
-        for att in role_skills:
-            self.add_to_calc_att(att)
+        for skill_point in role_skills:
+            for att in default_skill_points:
+                if skill_point in default_skill_points[att]:
+                    self.add_to_calc_skill_point(att, skill_point)
 
-        # 4. Coger skill points del trope
+        # 3. Coger skill points del trope
         trope_skills = OutgunnedData().get_trope_skills(
             self.get_trope()
         )
 
-        for att in trope_skills:
-            self.add_to_calc_att(att)
+        for skill_point in trope_skills:
+            for att in default_skill_points:
+                if skill_point in default_skill_points[att]:
+                    self.add_to_calc_skill_point(att, skill_point)
 
-        # TODO: Revisar... no estoy muy seguro si mola calcular el valor total
-        # aqui... (cogiendo los valores por defecto de cualquiera)
-        # 5. Coger valores por defecto
-        for att in self.calculated_attributes:
-            if att in OutgunnedData().get_attributes():
-                self.calculated_attributes[att] += 2
-            else:
-                self.calculated_attributes[att] += 1
+        # 4. Coger valores por defecto
+        for att in default_skill_points:
+            if not att in self.calculated_skill_points:
+                self.calculated_skill_points[att] = {}                   
 
-        return self.calculated_attributes
+            for skill_point in default_skill_points[att]:
+                if not skill_point in self.calculated_skill_points[att]:
+                    self.calculated_skill_points[att][skill_point] = 1
+                else:
+                    self.calculated_skill_points[att][skill_point] += 1
+
+        return self.calculated_skill_points
+
+    def add_to_calc_skill_point(self, att, skill_point):
+        if not att in self.calculated_skill_points:
+            self.calculated_skill_points[att] = {}
+        
+        if skill_point in self.calculated_skill_points[att]:
+            self.calculated_skill_points[att][skill_point] += 1
+        else:
+            self.calculated_skill_points[att][skill_point] = 1
 
     def add_to_calc_att(self, att):
         if att in self.calculated_attributes:
             self.calculated_attributes[att] += 1
         else:
             self.calculated_attributes[att] = 1
+            
 
     def get_attributes(self):
         self.calculate_attributes()
+        self.calculate_skill_points()
 
         # 6. Generar lista con los resultados
-        print(self.calculated_attributes)
-
         attributes_md = ""
 
         for att in self.calculated_attributes:
@@ -241,6 +277,11 @@ class OutgunnedCSGenerator:
                 att, self.calculated_attributes[att]
             )
 
+            for skill_point in self.calculated_skill_points[att]:
+                attributes_md += "    * **%s:** %s\n" % (
+                    skill_point, self.calculated_skill_points[att][skill_point]
+                )
+        
         return attributes_md
 
     def get_features(self):
