@@ -1,10 +1,12 @@
-# Objetivos:  
+# Casino
+
+## Objetivos:  
 
 1. Conseguir el portátil de François Dijon.  
 2. Averiguar información sobre Taras Intercorp.  
 
 
-## Información que pueden conseguir.  
+## Información que pueden conseguir.
 
 De François:  
 - Taras es oficialmente una empresa de capital inversión ucraniana.  
@@ -52,7 +54,7 @@ Opcional: Alguien puede encontrarse a la tía en la habitación.
 Están ahí para estudiar el terreno y neutralizar la reliquia que va a ser expuesta.  
 
 
-# Escenas.  
+## Escenas.  
 
 Hitos:  
 1. Averiguar el número de habitación.  
