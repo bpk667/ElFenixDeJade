@@ -563,5 +563,70 @@ Para liberarle y poder interrogarle habría que:
 3. Hacer un círculo de sal o de agua bendita alrededor.  
 4. Convocar a Olaus.
 
-Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.  
-  
+Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
+
+Empieza con 6 ⚡
+
+**Habilidades**
+* BOO!
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost appears suddenly or does something purely terrifying.
+    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+* DEMATERIALIZE
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The ghost suddenly vanishes into thin air.
+    * After a Hero lands a blow, the Ghost ignores all loss of Grit.
+* KNIFE VOLLEY
+    * (GHOST, SPECIAL ACTION, Cost 2 ⚡)
+    * The Ghost flings knives and other dangerous objects through the room.
+    * All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
+
+### Espectro 1 (Fantasma generico)
+
+Empieza con 6 ⚡
+
+* BOO!
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost appears suddenly or does something purely terrifying.
+    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+* SMEAR THROUGH
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost passes through a Hero.
+    * The Hero is now Smeared.
+* WHEEL AROUND
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost whirls a Hero around mid-air.
+    * If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
+
+**SMEARED**
+
+-1 to all rolls in Flirt and Style
+You are smeared in sticky green ectoplasmic discharge.
+You can get this Condition when a ghost goes through you.
+You can remove this Condition by taking a long bath during a Time-Out.
+
+### Espectro 2 (Fantasma generico)
+
+Empieza con 6 ⚡
+
+* BOO!
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost appears suddenly or does something purely terrifying.
+    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+* SMEAR THROUGH
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost passes through a Hero.
+    * The Hero is now Smeared.
+* WHEEL AROUND
+    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+    * The Ghost whirls a Hero around mid-air.
+    * If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
+
+**SMEARED**
+
+-1 to all rolls in Flirt and Style
+You are smeared in sticky green ectoplasmic discharge.
+You can get this Condition when a ghost goes through you.
+You can remove this Condition by taking a long bath during a Time-Out.
+
+
