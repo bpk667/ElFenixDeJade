@@ -39,40 +39,40 @@ Estáis esperando 10 minutos en la sala y,
 
 
 Señor Cabot:  
-    > Señores, tenemos 2 misiones que tienen máxima prioridad. Desgraciadamente no podemos esperar a que tengáis vuestros cursos, meteros en misiones con ruedines o enseñaros dónde está la Puta cafetería.  
+    > Señores, tenemos 2 misiones que tienen máxima prioridad. Desgraciadamente no podemos esperar a que tengáis vuestros cursos, meteros en misiones con ruedines o enseñaros dónde está la Puta cafetería.
     >
-    > Vais a tener un bautismo con dos cojones y tened muy presente que vuestras cagadas pueden costaros la vida, costársela a vuestros compañeros o, lo que es peor, dañar a la agencia.  
+    > Vais a tener un bautismo con dos cojones y tened muy presente que vuestras cagadas pueden costaros la vida, costársela a vuestros compañeros o, lo que es peor, dañar a la agencia.
     >
-    > Pero ya está bien de acunaros y de palabras bonitas. Vamos al tema. ¿Frank?  
+    > Pero ya está bien de acunaros y de palabras bonitas. Vamos al tema. ¿Frank?
 
 Frank:  
-    > TODO: Dar una intro de la misión de la biblioteca.  
+    > TODO: Dar una intro de la misión de la biblioteca.
     >
 
 Señor Cabot:  
-    > Está bien.  
+    > Está bien.
     >
-    > Para los que sepan hacer algo más que buscar perritos perdidos, tenemos una misión de VERDAD:  
+    > Para los que sepan hacer algo más que buscar perritos perdidos, tenemos una misión de VERDAD:
     >
-    > En el dosier pueden leer que François Dijon es el representante legal y testaferro de Taras Intercorp.  
+    > En el dosier pueden leer que François Dijon es el representante legal y testaferro de Taras Intercorp.
     >
-    > Taras lleva tiempo en nuestro radar.  
+    > Taras lleva tiempo en nuestro radar.
     >
-    > Su nombre ha salido en numerosos tratos de tráfico de armas. Sospechamos que está detrás de ellas pero no tenemos más información.  
+    > Su nombre ha salido en numerosos tratos de tráfico de armas. Sospechamos que está detrás de ellas pero no tenemos más información.
     >
-    > François, desde hace unos meses, va el último jueves de cada mes al casino de Monte Carlo (Mónaco) y juega a la ruleta.  
+    > François, desde hace unos meses, va el último jueves de cada mes al casino de Monte Carlo (Mónaco) y juega a la ruleta.
     >
-    > Sabemos que es un jugador consumado. Le gusta apostar fuerte y no le gusta perder; esa es nuestra puerta de entrada.  
+    > Sabemos que es un jugador consumado. Le gusta apostar fuerte y no le gusta perder; esa es nuestra puerta de entrada.
     >
-    > Vuestro objetivo es fácil: conseguir el portátil de François Dijon.  
+    > Vuestro objetivo es fácil: conseguir el portátil de François Dijon.
     >
-    > Nuestro análisis inicial indica que François suele dejar el maletín en la su habitación, pero no esperen que esté encima de la cama esperandoles, probablemente esté en la caja fuerte de su habitación.  
+    > Nuestro análisis inicial indica que François suele dejar el maletín en la su habitación, pero no esperen que esté encima de la cama esperandoles, probablemente esté en la caja fuerte de su habitación.
     >
-    > Si no son completamente incompetentes, espero que consigan el portátil e información sobre Taras Intercorp.  
+    > Si no son completamente incompetentes, espero que consigan el portátil e información sobre Taras Intercorp.
     >
 
 Frank:  
-    > Está bien, creo que es suficiente.  
+    > Está bien, creo que es suficiente.
     >
     > ¿Alguien tiene alguna pregunta?  
 
