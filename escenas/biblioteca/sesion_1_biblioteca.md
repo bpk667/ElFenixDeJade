@@ -31,15 +31,14 @@
   - [3.4 Los fantasmas se quitan los guantes.](#34-los-fantasmas-se-quitan-los-guantes)
   - [3.5 Enfrentamiento.](#35-enfrentamiento)
   - [4. Conclusion](#4-conclusion)
-- [Glosario](#glosario)
-  - [Objetos](#objetos)
-    - [Reloj de bolsillo / Tempus fugit / memento](#reloj-de-bolsillo--tempus-fugit--memento)
-    - [O pushka so sovel ando tunyariko (El puñal que duerme a la oscuridad)](#o-pushka-so-sovel-ando-tunyariko-el-pu%C3%B1al-que-duerme-a-la-oscuridad)
-    - [La agenda del profesor](#la-agenda-del-profesor)
-    - [Il Re in Giallo (El Rey de Amarillo) (italiano)](#il-re-in-giallo-el-rey-de-amarillo-italiano)
-    - [Letaliter Sanctio (Religias de la Muerte) (rutano antiguo)](#letaliter-sanctio-religias-de-la-muerte-rutano-antiguo)
-    - [Mercurius ter Maximus (rutano antiguo).](#mercurius-ter-maximus-rutano-antiguo)
-    - [El Guardián de la Eternidad (italiano)](#el-guardi%C3%A1n-de-la-eternidad-italiano)
+- [Objetos](#objetos)
+  - [Reloj de bolsillo / Tempus fugit / memento](#reloj-de-bolsillo--tempus-fugit--memento)
+  - [O pushka so sovel ando tunyariko (El puñal que duerme a la oscuridad)](#o-pushka-so-sovel-ando-tunyariko-el-pu%C3%B1al-que-duerme-a-la-oscuridad)
+  - [La agenda del profesor](#la-agenda-del-profesor)
+  - [Il Re in Giallo (El Rey de Amarillo) (italiano)](#il-re-in-giallo-el-rey-de-amarillo-italiano)
+  - [Letaliter Sanctio (Religias de la Muerte) (rutano antiguo)](#letaliter-sanctio-religias-de-la-muerte-rutano-antiguo)
+  - [Mercurius ter Maximus (rutano antiguo).](#mercurius-ter-maximus-rutano-antiguo)
+  - [El Guardián de la Eternidad (italiano)](#el-guardi%C3%A1n-de-la-eternidad-italiano)
 - [PNJs](#pnjs)
   - [El Profesor / Marcus Jones](#el-profesor--marcus-jones)
   - [Gladis](#gladis)
@@ -432,11 +431,10 @@ Para saberlo alguien debe tener un background sobrenatural o tendrán que leer E
 
 <div class="page"></div>
 
-## Glosario
 
-### Objetos
+## Objetos
 
-#### Reloj de bolsillo / Tempus fugit / memento
+### Reloj de bolsillo / Tempus fugit / memento
 
 * Reloj de bolsillo de plata pulida con la inscripcion en la parte trasera `Tempus fugit` y con unas iniciales `AVH`.
 * **memento**: (`At the beginning of each combat, flip a coin. Tails: you gain 1 ⚡`)
@@ -452,7 +450,7 @@ Para saberlo alguien debe tener un background sobrenatural o tendrán que leer E
         * Que su valor a un coleccionista adecuado puede alcanzar cerca la cifra de los 20,000 $
 
 
-#### O pushka so sovel ando tunyariko (El puñal que duerme a la oscuridad)
+### O pushka so sovel ando tunyariko (El puñal que duerme a la oscuridad)
 
 * Es un puñal corriente con un mango cubierto de coro rojo tintado con la inscripcion `O pushka so sovel ando tunyariko daro vaś B.V.S.` (El puñal que duerme a la oscuridad regalo para BVS `Buffy Vampire Slayer`)
 * **memento**: (`At the beginning of each combat, flip a coin. Tails: you gain 1 ⚡`)
@@ -469,14 +467,14 @@ Para saberlo alguien debe tener un background sobrenatural o tendrán que leer E
 
 <div class="page"></div>
 
-#### La agenda del profesor
+### La agenda del profesor
 
 La agenda personal del profesor tiene indicadas diversas anotaciones de citas en la biblioteca privada de la universidad. Mas concretamente hacen referencia al estudio de los libros:
 * **Letaliter Sanctio (Religias de la Muerte)** (Ver mas abajo)
 * **Il Re in Giallo (El Rey de Amarillo)**
 
 
-#### Il Re in Giallo (El Rey de Amarillo) (italiano)
+### Il Re in Giallo (El Rey de Amarillo) (italiano)
 
 Obra de teatro maldita que trata sobre seres sobrenaturales.  
 
@@ -487,7 +485,7 @@ Llama la atención ciertos enfrentamientos con fantasmas y hombres lobos que par
 - Los fantasmas no pueden atravesar un círculo de sal o de agua sagrada.  
 
 
-#### Letaliter Sanctio (Religias de la Muerte) (rutano antiguo)
+### Letaliter Sanctio (Religias de la Muerte) (rutano antiguo)
 
 Trata sobre distintos artefactos que se han usado históricamente para enfrentarse contra seres sobrenaturales: Vampiros, Ghouls, Ekiminu, momias, etc.  
 
@@ -495,7 +493,7 @@ Entre otros artefactos se menciona el Fénix de Jade: Da protección contra el c
 
 <div class="page"></div>
 
-#### Mercurius ter Maximus (rutano antiguo).
+### Mercurius ter Maximus (rutano antiguo).
 
 Trata sobre el origen de los vampiros y el árbol genealógico de Kuzma.  
 
@@ -508,7 +506,7 @@ En la parte final, el libro menciona que Kuzma es el el último vampiro no-mesti
 - También menciona que los vampiros son vulnerables al Fénix de Jade, pero no dice más.  
 
 
-#### El Guardián de la Eternidad (italiano)
+### El Guardián de la Eternidad (italiano)
 
 Aparece abierto en un página en la que hay un sólo párrafo:  
 >> "Tras fracasar en su intento de controlar los espíritus del Libro de los Muertos, Olaus se resignó a su inevitable muerte.  
