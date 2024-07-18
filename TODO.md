@@ -26,6 +26,7 @@
         - [ ] El Gran final (El Rascacielos)  **pending: bpk / moz667**
             - [ ] Equipo de mantenimiento **bpk**
             - [ ] Equipo de asalto **moz667**
+                - [ ] Crear PNjs en plan rapido
 - [ ] Crear fichas de enemigos.
     - [ ] François. Abogado de Taras (vampiro)(casino) **bpk**
     - [ ] Borysko. Gorila de la suite (vampiro)(casino) **bpk**
@@ -49,17 +50,29 @@
     - [X] Clips
 - [ ] Dados **bpk**
 - [ ] Generar pdfs **moz667**
-- [ ] Impresiones **bpk**
-    - [ ] Hojas de personajes (vacias) x 10 copias
+    - [ ] Hojas de personajes (vacias)
     - [ ] Catalogo de roles
     - [ ] Hojas de personajes (detalles)
+    - [ ] Hojas de PNJs (detalles)
     - [ ] Escenas
-        - [ ] Detalle escena
-        - [ ] **opcional** PNJs **Ficha**
-        - [ ] **opcional** PNJs **Descripcion**
     - [ ] Reglas **Resumen de reglas**
-    - [ ] Glosario con terminos, pjs, etc **falta hacer el md**
-
+        - [ ] Attributes
+        - [ ] Features **Falta generar features.md**
+        - [ ] Basic Rules
+    - [ ] Estructura
+    - [ ] Glosario
+- [ ] Impresiones **bpk**
+    - [ ] 10 x Hojas de personajes (vacias) x 10 copias
+    - [ ] 2 x Catalogo de roles
+    - [ ] 1 x Hojas de personajes (detalles)
+    - [ ] 1 x Hojas de PNJs (detalles)
+    - [ ] 1 x Escenas
+    - [ ] Reglas **Resumen de reglas**
+        - [ ] 6 x Attributes
+        - [ ] 6 x Features **Falta generar features.md**
+        - [ ] 1 x Basic Rules
+    - [ ] 1 x Estructura
+    - [ ] 1 x Glosario
 
 ## Mesh
 

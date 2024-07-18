@@ -193,6 +193,19 @@ Effects:
 - Catch a Break.
 - At the end of a gaming Session.
 
+### Ejemplos de posibles consecuencias negativas.  
+  
+Sacar a la gente de las escenas: Dejarles inconsciente.  
+  
+Si les pillan, ahora saben que vais a por ellos.  
+  
+Consiguen la información de los fantasmas pero están malditos: Las defensas mágicas reaccionan mejor ante los PJs, aparecen espectros por que les tienen manía, etc.  
+  
+Si no consiguen la reliquia o la pierden: El enfrentamiento final es más jodido y El Loto Blanco no les ayuda.  
+  
+Si la cagan, y Taras o El Loto Blanco descubren que les han tangado, pueden dar la alarma o reforzar las defensar en futuras misiones.  
+  
+En la presa. Si el grupo la caga o no es muy fino, los vampiros vuelan la presa.  
 
 ## Gamble
 

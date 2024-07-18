@@ -51,7 +51,7 @@ Señor Cabot:
   > Pero ya está bien de acunaros y de palabras bonitas. Vamos al tema. ¿Frank?
 
 Frank:  
-  > TODO: Dar una intro de la misión de la biblioteca.
+  > TODO: Dar una intro de la misión de la biblioteca. **moz667**
   >
 
 Señor Cabot:  

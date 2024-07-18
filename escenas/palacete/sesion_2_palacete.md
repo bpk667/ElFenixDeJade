@@ -201,3 +201,13 @@ Enfrentamiento o colaboración con los Wuxia.
 * [ ] ~~Definir pueblo~~ **Yo creo que es irrelevante**
 * [ ] Definir palacete **in progress**
 * [ ] Definir la reliquia
+
+<!-- 
+  
+Breaking news:  
+ - El grupo ecoterrorista _Prestamo De Nuestros Hijos_ está muy activo en las redes sociales y ha convocado una movilización al día siguiente. Prometen que van a mandar un mensaje claro a las corporaciones y los corruptos gobernantes.  
+
+
+*Si evitaron que explotase la presa.* Breaking news: La empresa Hof-Talsperre se ha unido al holding Taras Intercorp.  
+
+-->

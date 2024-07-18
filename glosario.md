@@ -46,5 +46,16 @@ Son muy tradicionalistas y tienen pocos recursos tecnológicos/económicos.
 
 Pueden ser **aliados o enemigos**.
 
-**Objetivos**:
-1. Recuperar la reliquia.
+## El Fénix de Jade
+
+Se trata de un objeto que ancestralmente pertenecía al grupo Pai-lien chiao.  
+La reliquia estaba un templo chino que pertenecía a la ruta de la seda.  
+Marco Polo consiguió la reliquia por medios no demasiado honestos (el Loto Blanco siempre ha creído que la robó).  
+Se perdió la pista durante siglos.  
+  
+No saben dónde está, pero saben que los vampiros tienen alguna relación con el Fénix de Jade.  
+Parece que en el siglo XV un ucraniano usó la reliquia para poner a dormir al vampiro.  
+La reliquia acabó en la casa de un obispo en un pueblo Francia.  
+  
+La reliquia te protege contra el control mental de Kuzma o hace que te haga menos daño.  
+  
