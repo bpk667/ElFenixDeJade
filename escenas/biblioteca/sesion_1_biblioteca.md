@@ -2,15 +2,16 @@
   
 ![Biblioteca Riccardiana (Florencia)](./imgs/biblioteca_general.jpg)
 
+<div class="page"></div>
+
+## Indice
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Estructura](#estructura)
   - [Objetivos](#objetivos)
-  - [Objetivos ocultos](#objetivos-ocultos)
   - [Otras consideraciones](#otras-consideraciones)
-    - [Los villanos tomaran una via rapida de escape si son capturados](#los-villanos-tomaran-una-via-rapida-de-escape-si-son-capturados)
 - [Escena](#escena)
   - [1. Briefing y viaje a florencia](#1-briefing-y-viaje-a-florencia)
   - [2. Investigacion inicial (Florencia)](#2-investigacion-inicial-florencia)
@@ -44,15 +45,15 @@
   - [Gladis](#gladis)
   - [El agente de Taras del despacho](#el-agente-de-taras-del-despacho)
   - [Agentes de Taras en la casa](#agentes-de-taras-en-la-casa)
+  - [Guido / El bibliotecario](#guido--el-bibliotecario)
   - [Iryna](#iryna)
   - [Estudiantes interesados en libros similares](#estudiantes-interesados-en-libros-similares)
-  - [Guido / El bibliotecario](#guido--el-bibliotecario)
   - [Olaus Wormius / Guardián del Mercurius ter Maximus](#olaus-wormius--guardi%C3%A1n-del-mercurius-ter-maximus)
   - [Espectros](#espectros)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Estructura
+<div class="page"></div>
 
 ### Objetivos  
 
@@ -60,29 +61,9 @@
     * **El profesor** es un agente infiltrado en la universidad de florencia y lleva una semana sin informar a la agencia.
     * Investigar que le ha ocurrido e informar a la agencia
 
-### Objetivos ocultos
+### Otras consideraciones 
 
-* **Dificultad: Facil** Relacionar la desaparicion con **Taras Intercorp**
-
-* **Dificultad: Facil** Llevar la investigacion a la biblioteca
-    * **Dificultad: Varias** Conseguir información sobre qué es el Fénix de Jade y todo lo relacionado con él.
-        * **Facil** **El profesor** investigaba el fénix
-        * **Moderado** El fenix se creo para luchar contra seres sobre naturales
-            * **Dificil** Concretamente **Kuzma** (vampiros)
-        * **Dificil** La agencia habia puesto a cargo a **El profesor** para investigar reliquias con el motivo de poder luchar con lo sobrenatural (ver mas abajo)
-    * **Dificultad: Dificil** Averiguar cómo protegerse o destruir a **Kuzma**.
-        * Para poder llegar a la conclusion de como protegerse contra vampiros, tienen que saber que existen estos
-        * Tienen que conocer la existencia de **Kuzma**
-
-* **Dificultad: Dificil** Descubrir motivaciones ocultas de la agencia
-    * La agencia ha enviado a **El profesor** para investigar la historia y posible existencia de objetos para luchar contra poderes paranormales.
-    * Hay que tener en cuenta que en este punto, los PJs aun no deberian conocer que la agencia tiene esa parte oculta que se dedica a la investigación de lo paranormal.
-    * Para no descubrir muy pronto el pastel, este objetivo debe ser muy dificil de conseguir, y solo deberia darse a los PJs si se muestran muy mosqueados en la motivacion de la agencia de enviar al profesor a 
-
-
-### Otras consideraciones
-
-#### Los villanos tomaran una via rapida de escape si son capturados
+**Los villanos tomaran una via rapida de escape si son capturados**
 
 * Diran una frase criptica (*idea de la peli del capitan america con los agentes de hydra*)
     * La frase: `Tenebrae nos vocat. Tenebrae nos liberabunt.` (La oscuridad nos llama. La oscuridad nos hara libres.)
@@ -90,6 +71,7 @@
     * PUM en la cabeza
     * Capsula de cianuro
 
+<div class="page"></div>
 
 ## Escena
 
@@ -114,6 +96,7 @@ La agencia les ha conseguido un vuelo para 4 agentes a florencia, un hotel para 
     * La respuesta de la agencia es: Porque se encuentra realizando la mision `No es asunto tuyo`.
     * Esta respuesta puede complacer a los PJs y que no pregunten mas, pero si levanta suspicacias deberian poder atar cabos para descubrir las motivaciones ocultas de la agencia en lo referente a su lucha contra fenomenos paranormales.
 
+<div class="page"></div>
 
 ### 2. Investigacion inicial (Florencia)
 
@@ -125,6 +108,7 @@ La ciudad de Florencia se encuentra situada en el centro de una cuenca rodeada p
 
 Una vez los pjs han llegado a florencia tienen que decidir que hacer, lo mas evidente podrian ir a cualquiera de las dos localizaciones conocidas por la agencia (da igual el orden, aunque es interesante que vayan a las dos)
 
+<div class="page"></div>
 
 #### 2.1 Despacho de **El profesor** en la universidad
 
@@ -146,6 +130,8 @@ No deberia costarles demasiado encontrar el despacho. Este se encuentra en la pr
 * Si van en horario lectivo, encontraran algo de bullicio con profesores y estudiantes recorriendo el pasillo, algunos hablando en la puerta y comentando diversos temas de la universidad (notas, trabajos...), **Gladis** estará a un par de puertas vigilando la puerta del despacho y en cuanto note que se acercan a los personajes comenzara una conversacion con ellos.
 
 * Si van fuera de horario lectivo, las puertas estaran cerradas y los despachos y el pasillo estaran vacios a excepcion de **Gladis** que se encuentra haciendo guardia en el pasillo. En cuanto vea a los PJs, se dirigira a ellos
+
+<div class="page"></div>
 
 ##### 2.1.1 Encuentro con Gladis
 
@@ -201,6 +187,8 @@ Los PJs tienen que decidir:
 
 Da igual lo que ocurra ya que **Gladis**, no llamara a las autoridades, aunque hay que tener en cuenta que en cualquier caso avisara a **Tara Intercorp** de todo los sucedido
 
+<div class="page"></div>
+
 ##### 2.1.2 Persecucion por el campus
 
 * **NEED:** `6: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
@@ -235,6 +223,8 @@ Para resolver este evento seguir estos pasos:
     * [2-6] Papeles, libros, etc... pero nada que les indique que ha pasado con el profesor
     * [2-6] Si YA han visitado la casa del profesor, encontraran tambien la agenda. Se encuentra escondida en un falso fondo del cajon del escritorio principal
 
+<div class="page"></div>
+
 #### 2.2 La casa de **El profesor**
 
 * Es una casa pequeña en las afueras de florencia
@@ -268,6 +258,8 @@ Para resolver este evento seguir estos pasos:
     * con varios libros de historia desde la edad media hasta el principio del siglo XX
     * `FOCUS + DETECT / CRITICA` una foto de el profesor con el actual papa ha sido puesta boca-abajo.... ¿por que?
         * **Nota para los GMs:** Es un simbolo que los vampiros de **Tara Int.** que revisaron no parece agradarles y les molesta.
+
+<div class="page"></div>
 
 #### 2.2.3 Primera Planta
 
@@ -312,6 +304,8 @@ Por el resultado de la tirada obtendran la siguiente info:
 
 Si los PJs rebuscan en su interior (puaj que asco!) descubriran un puñal metalico (de un palmo y medio) con un mango de cuero rojizo. `O pushka so sovel ando tunyariko` (ver mas abajo)
 
+<div class="page"></div>
+
 **Combate extra por si vemos que va rapida la cosa:**
 
 **GMs**: Si vemos que la cosa va fluida, se me ocurrio meter un evento de combate extra.
@@ -330,6 +324,8 @@ Si los PJs rebuscan en su interior (puaj que asco!) descubriran un puñal metali
 * **El Profesor** se defendio de uno de ellos atravesandole el corazon con el puñal y murio en el acto
 * Se trata de un agente vampiro de **Taras Int.**
 * **El Profesor** perdio la pelea y acabo siendo torturado por los agentes de **Taras**
+
+<div class="page"></div>
 
 ### 3. La biblioteca
 
@@ -358,8 +354,9 @@ La lingüista les saludará con un pequeño cabeceo y los otros dos los ignorar�
 Iryna y los PJs tienen interés en estudiar el Letaliter Sanctio. Pueden hacer una tirada enfrentada o intentar tangarle.  
 Si los PJs pierden, pueden estudiar mientras El Rey de Amarillo.  
 Alternativamente, también pueden intentar estudiar el índice por sí mismos o estudiar los intereses de Iryna.  
-  
-  
+
+<div class="page"></div>  
+
 ### 3.2 Empieza lo paranormal.  
   
 En el momento que Iryna o los PJs empiecen a leer alguno de los libros, empieza la fiesta: Activan a Olaus.  
@@ -369,7 +366,7 @@ El personaje que esté más alejado o distraído hace una tirada de `dificultad 
  - Éxito crítico: Ve un par de libros caer en las estanterías del pasillo superior.  
  - Éxito extremo: Ve que los libros han volado desde un extremo a otro del pasillo. Si se acerca a ver qué libros son, verá El Guardián de la Eternidad.  
   
-  
+
 ### 3.3 Lo paranormal sube de nivel.  
   
 Pocos minutos después todos hacen una tirada similar. Con éxito crítico detectarán que el reflejo de las vitrinas no refleja exactamente la biblioteca.  
@@ -381,8 +378,9 @@ Si estudian los fantasmas con más detalle, pueden distinguir:
  - Olaus. Fantasma con toga. Una espada en una mano y un libro en la otra. Tiene unas grandes cuencas en lugar de los ojos. Su figura es la más imponente.  
  - Una chica ahogada con el pelo cubriéndole media cara. Se atisba un gesto de desesperación permanente. Una última agonía que se lleva prolongando desde no se sabe cuánto tiempo.  
  - Un hombre mutilado. Con el brazo izquierdo medio arrancado colgándole grotescamente a un lado y marcas de tortura; ¿cuchillos, quemaduras? Todo eso y más.  
-  
-  
+
+<div class="page"></div>
+
 ### 3.4 Los fantasmas se quitan los guantes.  
   
 Olaus no les va poner fácil llevarse los libros. Si lo intentan, atacará con su espada.  
@@ -411,12 +409,28 @@ Los PJs pueden capturar a Olaus en una ouija para interrogarlo y, si así lo dec
 
 Para saberlo alguien debe tener un background sobrenatural o tendrán que leer El Guardián de la Eternidad.  
 
+<div class="page"></div>
+
 ### 4. Conclusion
 
-* Los PJs sabran lo ocurrido con **El profesor**
-* Los PJs sabran de la existencia del **Fenix de Jade**
-* Tendran consideraciones de la existencia de fenomenos y monstruos paranormales
-    * **Opcional** especificamente de vampiros
+* **Dificultad: Facil** Relacionar la desaparicion con **Taras Intercorp**
+
+* **Dificultad: Facil** Llevar la investigacion a la biblioteca
+    * **Dificultad: Varias** Conseguir información sobre qué es el Fénix de Jade y todo lo relacionado con él.
+        * **Facil** **El profesor** investigaba el fénix
+        * **Moderado** El fenix se creo para luchar contra seres sobre naturales
+            * **Dificil** Concretamente **Kuzma** (vampiros)
+        * **Dificil** La agencia habia puesto a cargo a **El profesor** para investigar reliquias con el motivo de poder luchar con lo sobrenatural (ver mas abajo)
+    * **Dificultad: Dificil** Averiguar cómo protegerse o destruir a **Kuzma**.
+        * Para poder llegar a la conclusion de como protegerse contra vampiros, tienen que saber que existen estos
+        * Tienen que conocer la existencia de **Kuzma**
+
+* **Dificultad: Dificil** Descubrir motivaciones ocultas de la agencia
+    * La agencia ha enviado a **El profesor** para investigar la historia y posible existencia de objetos para luchar contra poderes paranormales.
+    * Hay que tener en cuenta que en este punto, los PJs aun no deberian conocer que la agencia tiene esa parte oculta que se dedica a la investigación de lo paranormal.
+    * Para no descubrir muy pronto el pastel, este objetivo debe ser muy dificil de conseguir, y solo deberia darse a los PJs si se muestran muy mosqueados en la motivacion de la agencia de enviar al profesor a estudiar reliquias
+
+<div class="page"></div>
 
 ## Glosario
 
@@ -453,6 +467,7 @@ Para saberlo alguien debe tener un background sobrenatural o tendrán que leer E
         * Que se trata de un **memento** y ademas es un arma que usado a modo de estaca tiene un bonificador de `+1 contra vampiros`
         * Su valor dentro del mercado mistico puede rondar los 2,000 $
 
+<div class="page"></div>
 
 #### La agenda del profesor
 
@@ -477,7 +492,8 @@ Llama la atención ciertos enfrentamientos con fantasmas y hombres lobos que par
 Trata sobre distintos artefactos que se han usado históricamente para enfrentarse contra seres sobrenaturales: Vampiros, Ghouls, Ekiminu, momias, etc.  
 
 Entre otros artefactos se menciona el Fénix de Jade: Da protección contra el control mental de los vampiros más poderosos. También puede inutilizar al vampiro si se le clava en el corazón.  los PJsius ter Maximus. Desgraciadamente, cuando se consiguió los seguidores de Kuzma se lo habían llevado.
-  
+
+<div class="page"></div>
 
 #### Mercurius ter Maximus (rutano antiguo).
 
@@ -505,7 +521,8 @@ El rito para liberar a un espectro guardián consiste en:
 2. Colocar a los pies del pentáculo la prisión del espectro (el libro).  
 3. Hacer un círculo protector (sal o de agua bendita).  
 4. Convocar al espectro (Olaus).  
-  
+
+<div class="page"></div>
 
 ## PNJs
 
@@ -536,6 +553,8 @@ El rito para liberar a un espectro guardián consiste en:
 * **DEFENSE**: CRITICAL
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 * **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+
+<div class="page"></div>
 
 ### Agentes de Taras en la casa
 
@@ -571,6 +590,16 @@ El rito para liberar a un espectro guardián consiste en:
 * **DEFENSE**: CRITICAL
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
+<div class="page"></div>
+
+### Guido / El bibliotecario
+
+* Tiene 20 años está haciendo prácticas en la recepción.  
+* Le flipan los libros de ciencia ficción y es un auténtico talibán con cualquier adaptación.  
+
+Si alguien dice que le parecen mejor las pelis de El Señor de los Anillos, intentará no pegarte; y si alguien dice que le gusta "Juegos de Tronos", preguntará lo más educadamente que pueda:  
+
+> "¿Qué sólo leíste el primer libro, o estás hablando de esa puta mierda donde Daenerys tiene un pelo mágico que no arde?"  
 
 ### Iryna
 
@@ -594,6 +623,7 @@ El rito para liberar a un espectro guardián consiste en:
     * `SMOOTH + Speech`: 4
     * `SMOOTH + Style`: 5
 
+<div class="page"></div>
 
 ### Estudiantes interesados en libros similares  
  
@@ -617,15 +647,7 @@ Dos esclavos hipnotizados. Están ahí para supervisar que el lingüista haga su
 * **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
 * **Cargadores**: `[ ]-[ ]-[ ]`
 
-
-### Guido / El bibliotecario
-
-* Tiene 20 años está haciendo prácticas en la recepción.  
-* Le flipan los libros de ciencia ficción y es un auténtico talibán con cualquier adaptación.  
-
-Si alguien dice que le parecen mejor las pelis de El Señor de los Anillos, intentará no pegarte; y si alguien dice que le gusta "Juegos de Tronos", preguntará lo más educadamente que pueda:  
-
-> "¿Qué sólo leíste el primer libro, o estás hablando de esa puta mierda donde Daenerys tiene un pelo mágico que no arde?"  
+<div class="page"></div>
 
 ### Olaus Wormius / Guardián del Mercurius ter Maximus
 
@@ -669,6 +691,8 @@ Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 * **ATTACK**: CRITICAL (Lanza cosas a los heroes)
 * **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
+
+<div class="page"></div>
 
 ### Espectros
 

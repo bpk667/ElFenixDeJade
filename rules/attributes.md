@@ -1,7 +1,5 @@
 # Attributes & skills
 
-Puedes tener hasta 3 puntos en cada atributo y habilidad. Cada héroe comienza con 2 puntos en todos los atributos y 1 punto en todas las habilidades. Estos puntos ya están marcados en tu hoja de héroe.
-
 **BRAWN:** Use brawn for all actions that require physical effort.
 
 * Endure: Handle pain, keep going despite exhaustion, hold your liquor.
@@ -37,6 +35,9 @@ Puedes tener hasta 3 puntos en cada atributo y habilidad. Cada héroe comienza c
 * Stealth: Hide, sneak, or move quietly.
 * Streetwise: Interact with criminals, recall information useful for moving in seedy neighborhoods or dealing with organized crime.
 
+<!-- 
+TODO: Iba a completar esta tabla pero tampoco veo que ayude demasiado para tenerlo en texto,
+la tenemos en basic_rules.md como imagen
 
 | X    | BASIC | CRITICAL       | EXTREME        | IMPOSIBLE      |
 |------|-------|----------------|----------------|----------------|
@@ -49,3 +50,5 @@ Puedes tener hasta 3 puntos en cada atributo y habilidad. Cada héroe comienza c
 | 7    | 100%  |                |                |                |
 | 8    | 100%  |                |                |                |
 | 9    | 100%  |                |                |                |
+
+-->

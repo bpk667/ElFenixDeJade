@@ -38,8 +38,17 @@ python outgunned-cs-app.py --trope=Vigilante
 python outgunned-cs-app.py --role=Brain
 
 # Generar todos los samples
-for sample in `ls samples`; do
-    sample_output=`echo $sample | sed -e "s/.yml/.md/g"`
-    python outgunned-cs-app.py -i samples/$sample -o samples/$sample_output.md
+for sample in `ls samples/*.yml`; do
+    sample_output=`echo $sample | sed -e "s/.yml/.md/g" -e "s,samples/,,g"`
+    python outgunned-cs-app.py -i $sample -o output/$sample_output
 done
+
+# FIXME: No funciona bien, por el simbolo de adrenalina
+# # Convertir todos los output md a pdf con pandoc
+# for sample in `ls output/*.md`; do
+#     sample_output=`echo $sample | sed -e "s/.md/.pdf/g" -e "s,^output/,,g"`
+#     # pandoc pages/til/convert-markdown-pdf-linux.md -o convert-markdown-pdf.pdf --pdf-engine=xelatex
+#     pandoc $sample -o output/pdf/$sample_output.pdf --pdf-engine=xelatex
+# done
+
 ```
