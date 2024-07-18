@@ -410,3 +410,12 @@ def outgunned_print_roles():
 def outgunned_print_tropes():
     for trope in OutgunnedData().get_tropes():
         outgunned_print_trope_details(trope)
+
+def outgunned_print_feat_details(feat):
+    print("## %s" % feat)
+    print(OutgunnedData().get_feat(feat))
+
+def outgunned_print_feats():
+    print("# Features")
+    for feat in OutgunnedData().get_feats():
+        outgunned_print_feat_details(feat)

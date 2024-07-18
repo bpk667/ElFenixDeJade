@@ -10,7 +10,7 @@ import sys
 
 from outgunned import outgunned_character_sheet_generate, \
         outgunned_print_role_details, outgunned_print_trope_details, \
-        outgunned_print_roles, outgunned_print_tropes
+        outgunned_print_roles, outgunned_print_tropes, outgunned_print_feats
 
 __location__ = os.path.realpath(
     os.path.join(os.getcwd(), os.path.dirname(__file__)))
@@ -24,9 +24,10 @@ def main(argv):
 
     print_roles = False
     print_tropes = False
+    print_feats = False
 
     try:
-        opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile=","trope=","role=","print_roles","print_tropes"])
+        opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile=","trope=","role=","print_roles","print_tropes","print_feats"])
     except getopt.GetoptError:
         print_help()
         sys.exit(2)
@@ -47,8 +48,10 @@ def main(argv):
             print_tropes = True
         elif opt in "--print_roles":
             print_roles = True
+        elif opt in "--print_feats":
+            print_feats = True
 
-    if (character_data == "" or character_sheet == "") and trope == "" and role == "" and not print_roles and not print_tropes:
+    if (character_data == "" or character_sheet == "") and trope == "" and role == "" and not print_roles and not print_tropes and not print_feats:
         print_help()
         sys.exit(2)
 
@@ -81,11 +84,14 @@ def main(argv):
     if print_tropes:
         outgunned_print_tropes()
 
+    if print_feats:
+        outgunned_print_feats()
+
     sys.exit(0)
 
 def print_help():
     print('outgunned-cs-app.py -i <character_data.yml> -o <character_sheet.md>')
-    print('outgunned-cs-app.py [--trope=<trope>] [--role=<role>] [--print_roles] [--print_tropes]')
+    print('outgunned-cs-app.py [--trope=<trope>] [--role=<role>] [--print_roles] [--print_tropes] [--print_feats]')
 
 if __name__ == "__main__":
    main(sys.argv[1:])
