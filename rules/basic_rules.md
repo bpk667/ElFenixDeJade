@@ -308,8 +308,10 @@ Order:
 PJs:
 - If the Heroes are the first to attack.
 - Can rely on the element of surprise.
+
 PNJs:
 - Heroes are caught by surprise, or hesitate before acting.
+
 When in doubt:
 - Flip a coin.
 

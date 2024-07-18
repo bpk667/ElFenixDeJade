@@ -1,32 +1,37 @@
 # Arranque. Toma de contacto.  
 
-## Notas para los GMs  
+## Presentación del mundo/juego
 
-La idea es que haya mucho contraste entre el PNJ y el GM para que la cuarta pared se medio mantenga.  
+**Mundo/entorno**.  
+Época actual. Mundo similar al nuestro.
 
-* Frank / Jaime: Poli bueno.  
-* Señor Cabot / Pedro: Poli malo  
-
-Que nos llevemos mal puede ayudar a que, si hace falta, los GMs se retiren a discutir el tema entre ellos o con sus superiores.  
-
-
-## PNJs  
-
-### Señor Cabot (Pedro)  
-
-Personalidad:  
-- Es todo un encanto: una mala mezcla entre J. Jonah Jameson y el Coronel Miles de Avatar.  
-- Maleducado. No respeta a sus iguales, ¿cómo va a respetar a los PJs?  
+**Roles**.  
+Enseñamos los roles para que vean las diferencias posibles.
 
 
-### Frank (Jaime)  
-
-Personalidad:  
-- Mentor y cercano. Una especie de Charles Xavier.  
-- Aguanta a Cabot por que no le quedan más cojones pero intenta que no sea evidente para los equipos de campo. Al fin y al cabo, son la cara de PRIS-13.  
+**Cómo rolear**.  
+* Roleo VS tercera persona (simplificar la experiencia)  
+* Velos y rayas (limites de los jugadores). Dejar claro si se sienten incómodos en algún momento: Sexo, drogas, gore, etc.
 
 
-## Briefing  
+**Mecánicas**
+Explicacion muy basica de las mecanicas.
+
+
+**Ambientación**.  
+Todos trabajáis para **PRIS-13**. Una agencia gubernamental secreta que se dedica a llevar a la justicia a gente que está por encima de la ley.
+
+- Públicamente la organización no existe.
+- Es una agencia de espionaje filantrópica.
+- Se dedica a llevar a la justicia a gente que está por encima de la ley.
+
+**Repartimos los roles**.  
+- A priori, un rol para cada uno.  
+- Si alguien no está convencido, se puede repetir uno.
+- Están abiertas a modificaciones.
+
+
+## Arranque de la sesión.
 
 **Localización**  
 Edificio posterior a la segunda guerra mundial en Cambridge Triangle, Londres.  
