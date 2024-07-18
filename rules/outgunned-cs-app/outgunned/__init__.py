@@ -296,10 +296,12 @@ class OutgunnedCSGenerator:
     def get_gear(self):
         gear_md = ""
 
-        if 'gear' in self.character_data:
+        if 'gear' in self.character_data: 
             for item in self.character_data['gear']:
                 gear_md += "* %s\n" % item
-        
+        else:
+            gear_md += "* SIN GEAR!!!\n"
+
         return gear_md
 
 def outgunned_character_sheet_generate(character_data, character_sheet):

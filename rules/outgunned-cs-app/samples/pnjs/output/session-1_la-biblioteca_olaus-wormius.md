@@ -23,7 +23,14 @@ Para liberarle y poder interrogarle habría que:
 
 Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
 
-Empieza con 6 ⚡
+Durante el combate:
+* Empieza con 6 ⚡
+* Gana 2 ⚡ Cada turno que esta oculto despues de **DEMATERIALIZE**
+* La unica forma de ganar ⚡ es desapareciendo, asi que su forma de actuar es:
+  * Acciones hasta gastar casi la totalidad de ⚡
+  * DEMATERIALIZE
+  * Esperar 2 ó 3 turnos (para cargarse de ⚡)
+  * Vuelta a empezar
 
 
 ## TROPE: Diehard
@@ -90,8 +97,18 @@ The Ghost flings knives and other dangerous objects through the room.
 All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
 
 
+### SPECTRAL POSSESSION
+
+(GHOST, SPECIAL ACTION, Cost 3 ⚡)
+
+The Ghost jumps into the body of a Hero.
+
+If the Hero fails an Extreme Reaction Roll in Nerves+Endure, they become Possessed. If they succeed, they become Smeared.
+
+
 
 
 ## Objetos
 
+* SIN GEAR!!!
 

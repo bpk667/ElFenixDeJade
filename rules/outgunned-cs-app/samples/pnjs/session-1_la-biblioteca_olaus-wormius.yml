@@ -11,7 +11,14 @@ personal_data:
 
     Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
 
-    Empieza con 6 ⚡
+    Durante el combate:
+    * Empieza con 6 ⚡
+    * Gana 2 ⚡ Cada turno que esta oculto despues de **DEMATERIALIZE**
+    * La unica forma de ganar ⚡ es desapareciendo, asi que su forma de actuar es:
+      * Acciones hasta gastar casi la totalidad de ⚡
+      * DEMATERIALIZE
+      * Esperar 2 ó 3 turnos (para cargarse de ⚡)
+      * Vuelta a empezar
   role: Fighter
   trope: Diehard
   age: Adult
@@ -21,3 +28,4 @@ feats:
   - BOO!
   - DEMATERIALIZE
   - KNIFE VOLLEY
+  - SPECTRAL POSSESSION
