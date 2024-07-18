@@ -14,24 +14,40 @@ De François:
 - Si le presionan sobre actividades delictivas de la empresa, se hará el loco. Si se les da muy bien, simplemente responderá que: "Siempre ha habido obejas y lobos, ¿cometen algún delito los lobos?"  
 
 En el portátil:  
-- Encontrarán fácilmente los siguientes correos:  
-    - Desde la cuenta <h.neumeyer@taras.ykp> a <f.dijon@taras.ykp> dando instrucciones de recuperar el Fénix de Jade y recalcando que fracasar no es una opción.  
-        El correo lo firma `Knez Kuzma` (Barón Kuzma).  
-        [TODO] Elaborar email.  
-    - Del departamento de comunicaciones de la diocesis de Hong Kong confirmando la visita del Eminentísimo John Tong Hon al Palacio de Arnsberg dentro de dos semanas.  
-    - Carpeta de Dropbox con un dossier muy escueto sobre el Fénix de Jade:  
-        - Lo que parecen extractos de libros de divulgación:  
-            - Reliquia de origen desconocido de principios del siglo XVI. Símbolo de eternidad y protección.  
-        - Lo que parece información interna de inventario del Vaticano:  
-            - Localización: Bóveda San Benito 12.  
-            - Origen: Asia.  
-            - Mitos asociados (asumidos): Protección contra representantes menores de El Caído.  
-            - Mitos asociados (confirmados): No hay.  
-            - Otras referencias: **Letaliter Sanctio (Religias de la Muerte)**.  
-            - Valor: No contrastado.  
+- Encontrarán fácilmente lo siguiente:
+    - Un correo desde la cuenta <h.neumeyer@taras.ykp> a <f.dijon@taras.ykp>:
+
+> Querido François,
+>
+> Espero que tú y tu familia os encontréis bien.
+>
+> Me aseguran que ya se te ha facilitado la información que tenemos sobre la reliquia y quiero reiterar la importancia que tiene tu misión. Tanto para Taras como para mí personalmente.
+>
+> Es imperativo que ninguno de nuestros enemigos se hagan con el Fénix. Sería demasiado peligroso y un error que se pagaría con algo más que la vida; pero sé que tú nunca me fallarías.
+> 
+> Por supuesto, un éxito será adecuadamente recompensado. Quién sabe, quizá puedas pasar unos días en nuestro Resort de los sótanos y te asigne algún cachorrillo.
+>
+>
+> Te envía un afectuoso saludo,
+>
+> Knez Kuzma.
+>
+
+  - Un correo enviado por el departamento de comunicaciones de la diócesis de Hong Kong confirmando la visita del Eminentísimo John Tong Hon al Palacio de Arnsberg dentro de dos semanas.  
+  - Otros correos relacionados con compra/venta de materiales.
+  - Carpeta de Dropbox con un dossier muy escueto sobre el Fénix de Jade:  
+      - Lo que parecen extractos de libros de divulgación:  
+          - Reliquia de origen desconocido de principios del siglo XVI. Símbolo de eternidad y protección.  
+      - Lo que parece información interna de inventario del Vaticano:  
+          - Localización: Bóveda San Benito 12.  
+          - Origen: Asia.  
+          - Mitos asociados (asumidos): Protección contra representantes menores de El Caído.  
+          - Mitos asociados (confirmados): No hay.  
+          - Otras referencias: **Letaliter Sanctio (Religias de la Muerte)**.  
+          - Valor: No contrastado.  
 
 - Cifrado y en una carpeta oculta (requiere especialistas y dos días de análisis):  
-    - Dossier sobre XXX, profesor de Florencia y agente de  (TODO: poner nombre).  
+    - Dossier sobre **Marcus Jones**, profesor de Florencia y agente encubierto de PRIS-13.
     - Mapas topográficos dw la reserva de Möhne.  
     - Planos de la **Presa Möhne** en Alemania.  
     - Planos del Palacio de Arnsberg y alrededores.  
@@ -43,13 +59,13 @@ Van a pegar un golpe la misma noche.
 Su objetivo: Averiguar dónde está la reliquia.  
 Su plan: Robar el ordenador que está en la suite de François.  
 1. Cuando François deje el ordenador en la habitación y baje al casino, el empresario le entretiene en la ruleta.  
-2. La ladrona se mete por la ventilación y se lleva el ordenador.  
+2. La ladrona se mete por el balcón y se lleva el ordenador.  
 3. Se llevan en coche el ordenador a su base.  
 
-Opcional: Alguien puede encontrarse a la tía en la habitación.  
+**Opcional**: Alguien puede encontrarse a la tía en la habitación.  
 
 
-## Plan de Taras Intercorp  
+## Plan de Taras Intercorp
 
 Están ahí para estudiar el terreno y neutralizar la reliquia que va a ser expuesta.  
 
@@ -60,6 +76,7 @@ Hitos:
 1. Averiguar el número de habitación.  
     - Seducir a Alphonse (tiene una habitación comunicada).  
     - Pick pocket a François.  
+    - **OPCIONAL** **Jimmy El Tiburón.**
     - Entrar a la habitación por el balcón (está abierto) o el aire acondicionado.  
     - Forzar la puerta.  
 
@@ -74,7 +91,7 @@ Hitos:
         - Lo tienen los Wuxia: Todos los perseguimos.  
         - Lo tienen los PJs: A huir y darles esquinazo.  
 
-3. Huir con él hasta la base de la agencia. Ver Chase más abajo.  
+3. Huir con él hasta la base de la agencia. Ver Chase más abajo.
 
 
 ## Escenas adicionales.  
@@ -82,7 +99,7 @@ Hitos:
 ### En el casino.  
 
 **Jimmy El Tiburón.**  
-Reconoce a X (TODO: Decidir PJ). Han colaborado en un par de trabajos en el pasado.  
+Reconoce al PJ con rol de criminal/Spy. Han colaborado en un par de trabajos en el pasado.  
 
 > Jimmy: "Sí, joder, tío, ya sé que aquello no salió bien, pero no es culpa mía. ¿Por qué siempre dice todo el mundo que es culpa mía?"  
 > "¡Os podéis ir todos a tomar por culo! A ver quién es el puto inútil cuando esté en Barbados pegándome la vida padre! Perdona, tío, sé que tú no eres así, es que me caliento y..."  
@@ -122,7 +139,6 @@ El gorila se toca la oreja y dice:
 #### Si el maletín lo tienen los PJs.
 
 Todo el mundo intentará atacarles.  
-TODO: Fichas de Atsumi y el gorila.
 
 **Si intentan enfrentarse a los dos:**  
 En X turnos se unirá la guardia del hotel a la fiesta.  
