@@ -5,6 +5,11 @@ personal_data:
     Cuando era niña El Loto Blanco la rescató de las calles y la crió en el monasterio.  
     Está infiltrada en el servicio del hotel. ¿Crupier o camarera?  
     Experta en trucos de ladrona/ratera. Mezcla entre ladrona y monje Shaolin.  
+
+    - **ATTACK**: CRITICAL
+    - **DEFENSE**: CRITICAL
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
   role: Criminal
   trope: Cheater
   age: Young

@@ -38,9 +38,8 @@ python outgunned-cs-app.py --trope=Vigilante
 python outgunned-cs-app.py --role=Brain
 
 # Generar todos los samples
-for sample in `ls samples/*.yml`; do
-    sample_output=`echo $sample | sed -e "s/.yml/.md/g" -e "s,samples/,,g"`
-    python outgunned-cs-app.py -i $sample -o output/$sample_output
+for sheet in samples/pnjs/*yml; do
+    python3 outgunned-cs-app.py -i $sheet -o output/$(basename -s'.yml' $sheet).md
 done
 
 # FIXME: No funciona bien, por el simbolo de adrenalina

@@ -4,6 +4,11 @@ personal_data:
     Hombre lobo grande y gris.
 
     Hará un hit&run en el bosque y en próximos encuentros en la presa.
+
+    - **ATTACK**: CRITICAL
+    - **DEFENSE**: CRITICAL
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
   role: Fighter
   trope: Mentor
   age: Adult

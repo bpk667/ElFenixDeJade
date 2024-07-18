@@ -5,6 +5,11 @@ personal_data:
     Se ocupa de toda la parte moderna y es el CEO de la empresa china que hace de fachada para El Loto Blanco. Es una empresa ancestral y no los quiere defraudar.  
     Mucho carisma e inteligencia.  
     Sabe conducir bien y tiene un coche rápido.
+
+    - **ATTACK**: CRITICAL
+    - **DEFENSE**: CRITICAL
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
   role: Ace
   trope: Genius Bruiser
   age: Adult

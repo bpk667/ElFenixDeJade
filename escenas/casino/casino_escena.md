@@ -82,6 +82,7 @@ Hitos:
 
 2. Robar el maletín.  
     - En la habitación se van a encontrar con Atsumi del Loto Blanco.  
+      - **Forzar caja fuerte**: `Lockpicking, dificultad crítica en CRIME+DEXTERITY`.
     - Hay un gorila en la puerta.  
     - [MUY MUY PROBABLEMENTE] El gorila dará la alarma y haya un enfrentamiento con él.  
 

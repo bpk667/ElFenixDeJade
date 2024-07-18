@@ -7,6 +7,11 @@ personal_data:
     Es pacifista si no le atacas.  
     No sabe ningún lenguaje europeo.  
     No sabe ni usar un móvil.
+
+    - **ATTACK**: EXTREME
+    - **DEFENSE**: EXTREME
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
   role: Brain
   trope: Good Samaritan
   age: Adult

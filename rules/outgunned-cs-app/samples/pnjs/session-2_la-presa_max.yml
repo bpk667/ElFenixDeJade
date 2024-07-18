@@ -1,7 +1,12 @@
 personal_data:
-  name: Pedro
+  name: Max
   character_description: |
-    Dos Ghouls gemelos que están siempre discutiendo. (Ver Max)
+    Dos Ghouls gemelos que están siempre discutiendo. (Ver Pedro)
+
+    - **ATTACK**: CRITICAL
+    - **DEFENSE**: CRITICAL
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
   role: Fighter
   trope: Hunk
   age: Young

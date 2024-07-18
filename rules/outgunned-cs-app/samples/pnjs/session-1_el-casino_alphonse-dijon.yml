@@ -1,5 +1,5 @@
 personal_data:
-  name: François Dijon
+  name: Alphonse Dijon
   character_description: |
     El hijo de François (19 años).  
     Dossier:  
@@ -9,6 +9,15 @@ personal_data:
     - En un par de ocasiones le han arrestado por fiestas que se han ido de madre, pero papá le ha salvado el culo.  
     Dossier oculto:  
     - Medio vampiro.  
+
+    - **ATTACK**: BASIC
+    - **DEFENSE**: BASIC
+    - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+    - **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+    - **Cargadores**: `[ ]-[ ]-[ ]`
+
+
   role: Face
   trope: Free Spirit
   age: Young
