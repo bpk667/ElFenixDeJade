@@ -1,0 +1,20 @@
+personal_data:
+  name: Hombre-lobo
+  character_description: |
+    Hombre lobo grande y gris.
+
+    Hará un hit&run en el bosque y en próximos encuentros en la presa.
+  role: Fighter
+  trope: Mentor
+  age: Adult
+attributes:
+  - Brawn
+feats:
+  - Combo
+  - Punch Reload
+  - SELFLESS
+monstrous_feats:
+  - LYCANTHROPE
+enemy_feats:
+  - INNER STRENGTH
+  - BEAST

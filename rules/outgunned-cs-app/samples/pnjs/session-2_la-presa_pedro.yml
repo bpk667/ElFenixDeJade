@@ -1,0 +1,18 @@
+personal_data:
+  name: Pedro
+  character_description: |
+    Dos Ghouls gemelos que están siempre discutiendo. (Ver Max)
+  role: Fighter
+  trope: Hunk
+  age: Young
+attributes:
+  - Brawn
+feats:
+  - Combo
+  - Punch Reload
+  - SELFLESS
+monstrous_feats:
+  - NOSFERATU
+enemy_feats:
+  - AUTOMATIC WEAPONS
+  - FIGHTERS

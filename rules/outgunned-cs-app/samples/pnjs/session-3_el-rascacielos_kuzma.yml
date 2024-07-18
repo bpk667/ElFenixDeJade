@@ -1,0 +1,28 @@
+personal_data:
+  name: Helmut Neumeyer (aka Kuzma El Empalador)
+  character_description: |
+    * Boss final
+    * Viejo y poderoso vampiro ucraniano.  
+    * Vampiro espadachín.  
+    * Está detrás de múltiples empresas internacionales.
+    * Vampiro que tiene una habilidad de control mental.
+  role: Fighter
+  trope: Cheater
+  age: Adult
+attributes:
+  - Crime
+feats:
+  - Shadow
+  - Counter
+  - Flying Kick
+monstrous_feats:
+  - NOSFERATU
+  - BITE
+  - MIND CONTROL
+enemy_feats:
+  - IMMORTAL
+  - SHARP BLADES
+special_actions:
+  - DARK GIFT
+  - DARK INFLUENCE
+  - BLOODSUCKING
