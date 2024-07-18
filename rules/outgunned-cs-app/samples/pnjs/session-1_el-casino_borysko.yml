@@ -1,0 +1,18 @@
+personal_data:
+  name: Borysko
+  character_description: |
+    El gorila vampiro que está en la puerta de la suite.
+  role: Fighter
+  trope: Hunk
+  age: Adult
+attributes:
+  - Brawn
+feats:
+  - Combo
+  - Punch Reload
+  - Intimidation
+monstrous_feats:
+  - NOSFERATU
+  - BITE
+enemy_feats:
+  - RAGE

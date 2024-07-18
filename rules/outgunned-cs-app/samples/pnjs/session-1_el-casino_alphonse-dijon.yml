@@ -1,0 +1,23 @@
+personal_data:
+  name: François Dijon
+  character_description: |
+    El hijo de François (19 años).  
+    Dossier:  
+    - Es un viva la virgen. Le gusta la fiesta.  
+    - Le da a TODO.  
+    - Muy clasista. Todo lo que tiene lo merece y la gente es su felpudo.  
+    - En un par de ocasiones le han arrestado por fiestas que se han ido de madre, pero papá le ha salvado el culo.  
+    Dossier oculto:  
+    - Medio vampiro.  
+  role: Face
+  trope: Free Spirit
+  age: Young
+attributes:
+  - Crime
+feats:
+  - Artist
+  - Cash Flow
+  - HIGH CULTURE
+monstrous_feats:
+  - NOSFERATU
+  - BITE

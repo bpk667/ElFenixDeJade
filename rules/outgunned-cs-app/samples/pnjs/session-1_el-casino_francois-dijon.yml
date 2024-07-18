@@ -1,0 +1,21 @@
+personal_data:
+  name: François Dijon
+  character_description: |
+    - Es un representante / abogado de Taras Intercorp.  
+    - Le gusta apostar fuerte y no le gusta perder.  
+    - Taras Intercorp es una tapadera para el tráfico de armas.  
+  role: Brain
+  trope: Cheater
+  age: Adult
+attributes:
+  - Crime
+feats:
+  - SILVER TONGUE
+  - THAT’S ALL?
+  - HIGH CULTURE
+monstrous_feats:
+  - NOSFERATU
+  - BITE
+  - DARK INSTINCT
+enemy_feats:
+  - IMMORTAL

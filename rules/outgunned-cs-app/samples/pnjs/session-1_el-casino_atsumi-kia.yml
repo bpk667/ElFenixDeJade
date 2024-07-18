@@ -1,0 +1,18 @@
+personal_data:
+  name: Atsumi Kia
+  character_description: |
+    La ladrona del equipo.  
+    Cuando era niña El Loto Blanco la rescató de las calles y la crió en el monasterio.  
+    Está infiltrada en el servicio del hotel. ¿Crupier o camarera?  
+    Experta en trucos de ladrona/ratera. Mezcla entre ladrona y monje Shaolin.  
+  role: Criminal
+  trope: Cheater
+  age: Young
+attributes:
+  - Smooth
+feats:
+  - Always Prepared
+  - Lockpick
+  - Shadow
+martial_styles:
+  - BUTTERFLY STYLE

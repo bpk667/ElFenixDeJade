@@ -1,0 +1,20 @@
+personal_data:
+  name: Huang Su
+  character_description: |
+    Es el jefe y líder espiritual de El Loto Blanco.  
+    Está en mitad del casino y no se entera de qué son todas esas máquinas. Está muy fuera de lugar. Ropas tradicionales chinas y gran mostacho.  
+    Es la hostia en artes marciales pero acaba de salir del monasterio y es la primera vez que viaja a occidente.  
+    Es pacifista si no le atacas.  
+    No sabe ningún lenguaje europeo.  
+    No sabe ni usar un móvil.
+  role: Brain
+  trope: Good Samaritan
+  age: Adult
+attributes:
+  - Focus
+feats:
+  - Intuition
+  - Mastermind
+  - Get Down!
+martial_styles:
+  - BEAR STYLE
