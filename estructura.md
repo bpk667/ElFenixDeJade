@@ -214,8 +214,8 @@
         * no sale nunca del edificio (o al menos no se tiene constancia)
     * **Secretismo** No sabemos que medidas de seguridad tiene, los PJs tienen que investigarlo in-situ
     * La agencia les permite volver a elegir equipos
-    * Los equipos van al mismo sitio pero estan divididos en 2:
-        * Equipo de infiltracion (mantenimiento)
+    * Los equipos van al mismo sitio pero están divididos en 2:
+        * Equipo de infiltración (mantenimiento)
         * Equipo de asalto
     * En todo momento, pueden hablar entre los dos equipos para coordinarse
 

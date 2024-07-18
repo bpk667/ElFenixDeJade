@@ -1,16 +1,14 @@
-# PNJs
-  
-*Helmut Neumeyer (aka Kuzma El Empalador).*  
-Boss final. Viejo y poderoso vampiro ucraniano.  
-Vampiro espadachín.  
-Está detrás de múltiples empresas internacionales.  
-Vampiro que tiene una habilidad de control mental.  
-  
-# Objetivo
-Matar a Kuzma.
+# Rascacielos. Escena del equipo de mantenimiento.
 
-# Setting
+# Objetivos
+
+  * Deshabilitar las medidas de defensa y vigilancia del edificio.
+  * Apoyar y dar información al equipo de asalto.
+
+## Setting
+
 Rollo Blade + Juez Dredd/The Raid.  
+
 Edificio cargado de vampiros, hombres esclavizados, hombres lobos, etc.  
   
 Bonus si lo han hecho bien: Se pueden haber aliado con La Sociedad del Loto Blanco.  
@@ -18,13 +16,15 @@ Bonus si lo han hecho bien: Se pueden haber aliado con La Sociedad del Loto Blan
  
   
 *Notas GM*  
+
 Dos mesas separadas pero con comunicación entre sí.  
+
 Los PJs pueden ir a la otra mesa a ver cómo van.  
   
 Los PJs saben quién es Helmut "Kuzma El Empalador" Neumeyer y que vive en el rascacielos.  
   
   
-# Grupo de mantenimiento:  
+## Planta 0
 
 El equipo llega a recepción.
 Dos seguratas revisarán lo que llevan con poco entusiasmo:
