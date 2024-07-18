@@ -24,7 +24,7 @@ personal_data:
   age: Adult
 attributes:
   - Nerves
-feats: 
+special_actions: 
   - BOO!
   - DEMATERIALIZE
   - KNIFE VOLLEY

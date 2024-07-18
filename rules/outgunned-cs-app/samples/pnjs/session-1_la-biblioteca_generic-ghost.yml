@@ -7,7 +7,7 @@ personal_data:
   age: Adult
 attributes:
   - Nerves
-feats: 
+special_actions:
   - CHAOS
   - SMEAR THROUGH
   - WHEEL AROUND

@@ -44,6 +44,18 @@ class OutgunnedData(metaclass=SingletonMeta):
 
     def get_feats(self):
         return self.outgunned_data['FEATS']
+    
+    def get_enemy_feats(self):
+        return self.outgunned_data['ENEMY FEATS']
+
+    def get_special_actions(self):
+        return self.outgunned_data['SPECIAL ACTIONS']
+    
+    def get_monstrous_feats(self):
+        return self.outgunned_data['MONSTROUS FEATS']
+    
+    def get_martial_styles(self):
+        return self.outgunned_data['MARTIAL STYLES']
 
     def get_attributes(self):
         return self.outgunned_data['ATTRIBUTES']
@@ -81,6 +93,26 @@ class OutgunnedData(metaclass=SingletonMeta):
     def get_feat(self, feat):
         return self.get_check_case(
             self.get_feats(), feat
+        )
+    
+    def get_enemy_feat(self, feat):
+        return self.get_check_case(
+            self.get_enemy_feats(), feat
+        )
+    
+    def get_special_action(self, special_action):
+        return self.get_check_case(
+            self.get_special_actions(), special_action
+        )
+    
+    def get_monstrous_feat(self, feat):
+        return self.get_check_case(
+            self.get_monstrous_feats(), feat
+        )
+    
+    def get_martial_style(self, martial_style):
+        return self.get_check_case(
+            self.get_martial_styles(), martial_style
         )
 
 
@@ -287,9 +319,30 @@ class OutgunnedCSGenerator:
     def get_features(self):
         features_md = ""
 
-        for feat in self.character_data['feats']:
-            features_md += "### %s\n\n" % feat
-            features_md += "%s\n\n" % OutgunnedData().get_feat(feat)
+        if 'feats' in self.character_data:
+            for feat in self.character_data['feats']:
+                features_md += "### %s\n\n" % feat
+                features_md += "%s\n\n" % OutgunnedData().get_feat(feat)
+
+        if 'enemy_feats' in self.character_data:
+            for feat in self.character_data['enemy_feats']:
+                features_md += "### %s\n\n" % feat
+                features_md += "%s\n\n" % OutgunnedData().get_enemy_feat(feat)
+
+        if 'special_actions' in self.character_data:
+            for special_action in self.character_data['special_actions']:
+                features_md += "### %s\n\n" % special_action
+                features_md += "%s\n\n" % OutgunnedData().get_special_action(special_action)
+
+        if 'monstrous_feats' in self.character_data:
+            for feat in self.character_data['monstrous_feats']:
+                features_md += "### %s\n\n" % feat
+                features_md += "%s\n\n" % OutgunnedData().get_monstrous_feat(feat)
+
+        if 'martial_styles' in self.character_data:
+            for martial_style in self.character_data['martial_styles']:
+                features_md += "### %s\n\n" % martial_style
+                features_md += "%s\n\n" % OutgunnedData().get_martial_style(martial_style)
 
         return features_md
 

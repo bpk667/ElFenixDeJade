@@ -53,13 +53,13 @@ It doesn’t matter how many times they push you to the ground, you just keep st
 
 ## Habilidades
 
-### BOO!
+### CHAOS
 
-(GHOST, SPECIAL ACTION, Cost 1 ⚡)
+(ENEMY, SPECIAL ACTION, Cost 2 ⚡)
 
-The Ghost appears suddenly or does something purely terrifying.
+The Enemies scatter around, break everything in sight, and cause a racket, or they set off an alarm, or start a small fire.
 
-Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+From now on, the Heroes are dazed in the chaos and can no longer spend Adrenaline to gain +1 to their rolls.
 
 
 ### SMEAR THROUGH
@@ -84,4 +84,5 @@ If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused
 
 ## Objetos
 
+* SIN GEAR!!!
 

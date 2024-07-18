@@ -837,6 +837,7 @@ FEATS:
     When filling in the Bad Box, you suffer no Condition.
 
     You can only gain this Feat when creating a Young Hero.
+ENEMY FEATS:
   AUTOMATIC WEAPONS: |
     (ENEMY FEATS, 1 FP)
 
@@ -965,6 +966,77 @@ FEATS:
     The Enemy is a single opponent gifted with extraordinary resilience, or a group of unstoppable soldiers who can shrug off the blows of Heroes easily.
 
     Heroes cannot deal more than 1 Grit per every attack to the Enemy.
+  ELUSIVE: |
+    (MIDNIGHT WARS, ENEMY FEATS, 1 FP)
+
+    The Enemy can move through the shadows, dart around quickly, or dematerialize.
+
+    Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
+    
+    During a Reaction Turn, the Enemy may attack all Heroes as if they were in Melee and then retreat up to Medium Range.
+  SLAYER WEAPONS: |
+    (MIDNIGHT WARS, ENEMY FEATS, 1 FP)
+
+    The Enemy is equipped with the right guns or techniques to hunt a monster.
+
+    The Director chooses one type of monster. Heroes who belong to that category suffer -1 to all Reaction Rolls against the Enemy.
+  BEAST: |
+    (MIDNIGHT WARS, ENEMY FEATS, 2 FP)
+
+    The Enemy are werewolves in their beast form, or other similar wild creatures.
+
+    Attacking the Enemy while in Melee or Close Range requires an Action Roll (💀).
+
+    Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
+  INHUMAN REFLEXES: |
+    (MIDNIGHT WARS, ENEMY FEATS, 2 FP)
+
+    The Enemy are extremely swift and give no quarter to the Heroes.
+    
+    Heroes cannot take their free Quick Action.
+  IMMORTAL: |
+    (MIDNIGHT WARS, ENEMY FEATS, 3 FP)
+
+    The Enemy is an ancient being, almost impossible to kill.
+
+    Common weapons and bare-handed attacks have no effect on the Enemy.
+
+    The Heroes can only wound them when using weapons or bullets the Enemy is vulnerable to.
+  ANCIENT STYLE: |
+    (RISING DRAGON, ENEMY FEATS, 1 FP)
+
+    The Enemy are trained martial artists who know one of the ancient styles.
+
+    The Director chooses one of the 10 Ancient Martial Styles.
+
+    Heroes who use that Ancient Martial Style cannot benefit from the Free Re-roll and other bonuses from that style while fighting against this Enemy.
+  BALANCE: |
+    (RISING DRAGON, ENEMY FEATS, 1 FP)
+
+    After every blow, the Enemy returns to guard position and appears unphased.
+
+    Whenever the Director spends Adrenaline to activate a Special Action, they can flip a coin. If the result is Tails, they immediately receive 1 .
+  INNER STRENGTH: |
+    (RISING DRAGON, ENEMY FEATS, 1 FP)
+
+    The Enemy is gifted with great inner strength, and they know how to dominate their instincts.
+
+    When the Director fills in a Hot Box, they always gain 2 instead of 1.
+  ENEMY MUSTER: |
+    (RISING DRAGON, ENEMY FEATS, 2 FP)
+
+    There is a multitude of enemies, they surround the Heroes on all sides.
+    
+    Heroes suffer -1 to rolls made during Reaction Turns.
+  MASTER: |
+    (RISING DRAGON, ENEMY FEATS, 3 FP)
+
+    The Enemy is a legendary martial artist.
+
+    The Enemy knows all 10 Ancient Martial Styles, but they can only use one at a time. Whenever they adopt one of the 10 styles, the Enemy gains the same advantages offered by the Ancient Style Feat.
+
+    At any moment, but at most once per Action or Reaction Turn, the Director can state that the Enemy changes combat style.
+SPECIAL ACTIONS:
   COUNTER: |
     (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
 
@@ -1085,112 +1157,6 @@ FEATS:
     (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
 
     The Enemy grits their teeth and shrugs off the pain. The Director erases 2 filledin Grit boxes. After this, the Director stops accumulating Adrenaline for the rest of combat.
-  LYCANTHROPE: |
-    (MIDNIGHT WARS, MONSTROUS FEATS, WEREWOLVES ONLY)
-
-    You are a wild creature, half human and half beast.
-
-    Gain a Free Re-roll to all Brawn rolls. On nights of the full moon, you turn into a Beast.
-
-    Beast: You gain +1 to dodge bullets, and ignore penalties from the Hurt or Broken Conditions. Additionally, your score in Brawn is always equal to 3. At sunrise, or when you have Lost all Grit, you revert to human form and look Tired.
-
-    Weakness: You suffer -1 to all rolls made against Anti-werewolf guns and other silver items.
-  NOSFERATU: |
-    (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
-
-    You are a child of the night, born again with a thirst for blood.
-
-    Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
-
-    Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
-
-    If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
-  BITE: |
-    (MIDNIGHT WARS, MONSTROUS FEATS, Cost ⚡)
-
-    You plunge your fangs in your victim to feast on their blood or their pain.
-
-    After landing a blow on an enemy in Melee or Close Range, you may spend 1 Adrenaline to bite them and recover 3 Grit.
-  DARK INSTINCT: |
-    (MIDNIGHT WARS, MONSTROUS FEATS)
-
-    Your sharp senses allow you to hear everything and see through lies.
-
-    Gain a Free Re-roll to preempt dangers or ambushes, to locate lurking enemies, or to recognize lies
-
-    (⚡) Repeat a failed Awareness or Detect roll.
-  MIND CONTROL: |
-    (MIDNIGHT WARS, MONSTROUS FEATS)
-
-    You can breach through the defenses of the human psyche thanks to your powers or super-human instincts.
-    
-    Gain a Free Re-roll to all rolls made to charm or intimidate others.
-    
-    (⚡) [Quick Action] Gain access to a person’s mind to try to sway their actions.
-
-    In combat, this skill allows you to find 2 Enemy Weak Spots and choose the one you prefer.
-  MONSTROUS MOVEMENTS: |
-    (MIDNIGHT WARS, MONSTROUS FEATS)
-
-    You’re quick and elusive as a shadow. You are the apex predator.
-
-    Gain a Free Re-roll for all rolls in Stunt and gain +1 to jump, climb, or hang. 
-  REGENERATION: |
-    (MIDNIGHT WARS, MONSTROUS FEATS)
-    
-    Your blood is strong. Wounds aren’t enough to stop you.
-
-    Whenever you stand to lose 3 or more Grit, you lose 1 less Grit.
-    
-    (⚡) [Quick Action] Remove one Condition from yourself. You cannot remove the Broken Condition this way.
-  SHIFT: |
-    (MIDNIGHT WARS, MONSTROUS FEATS)
-
-    You tap into your dark power to turn into a beast or a swarm of bats
-
-    Gain one of the following abilities:
-    
-    (⚡) [Vampire] You dissolve into a swarm of bats to move to a point within Medium
-    Range or to avoid an attack without rolling the dice.
-    
-    (⚡)[Werewolf] You turn into a Beast until the end of the Scene, even if there is no
-    full moon.
-  ELUSIVE: |
-    (MIDNIGHT WARS, ENEMY FEATS, 1 FP)
-
-    The Enemy can move through the shadows, dart around quickly, or dematerialize.
-
-    Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
-    
-    During a Reaction Turn, the Enemy may attack all Heroes as if they were in Melee and then retreat up to Medium Range.
-  SLAYER WEAPONS: |
-    (MIDNIGHT WARS, ENEMY FEATS, 1 FP)
-
-    The Enemy is equipped with the right guns or techniques to hunt a monster.
-
-    The Director chooses one type of monster. Heroes who belong to that category suffer -1 to all Reaction Rolls against the Enemy.
-  BEAST: |
-    (MIDNIGHT WARS, ENEMY FEATS, 2 FP)
-
-    The Enemy are werewolves in their beast form, or other similar wild creatures.
-
-    Attacking the Enemy while in Melee or Close Range requires an Action Roll (💀).
-
-    Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
-  INHUMAN REFLEXES: |
-    (MIDNIGHT WARS, ENEMY FEATS, 2 FP)
-
-    The Enemy are extremely swift and give no quarter to the Heroes.
-    
-    Heroes cannot take their free Quick Action.
-  IMMORTAL: |
-    (MIDNIGHT WARS, ENEMY FEATS, 3 FP)
-
-    The Enemy is an ancient being, almost impossible to kill.
-
-    Common weapons and bare-handed attacks have no effect on the Enemy.
-
-    The Heroes can only wound them when using weapons or bullets the Enemy is vulnerable to.
   DANGER IN THE AIR: |
     (MIDNIGHT WARS, SPECIAL ACTION, Cost 1 ⚡)
 
@@ -1227,119 +1193,6 @@ FEATS:
     The Enemy infects a Hero with their curse. Maybe as a punishment, maybe by mistake. The Hero adds 2 Lethal Bullets to their Death Roulette, and they must take a spin on the Death Roulette.
     
     If the Hero survives, they immediately gain the Damned Feat.
-  BEAR STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    You have trained your body to withstand extreme conditions. Nothing can hurt you.
-
-    Whenever you stand to lose 3 or more Grit, you lose 1 less Grit.
-
-    ⚡ Bear’s Endurance: Remove one Condition from yourself. You cannot remove the Broken Condition this way.
-  BUTTERFLY STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    You gracefully move between your enemies. Form and substance become one in your movements.
-
-    When fighting, you can always choose to roll Smooth instead of Brawn. 
-
-    ⚡ Dancing Butterfly: Make a Reaction Roll of any kind using Smooth+Style instead of the required Skill.
-  CRANE STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    You are in perfect balance. Your mind and body in perfect sync.
-    
-    When fighting, you can always choose to roll Focus instead of Brawn.
-
-    ⚡ Mindfulness: Make a Reaction Roll of any kind using Focus+Awareness instead of the required Skill.
-  DRAGON STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    Your kicks are so fast and powerful, that they can change the flow of water.
-
-    Gain a Free Re-roll for all Action and Reaction Rolls made when fighting with your kicks.
-
-    ⚡ Dragon Kick: Repeat an Action Roll against an Enemy, ignore all Conditions.
-  DRUNKEN STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    You sway and stagger like a drunkard, but you’re in full control.
-
-    When fighting, you can always choose to roll Crime instead of Brawn.
-
-    ⚡ Drunken Swerve: You automatically succeed in a Reaction Roll against an Enemy.
-  EAGLE STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    Your Jian falls on your enemies, proud and swift, like a diving eagle.
-    Gain a Free Re-roll when fighting with a Jian (Sword).
-
-    ⚡ Quick Draw: After you succeed in a Reaction Roll against the Enemy, they lose 1 Grit.
-  IRON RINGS STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    Your spirit is as solid as the steel rings around your arms.
-
-    Gain a Free Re-roll when fighting with steel rings.
-
-    ⚡ Iron Defense: Make a Reaction Roll of any kind using Brawn+Endure instead of the required Skill.
-  MANTIS STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    Your strikes are fast and precise, hitting the enemy exactly in their weak spots.
-
-    When fighting, you can always choose to roll Nerves instead of Brawn.
-
-    ⚡ Pressure Points: [Full Turn] Make a roll in Nerves+Dexterity against the Enemy’s Defense. If you succeed, the Enemy takes a blow to a pressure point and loses one Feat of your choice. Roll a numeric die to determine how many turns it will take for the Enemy to regain that Feat.
-  MONKEY STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    You keep your enemies at bay by masterfully whirling your Chang Gun.
-
-    Gain a Free Re-roll when fighting with a Chang Gun (Quarterstaff).
-
-    ⚡ Monkey Vault: [Quick Action] You jump on top of your perfectly vertical quarterstaff. The Enemies cannot attack you in Melee during the next Reaction Turn.
-  TIGER STYLE: |
-    (RISING DRAGON, MARTIAL STYLES)
-
-    Your hands are mighty weapons, like the claws of a wild tiger.
-
-    Gain a Free Re-roll for all Action and Reaction Rolls made when fighting with your hands.
-
-    ⚡ Tiger Claw: After striking an Enemy in Melee, you can make a second Action Roll with -1. You do not have a Free Re-roll for this roll.
-  ANCIENT STYLE: |
-    (RISING DRAGON, ENEMY FEATS, 1 FP)
-
-    The Enemy are trained martial artists who know one of the ancient styles.
-
-    The Director chooses one of the 10 Ancient Martial Styles.
-
-    Heroes who use that Ancient Martial Style cannot benefit from the Free Re-roll and other bonuses from that style while fighting against this Enemy.
-  BALANCE: |
-    (RISING DRAGON, ENEMY FEATS, 1 FP)
-
-    After every blow, the Enemy returns to guard position and appears unphased.
-
-    Whenever the Director spends Adrenaline to activate a Special Action, they can flip a coin. If the result is Tails, they immediately receive 1 .
-  INNER STRENGTH: |
-    (RISING DRAGON, ENEMY FEATS, 1 FP)
-
-    The Enemy is gifted with great inner strength, and they know how to dominate their instincts.
-
-    When the Director fills in a Hot Box, they always gain 2 instead of 1.
-  ENEMY MUSTER: |
-    (RISING DRAGON, ENEMY FEATS, 2 FP)
-
-    There is a multitude of enemies, they surround the Heroes on all sides.
-    
-    Heroes suffer -1 to rolls made during Reaction Turns.
-  MASTER: |
-    (RISING DRAGON, ENEMY FEATS, 3 FP)
-
-    The Enemy is a legendary martial artist.
-
-    The Enemy knows all 10 Ancient Martial Styles, but they can only use one at a time. Whenever they adopt one of the 10 styles, the Enemy gains the same advantages offered by the Ancient Style Feat.
-
-    At any moment, but at most once per Action or Reaction Turn, the Director can state that the Enemy changes combat style.
   REDIRECT BLOWS: |
     (RISING DRAGON, SPECIAL ACTION, Cost 1 ⚡)
 
@@ -1443,6 +1296,157 @@ FEATS:
     (GHOST, SPECIAL ACTION, Cost 3 ⚡)
 
     After being captured or defeated, the Ghost breaks free and returns to the fray with 1 Grit box. Combat begins with a Reaction Turn.
+MONSTROUS FEATS:
+  LYCANTHROPE: |
+    (MIDNIGHT WARS, MONSTROUS FEATS, WEREWOLVES ONLY)
+
+    You are a wild creature, half human and half beast.
+
+    Gain a Free Re-roll to all Brawn rolls. On nights of the full moon, you turn into a Beast.
+
+    Beast: You gain +1 to dodge bullets, and ignore penalties from the Hurt or Broken Conditions. Additionally, your score in Brawn is always equal to 3. At sunrise, or when you have Lost all Grit, you revert to human form and look Tired.
+
+    Weakness: You suffer -1 to all rolls made against Anti-werewolf guns and other silver items.
+  NOSFERATU: |
+    (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
+
+    You are a child of the night, born again with a thirst for blood.
+
+    Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
+
+    Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
+
+    If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
+  BITE: |
+    (MIDNIGHT WARS, MONSTROUS FEATS, Cost ⚡)
+
+    You plunge your fangs in your victim to feast on their blood or their pain.
+
+    After landing a blow on an enemy in Melee or Close Range, you may spend 1 Adrenaline to bite them and recover 3 Grit.
+  DARK INSTINCT: |
+    (MIDNIGHT WARS, MONSTROUS FEATS)
+
+    Your sharp senses allow you to hear everything and see through lies.
+
+    Gain a Free Re-roll to preempt dangers or ambushes, to locate lurking enemies, or to recognize lies
+
+    (⚡) Repeat a failed Awareness or Detect roll.
+  MIND CONTROL: |
+    (MIDNIGHT WARS, MONSTROUS FEATS)
+
+    You can breach through the defenses of the human psyche thanks to your powers or super-human instincts.
+    
+    Gain a Free Re-roll to all rolls made to charm or intimidate others.
+    
+    (⚡) [Quick Action] Gain access to a person’s mind to try to sway their actions.
+
+    In combat, this skill allows you to find 2 Enemy Weak Spots and choose the one you prefer.
+  MONSTROUS MOVEMENTS: |
+    (MIDNIGHT WARS, MONSTROUS FEATS)
+
+    You’re quick and elusive as a shadow. You are the apex predator.
+
+    Gain a Free Re-roll for all rolls in Stunt and gain +1 to jump, climb, or hang. 
+  REGENERATION: |
+    (MIDNIGHT WARS, MONSTROUS FEATS)
+    
+    Your blood is strong. Wounds aren’t enough to stop you.
+
+    Whenever you stand to lose 3 or more Grit, you lose 1 less Grit.
+    
+    (⚡) [Quick Action] Remove one Condition from yourself. You cannot remove the Broken Condition this way.
+  SHIFT: |
+    (MIDNIGHT WARS, MONSTROUS FEATS)
+
+    You tap into your dark power to turn into a beast or a swarm of bats
+
+    Gain one of the following abilities:
+    
+    (⚡) [Vampire] You dissolve into a swarm of bats to move to a point within Medium
+    Range or to avoid an attack without rolling the dice.
+    
+    (⚡)[Werewolf] You turn into a Beast until the end of the Scene, even if there is no
+    full moon.
+MARTIAL STYLES:
+  BEAR STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    You have trained your body to withstand extreme conditions. Nothing can hurt you.
+
+    Whenever you stand to lose 3 or more Grit, you lose 1 less Grit.
+
+    ⚡ Bear’s Endurance: Remove one Condition from yourself. You cannot remove the Broken Condition this way.
+  BUTTERFLY STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    You gracefully move between your enemies. Form and substance become one in your movements.
+
+    When fighting, you can always choose to roll Smooth instead of Brawn. 
+
+    ⚡ Dancing Butterfly: Make a Reaction Roll of any kind using Smooth+Style instead of the required Skill.
+  CRANE STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    You are in perfect balance. Your mind and body in perfect sync.
+    
+    When fighting, you can always choose to roll Focus instead of Brawn.
+
+    ⚡ Mindfulness: Make a Reaction Roll of any kind using Focus+Awareness instead of the required Skill.
+  DRAGON STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    Your kicks are so fast and powerful, that they can change the flow of water.
+
+    Gain a Free Re-roll for all Action and Reaction Rolls made when fighting with your kicks.
+
+    ⚡ Dragon Kick: Repeat an Action Roll against an Enemy, ignore all Conditions.
+  DRUNKEN STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    You sway and stagger like a drunkard, but you’re in full control.
+
+    When fighting, you can always choose to roll Crime instead of Brawn.
+
+    ⚡ Drunken Swerve: You automatically succeed in a Reaction Roll against an Enemy.
+  EAGLE STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    Your Jian falls on your enemies, proud and swift, like a diving eagle.
+    Gain a Free Re-roll when fighting with a Jian (Sword).
+
+    ⚡ Quick Draw: After you succeed in a Reaction Roll against the Enemy, they lose 1 Grit.
+  IRON RINGS STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    Your spirit is as solid as the steel rings around your arms.
+
+    Gain a Free Re-roll when fighting with steel rings.
+
+    ⚡ Iron Defense: Make a Reaction Roll of any kind using Brawn+Endure instead of the required Skill.
+  MANTIS STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    Your strikes are fast and precise, hitting the enemy exactly in their weak spots.
+
+    When fighting, you can always choose to roll Nerves instead of Brawn.
+
+    ⚡ Pressure Points: [Full Turn] Make a roll in Nerves+Dexterity against the Enemy’s Defense. If you succeed, the Enemy takes a blow to a pressure point and loses one Feat of your choice. Roll a numeric die to determine how many turns it will take for the Enemy to regain that Feat.
+  MONKEY STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    You keep your enemies at bay by masterfully whirling your Chang Gun.
+
+    Gain a Free Re-roll when fighting with a Chang Gun (Quarterstaff).
+
+    ⚡ Monkey Vault: [Quick Action] You jump on top of your perfectly vertical quarterstaff. The Enemies cannot attack you in Melee during the next Reaction Turn.
+  TIGER STYLE: |
+    (RISING DRAGON, MARTIAL STYLES)
+
+    Your hands are mighty weapons, like the claws of a wild tiger.
+
+    Gain a Free Re-roll for all Action and Reaction Rolls made when fighting with your hands.
+
+    ⚡ Tiger Claw: After striking an Enemy in Melee, you can make a second Action Roll with -1. You do not have a Free Re-roll for this roll.
 ATTRIBUTES:
   Brawn: 2
   Nerves: 2
