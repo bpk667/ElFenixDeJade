@@ -837,6 +837,254 @@ FEATS:
     When filling in the Bad Box, you suffer no Condition.
 
     You can only gain this Feat when creating a Young Hero.
+  AUTOMATIC WEAPONS: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are armed with tommy guns or similar automatic weapons.
+
+    Heroes who fail to score at least a Basic Success during their Reaction Turn become Nervous. If they are already Nervous, they lose 1 additional Grit.
+  BULLETPROOF VESTS: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are wearing bullet-proof vests.
+
+    Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
+  FIGHTERS: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are experts in hand-to-hand combat.
+
+    Heroes suffer -1 when rolling to hit the Enemy without firearms or ranged weapons.
+  HEAVY-HANDED: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are burly, or armed with bats and chains.
+
+    Heroes who fail to score at least a Basic Success during their Reaction Turn become Tired. If they are already Tired, they lose 1 additional Grit.
+  MOB: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are a large group of people, a small riotous crowd, or a gang with far greater numbers than the Heroes. The blows are coming in from all sides!
+
+    When a Hero loses any amount of Grit, they always lose 1 additional Grit.
+  SHARP BLADES: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are armed with knives, claws, or sharp swords.
+
+    Heroes who fail to score at least a Basic Success during their Reaction Turn become Hurt. If they are already Hurt, they lose 1 additional Grit.
+
+    Heroes with kives or swords ignore this Feat.
+  TACTICS: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are well trained individuals who skillfully move through the battlefield. Real pros.
+
+    When a Hero wants to use a Quick Action to get closer or farther from the Enemy, they must flip a coin. 
+    * Heads: the Enemy anticipates the move, the range doesn’t change, and the Hero loses their action.
+    * Tails: the Hero repositions successfully.
+  WALKING HAZARD: |
+    (ENEMY FEATS, 1 FP)
+
+    The Enemies are extremely dangerous, brazenly reckless, or armed with unusual and threatening weapons.
+
+    Attacking the Enemy requires an Action Roll (💀).
+  ARMORED: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies are wearing anti-riot gear or cutting-edge armor, or they are covered by ballistic shields.
+
+    Heroes suffer -1 to rolls made to hit the Enemy.
+
+    An Enemy may have both the Armored and Bulletproof Vests Feats. When this happens, the penalties to the roll stack.
+  HARD TO KILL: |
+    (ENEMY FEATS, 2 FP)
+
+    Despite taking on hard blows, the Enemies never fold. They just shrug off the pain and keep on fighting without backing down.
+
+    When the Enemy reaches a Hot Box, they get 1 Adrenaline as usual, but lose no additional Grit because of the attack. For example, if an Enemy stands to lose 3 Grit because of a Hero’s attack, the Director fills in Grit boxes up to the Hot Box, and not after it.
+  MARTIAL ARTS: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies are skilled martial artists who perform acrobatic kicks and menacing war-cries.
+
+    All Heroes who cannot rely on the Martial Arts Feat suffer -1 to their Action and Reaction Rolls against the Enemy while in Melee or Close Range.
+  MEDKIT: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies carry experimental medicines, combat drugs, or syringes of adrenaline. Just a “little help” to keep on fighting.
+
+    When they lose all Grit, the Enemies immediately gain 1 additional Grit and get back into the fray.
+  ONE STEP AHEAD: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies are in perfect formation and can always rely on each-other, or they are fighting on their home-turf and know the lay of the land. 
+    
+    They leave nothing to chance.
+
+    The Enemies have no Weak Spot. If a Hero tries to find the Enemy’s Weak Spot and succeeds, they immediately realize there is none and lose 1 Grit due to the disheartening discovery.
+  PIERCING BULLETS: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies have weapons loaded with large-caliber or piercing bullets.
+
+    Heroes get no bonus from their bulletproof vests or from Partial Cover.
+  RELENTLESS: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies are not afraid of anything, they take huge risks in order to get the win.
+
+    The Enemies ignore Covering Fire. Heroes who lay down Covering Fire use up both their turn and mag, but gain no advantage.
+  SHOTGUNS: |
+    (ENEMY FEATS, 2 FP)
+
+    The Enemies are equipped with shotguns or similar firearms, highly effective in close quarters.
+
+    All Heroes who are in Melee with the Enemy at the end of their Action Turn suffer -1 to their next Reaction Roll.
+  EXPLOSIVE WEAPONS: |
+    (ENEMY FEATS, 3 FP)
+
+    The Enemies are armed with grenades and rocket launchers, or similarly explosive and dangerous weapons.
+
+    During Reaction Turns, all rolls made by Heroes are considered Gambles.
+  FLAMETHROWER: |
+    (ENEMY FEATS, 3 FP)
+
+    The Enemies are equipped with a huge flamethrower that cranks up the heat for this fight.
+
+    Heroes who fail to score at least a Critical Success during their Reaction Turn will have to skip the next Action Turn. When the Enemy is defeated, the flamethrower explodes or becomes unusable in some way. What were you thinking?
+  RAGE: |
+    (ENEMY FEATS, 3 FP)
+
+    Rage burns white-hot in the eyes of the Enemies. This time, it’s personal!
+
+    The Enemies begin combat with 1 Adrenaline.
+  TITAN: |
+    (ENEMY FEATS, 3 FP)
+
+    The Enemy is a single opponent gifted with extraordinary resilience, or a group of unstoppable soldiers who can shrug off the blows of Heroes easily.
+
+    Heroes cannot deal more than 1 Grit per every attack to the Enemy.
+  COUNTER: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    After a Hero has dealt a blow, the Enemy quickly counters with a sharp blow.
+    
+    The Hero loses the same amount of Grit that the Enemy has just lost.
+  DISARM: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    The Enemies try to disarm one of the Heroes.
+    
+    If the Hero fails a Critical Reaction Roll in Brawn+Dexterity, they lose their weapon.
+  FLASHBANG!: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    The Enemies toss a flash grenade that explodes in the middle of the battlefield causing a loud bang and a flash of light.
+
+    Heroes who fail a Critical Reaction Roll in Nerves+Awareness become Distracted and suffer -1 to their next roll.
+  FOUL PLAY: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    An Enemy tosses some dirt into the eyes of a Hero, strikes them from behind, or resorts to some form of unexpected foul-play.
+
+    If the Hero fails a Critical Reaction Roll in Crime+Awareness, they lose their next Action Turn.
+  GRAB AND THROW: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    After a Hero has attacked, the Enemy grabs them and tries to throw them.
+
+    If the Hero fails a Critical Reaction Roll in Brawn+Endure, they end up on the ground and suffer -1 to all rolls until they use a Quick Action to stand back up.
+  I DON’T THINK SO!: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    When a Hero uses any Feat that requires them to spend some Adrenaline, the Enemies promptly intervene to stop them.
+
+    The Hero loses the action, but doesn’t use up the Feat nor consume Adrenaline.
+  PILE ON: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    The Enemies pile on the weakest link of the group.
+
+    The Hero with the least Grit immediately loses 2 Grit. If the Hero has lost all Grit, they do not run the risk of being Left for Dead, but become Tired.
+
+    If they are already Tired, they become Hurt. If they are already Hurt, they become Broken.
+  TACKLE: |
+    (ENEMY, SPECIAL ACTION, Cost 1 ⚡)
+
+    An Enemy charges toward a Hero, tackling them head-down.
+
+    If the Hero fails a Critical Reaction Roll in Brawn+Force, they lose their footing and suffer -1 to their next roll.
+  CALL FOR BACKUP: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies stop fighting and leave the scene, but another Enemy with a higher Template or Type immediately comes in to take their place.
+
+    The combat resumes where it was interrupted.
+  CHAOS: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies scatter around, break everything in sight, and cause a racket, or they set off an alarm, or start a small fire.
+
+    From now on, the Heroes are dazed in the chaos and can no longer spend Adrenaline to gain +1 to their rolls.
+  CLAMP DOWN: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies grab hold of the Heroes with their bare hands or using chains or ropes.
+
+    Heroes who fail a Basic Reaction Roll in Brawn+Stealth are trapped. During their turn, a Hero can get free by making a Critical Action Roll in Brawn+Force. So long as they are trapped, the Hero fails all Reaction Rolls.
+  GRENADE: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    During a Reaction Turn, the Enemies do not attack. Instead, one of them throws a grenade. All Heroes involved must make an Extreme Reaction Roll in Brawn+Stunt.
+
+    If a Hero scores an Impossible Success, they can bounce the grenade back to the thrower, their friends do not lose Grit, and the Enemy is defeated.
+  PARRY: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemy is very strong on the defense.
+
+    After a Hero hits them, the Enemy ignores all loss of Grit.
+  SURROUND: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies surround the Heroes, or lie in wait all around them to limit their movements.
+
+    From now on, during their Action Turns, Heroes must sacrifice 1 Grit in order to get access to their free Quick Action.
+  THREATS: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies threaten the Heroes with their words or actions, or do something so sadistic and reckless, that they leave the Heroes aghast.
+
+    Heroes who fail a Critical Reaction Roll in Nerves+Cool, lose 1 Adrenaline. If they have no Adrenaline, they become Scared instead.
+  WEAK SPOT: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemies find and take advantage of a Hero’s weak spot.
+    
+    That Hero suffers -2 to their next Reaction Roll.
+  FINAL MOVE: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemy falls on one Hero, striking them with all their might in a furious and dramatic move.
+
+    If the Hero fails an Extreme Reaction Roll in Brawn+Fight, they become Broken.
+  INFAMY: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemy has a terrible ace up their sleeve, or feels no remorse for playing dirty.
+
+    When a Hero spends some Adrenaline or a Spotlight for any reason, they lose the resource without gaining any benefit. If the Spotlight was being used to save a friend, another Hero can choose to intervene by spending their own Spotlight.
+  SECRET WEAPON: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemy gains or reveals a weapon or skill they kept hidden up to this point.
+
+    They immediately gain one Enemy Feat of any kind, chosen by the Director.
+  TO THE END: |
+    (ENEMY, SPECIAL ACTION, Cost 2 ⚡)
+
+    The Enemy grits their teeth and shrugs off the pain. The Director erases 2 filledin Grit boxes. After this, the Director stops accumulating Adrenaline for the rest of combat.
   LYCANTHROPE: |
     (MIDNIGHT WARS, MONSTROUS FEATS, WEREWOLVES ONLY)
 
