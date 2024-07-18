@@ -51,7 +51,13 @@ Señor Cabot:
   > Pero ya está bien de acunaros y de palabras bonitas. Vamos al tema. ¿Frank?
 
 Frank:  
-  > TODO: Dar una intro de la misión de la biblioteca. **moz667**
+  > Gracias Señor Cabot,
+  >
+  > Agentes, es imperativo localizar a **El Profesor**. Este es un agente quien se encontraba encubierto en la Universidad de Florencia.
+  > 
+  > Hace una semana que no nos envía informes de situación y sus últimas ubicaciones conocidas son su despacho en la universidad y su vivienda en las afueras de la ciudad.
+  > 
+  > Revisen minuciosamente ambos lugares y entrevisten a cualquier persona que haya tenido contacto reciente con él. No escatimen en recursos ni tiempo; la situación es crítica y su seguridad podría estar comprometida. Informen de inmediato cualquier hallazgo.
   >
 
 Señor Cabot:  
