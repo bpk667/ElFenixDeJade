@@ -1,7 +1,7 @@
 # Lista de tareas pendientes
 
-- [ ] Leerse los libros.
-    - [ ] Revisar LVL UP **moz667**
+- [X] Leerse los libros.
+    - [X] Revisar LVL UP
     - [X] Revisar combate
 - [X] App
     - [X] Revisar simbolo adrenalina (rellenar)
@@ -16,7 +16,7 @@
     - [X] Catalogo de roles
 - [ ] Estructura de la aventura
     - [X] Estructura base: [estructura.md](./estructura.md)
-    - [ ] Sesion 1
+    - [X] Sesion 1
         - [X] Recopilacion de informacion (El Casino)
         - [X] STATUS de **El Profesor** (La Biblioteca)
     - [ ] Sesion 2
