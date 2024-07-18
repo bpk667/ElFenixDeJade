@@ -21,34 +21,33 @@
         - [X] STATUS de **El Profesor** (La Biblioteca)
     - [ ] Sesion 2
         - [ ] El Golpe (El Palacete) **in progress: moz667**
-            - [X] El Giro (La Presa) **in progress: bpk**
+            - [X] El Giro (La Presa)
     - [ ] Sesion 3
-        - [ ] El Gran final (El Rascacielos)  **pending: bpk / moz667**
-            - [ ] Equipo de mantenimiento **bpk**
+        - [ ] El Gran final (El Rascacielos)
+            - [X] Equipo de mantenimiento **bpk**
             - [ ] Equipo de asalto **moz667**
                 - [ ] Crear PNjs en plan rapido
-- [ ] Crear fichas de enemigos.
-    - [ ] François. Abogado de Taras (vampiro)(casino) **bpk**
-    - [ ] Borysko. Gorila de la suite (vampiro)(casino) **bpk**
-    - [ ] Atsumi. Ladrona (Wuxia)(casino) **bpk**
-    - [ ] Li Chan. Empresario (Wuxia)(casino) **bpk**
-    - [ ] Huang Su. Monje Shaolin (Wuxia)(casino) **bpk**
+- [X] Crear fichas de enemigos.
+    - [X] François. Abogado de Taras (vampiro)(casino)
+    - [X] Borysko. Gorila de la suite (vampiro)(casino)
+    - [X] Atsumi. Ladrona (Wuxia)(casino)
+    - [X] Li Chan. Empresario (Wuxia)(casino)
+    - [X] Huang Su. Monje Shaolin (Wuxia)(casino)
     - [X] Olaus Wormius (espectro)(biblioteca)
     - [X] Fantasma generico (espectro)(biblioteca)
-    - [ ] Hombre lobo (presa) **bpk**
-    - [ ] Pedro (Ghoul)(presa) **bpk**
-    - [ ] Max (Ghoul)(presa) **bpk**
-    - [ ] Kuzma (Vampiro milenario)(rascacielos) **moz667**
-    - [ ] ... faltan **moz667**
+    - [X] Hombre lobo (presa)
+    - [X] Pedro (Ghoul)(presa)
+    - [X] Max (Ghoul)(presa)
+    - [X] Kuzma (Vampiro milenario)(rascacielos)
 - [ ] Crear mapas.
-    - [X] Presa  **bpk**
+    - [X] Presa
     - [ ] palacio **moz667** `https://d1vzi28wh99zvq.cloudfront.net/images/11356/_product_images/358460/H_-_Adventure_Shot_2.jpg`
-- [X] Compras **moz667**
+- [X] Compras
     - [X] Lápices
     - [X] Folios
     - [X] Gomas
     - [X] Clips
-- [ ] Dados **bpk**
+- [ ] Dados
 - [ ] Generar pdfs **moz667**
     - [ ] Hojas de personajes (vacias)
     - [ ] Catalogo de roles
