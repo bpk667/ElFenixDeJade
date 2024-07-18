@@ -1,47 +1,64 @@
 # STATUS del agente "El profesor" (La Biblioteca)
   
-[Biblioteca Riccardiana (Florencia)](./imgs/biblioteca_general.jpg)
+![Biblioteca Riccardiana (Florencia)](./imgs/biblioteca_general.jpg)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Estructura](#estructura)
+  - [Objetivos](#objetivos)
+  - [Objetivos ocultos](#objetivos-ocultos)
+  - [Otras consideraciones](#otras-consideraciones)
+    - [Los villanos tomaran una via rapida de escape si son capturados](#los-villanos-tomaran-una-via-rapida-de-escape-si-son-capturados)
+- [Escena](#escena)
+  - [1. Briefing y viaje a florencia](#1-briefing-y-viaje-a-florencia)
+  - [2. Investigacion inicial (Florencia)](#2-investigacion-inicial-florencia)
+    - [2.1 Despacho de **El profesor** en la universidad](#21-despacho-de-el-profesor-en-la-universidad)
+      - [2.1.1 Encuentro con Gladis](#211-encuentro-con-gladis)
+      - [2.1.2 Persecucion por el campus](#212-persecucion-por-el-campus)
+      - [2.1.3 Despacho del profesor](#213-despacho-del-profesor)
+    - [2.2 La casa de **El profesor**](#22-la-casa-de-el-profesor)
+    - [2.2.1 Jardin y entrada a la casa](#221-jardin-y-entrada-a-la-casa)
+    - [2.2.2 Planta Baja](#222-planta-baja)
+    - [2.2.3 Primera Planta](#223-primera-planta)
+    - [2.2.4 Sotano](#224-sotano)
+  - [3. La biblioteca](#3-la-biblioteca)
+  - [3.1 Llegan a la sala de manuscritos.](#31-llegan-a-la-sala-de-manuscritos)
+  - [3.2 Empieza lo paranormal.](#32-empieza-lo-paranormal)
+  - [3.3 Lo paranormal sube de nivel.](#33-lo-paranormal-sube-de-nivel)
+  - [3.4 Los fantasmas se quitan los guantes.](#34-los-fantasmas-se-quitan-los-guantes)
+  - [3.5 Enfrentamiento.](#35-enfrentamiento)
+  - [4. Conclusion](#4-conclusion)
+- [Glosario](#glosario)
+  - [Objetos](#objetos)
+    - [Reloj de bolsillo / Tempus fugit / memento](#reloj-de-bolsillo--tempus-fugit--memento)
+    - [O pushka so sovel ando tunyariko (El puñal que duerme a la oscuridad)](#o-pushka-so-sovel-ando-tunyariko-el-pu%C3%B1al-que-duerme-a-la-oscuridad)
+    - [La agenda del profesor](#la-agenda-del-profesor)
+    - [Il Re in Giallo (El Rey de Amarillo) (italiano)](#il-re-in-giallo-el-rey-de-amarillo-italiano)
+    - [Letaliter Sanctio (Religias de la Muerte) (rutano antiguo)](#letaliter-sanctio-religias-de-la-muerte-rutano-antiguo)
+    - [Mercurius ter Maximus (rutano antiguo).](#mercurius-ter-maximus-rutano-antiguo)
+    - [El Guardián de la Eternidad (italiano)](#el-guardi%C3%A1n-de-la-eternidad-italiano)
+- [PNJs](#pnjs)
+  - [El Profesor / Marcus Jones](#el-profesor--marcus-jones)
+  - [Gladis](#gladis)
+  - [El agente de Taras del despacho](#el-agente-de-taras-del-despacho)
+  - [Agentes de Taras en la casa](#agentes-de-taras-en-la-casa)
+  - [Iryna](#iryna)
+  - [Estudiantes interesados en libros similares](#estudiantes-interesados-en-libros-similares)
+  - [Guido / El bibliotecario](#guido--el-bibliotecario)
+  - [Olaus Wormius / Guardián del Mercurius ter Maximus](#olaus-wormius--guardi%C3%A1n-del-mercurius-ter-maximus)
+  - [Espectros](#espectros)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Estructura
-
-1. Briefing y viaje a Florencia
-
-2. Investigacion inicial (Florencia)
-
-    1. Van a la universidad:
-        - Hay una tía vigilando el despacho del lingüista (trabaja para Taras).
-        - Al acercarse los PJs, ella va a intentar distraerles:
-            - La tía les dice que conoce al profesor y está buscándole.
-            - Suena un ruído dentro de algo cayendo al suelo.
-        - Al entrar en el despacho encontrarán a **El agente de Taras del despacho** revisando el despacho y está todo revuelto.
-            - Posiblemente, comenzara una persecucion con **El agente de Taras del despacho**, si consiguen pillarle, se suicidara.
-        - Cuando estudien los papeles, identificarán el nombre de varios manuscritos y que éstos están en la biblioteca.
-            - Si los PJs no lo averiguan, la tía encontrará la información.
-            - Se ofrece a ayudarles. Se pegará a los PJs como una lapa.
-
-    2. Van a la casa del agente desaparecido (chalet adosado a las afueras de Florencia):
-        - Antes de entrar ven huellas de un Mercedes de alta gama.
-        - Al empezar a registrar la casa:
-            - La caja fuerte está abierta pero no parece que falte nada.
-            - Encuentran una foto del profesor con el Papa volcada y sin romper (`dificultad básica X + X`).
-            - En el sótado se encuentran al profesor maniatado y torturado con muchos cortes. `dificultad crítica X + X` para ver que algunos cortes son de un animal.
-            - Encuentran exámenes corregidos y notas con el membrete de la universidad.
-
-3. La biblioteca
-    - Necesitan un permiso para entrar. La agencia puede conseguirlo.
-    - Consiguen la información del Fénix de Jade.
-    - Se enfrentan a Taras después de gestionar a los espectros.
-
-4. Conclusiones
-
 
 ### Objetivos  
 
 * **STATUS** de **El profesor**
     * **El profesor** es un agente infiltrado en la universidad de florencia y lleva una semana sin informar a la agencia.
     * Investigar que le ha ocurrido e informar a la agencia
-
 
 ### Objetivos ocultos
 
@@ -190,7 +207,6 @@ Da igual lo que ocurra ya que **Gladis**, no llamara a las autoridades, aunque h
 
 Para resolver este evento seguir estos pasos:
 
-* Tirar iniciativa
 * Uno a uno deciden que hacer
 * Bajar de la primera planta `BRAWN + STUNT`
     * `MISS`: Se cae de culo -1 SPEED
@@ -294,11 +310,22 @@ Por el resultado de la tirada obtendran la siguiente info:
     * Descubre lo anterior
     * Entre la masa sanguinolenta nausabunda hay un pequeño brillo que delata algo metalico.
 
-Si los PJs rebuscan en su interior descubriran un puñal metalico (de un palmo y medio) con un mango de cuero rojizo. `O pushka so sovel ando tunyariko` (ver mas abajo)
+Si los PJs rebuscan en su interior (puaj que asco!) descubriran un puñal metalico (de un palmo y medio) con un mango de cuero rojizo. `O pushka so sovel ando tunyariko` (ver mas abajo)
+
+**Combate extra por si vemos que va rapida la cosa:**
+
+**GMs**: Si vemos que la cosa va fluida, se me ocurrio meter un evento de combate extra.
+
+* Al volver a la planta baja, se encontraran con 4 agentes de **Taras Int.** (Ver en PNJs, **Agente 1-4 casa**)
+* Estos agentes se encontraban vigilando la casa y quieren saber si han encontrado algo.
+* Uno de ellos (Agente 1 casa) dira que son de la universidad y que estan preocupados por el profesor
+* No tienen pinta de ser de la universidad, van todos con traje al estilo **Agente Smith de Matrix** y con pinganillo
+* Si los jugadores intentan algo distinto que no sea enfrentarse a ellos, tendran que hacer una tirada `Critical Reaction Roll (💀)` o **tener en la mano el puñal**
+    * `NERVES + COOL` Averiguan sus intenciones
+    * `BRAWN + FIGHT` Se defienden del ataque
 
 **Solo para GMs**
 
-<!-- TODO: Explicacion de la escena -->
 * Hace una semana los agentes de **Taras** se cansaron de espiar a **El Professor**
 * **El Profesor** se defendio de uno de ellos atravesandole el corazon con el puñal y murio en el acto
 * Se trata de un agente vampiro de **Taras Int.**
@@ -482,12 +509,11 @@ El rito para liberar a un espectro guardián consiste en:
 
 ## PNJs
 
-### El Profesor / Marcus
-
-<!-- TODO: Descripcion -->
+### El Profesor / Marcus Jones
 
 * Es el agente desaparecido de **PRIS-13**
-* 
+* Un hombre atletico parecido a Indiana Jones
+* Si necesitamos una hoja de personaje, valdria de base la de **Bones** (con los cambios pertinentes a su persona y orientandolo mas a letras que a ciencias)
 
 ### Gladis
 
@@ -506,14 +532,45 @@ El rito para liberar a un espectro guardián consiste en:
 * Cuando lo descubran, intentara huir
 * Si lo pillan, se suicidará.
 
-**Inventario**
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
 
-* Pistola revolver con 6 balas: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+### Agentes de Taras en la casa
 
-**Atributos y habilidades**
+* Son agentes destinados a vigilancia y no van armados
+* Si pierden el combate se sucidan
 
-* `BRAWN + STUNT`: 3
-* `NERVES + SHOT`: 4
+* **RELENTLESS:**
+    * (ENEMY FEATS, 2 FP)
+    * The Enemies are not afraid of anything, they take huge risks in order to get the win.
+    * The Enemies ignore Covering Fire. Heroes who lay down Covering Fire use up both their turn and mag, but gain no advantage.
+
+**Agente 1 casa:**
+
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+**Agente 2 casa:**
+
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+**Agente 3 casa:**
+
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+**Agente 4 casa:**
+
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
 
 ### Iryna
 
@@ -542,7 +599,24 @@ El rito para liberar a un espectro guardián consiste en:
  
 Dos esclavos hipnotizados. Están ahí para supervisar que el lingüista haga su trabajo y no se la juegue. No son demasiado brillantes ni parecen estudiantes precisamente.  
 
-<!-- TODO: fichas genericas de matones -->
+**CHIP (rubio)**
+
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+
+* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+* **Cargadores**: `[ ]-[ ]-[ ]`
+
+**CHOP (moreno)**
+
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL
+* **DEFENSE**: CRITICAL
+
+* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+* **Cargadores**: `[ ]-[ ]-[ ]`
+
 
 ### Guido / El bibliotecario
 
@@ -565,7 +639,14 @@ Para liberarle y poder interrogarle habría que:
 
 Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
 
-Empieza con 6 ⚡
+**Durante el combate:**
+* Empieza con 6 ⚡
+* Gana 2 ⚡ Cada turno que esta oculto despues de **DEMATERIALIZE**
+* La unica forma de ganar ⚡ es desapareciendo, asi que su forma de actuar es:
+    * Acciones hasta gastar casi la totalidad de ⚡
+    * DEMATERIALIZE
+    * Esperar 2 ó 3 turnos (para cargarse de ⚡)
+    * Vuelta a empezar
 
 **Habilidades**
 * BOO!
@@ -580,11 +661,22 @@ Empieza con 6 ⚡
     * (GHOST, SPECIAL ACTION, Cost 2 ⚡)
     * The Ghost flings knives and other dangerous objects through the room.
     * All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
+* SPECTRAL POSSESSION
+    * (GHOST, SPECIAL ACTION, Cost 3 ⚡)
+    * The Ghost jumps into the body of a Hero.
+    * If the Hero fails an Extreme Reaction Roll in Nerves+Endure, they become Possessed. If they succeed, they become Smeared.
 
-### Espectro 1 (Fantasma generico)
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
+* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
 
-Empieza con 6 ⚡
+### Espectros
 
+**Durante el combate:**
+* Empieza con 6 ⚡
+* Gana 2 ⚡ despues de hacer **SMEAR THROUGH**
+
+**Habilidades**
 * BOO!
     * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
     * The Ghost appears suddenly or does something purely terrifying.
@@ -598,35 +690,22 @@ Empieza con 6 ⚡
     * The Ghost whirls a Hero around mid-air.
     * If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
 
-**SMEARED**
+**Estado especial `SMEARED`**
 
--1 to all rolls in Flirt and Style
-You are smeared in sticky green ectoplasmic discharge.
-You can get this Condition when a ghost goes through you.
-You can remove this Condition by taking a long bath during a Time-Out.
+* -1 to all rolls in Flirt and Style
+* You are smeared in sticky green ectoplasmic discharge.
+* You can get this Condition when a ghost goes through you.
+* You can remove this Condition by taking a long bath during a Time-Out.
 
-### Espectro 2 (Fantasma generico)
+**Espectro 1: Jane Doe**
 
-Empieza con 6 ⚡
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
+* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
 
-* BOO!
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost appears suddenly or does something purely terrifying.
-    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
-* SMEAR THROUGH
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost passes through a Hero.
-    * The Hero is now Smeared.
-* WHEEL AROUND
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost whirls a Hero around mid-air.
-    * If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
+**Espectro 2: John Doe**
 
-**SMEARED**
-
--1 to all rolls in Flirt and Style
-You are smeared in sticky green ectoplasmic discharge.
-You can get this Condition when a ghost goes through you.
-You can remove this Condition by taking a long bath during a Time-Out.
-
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
+* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
 
