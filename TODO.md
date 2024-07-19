@@ -48,13 +48,13 @@
     - [X] Gomas
     - [X] Clips
 - [ ] Dados **bpk**
-- [ ] Generar pdfs **moz667**
-    - [ ] Hojas de personajes (vacias)
+- [X] Generar pdfs **moz667**
+    - [X] Hojas de personajes (vacias)
     - [X] Catalogo de roles
     - [X] Hojas de personajes (detalles)
     - [X] Hojas de PNJs (detalles)
     - [X] Escenas
-    - [ ] Reglas
+    - [X] Reglas
         - [X] Attributes
         - [X] Features
         - [X] Basic Rules
