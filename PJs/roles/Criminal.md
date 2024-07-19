@@ -20,6 +20,7 @@ En la cárcel no tienen Netflix. Por eso, cuando el último trabajo salió mal y
 
 Catchphrase: "Prometí que esta vez iba a portarme bien..."
 
+<div style="page-break-after: always;"></div>
 
 ## Parker (Las reglas del Juego)
 
@@ -32,8 +33,7 @@ En la cárcel no tienen Netflix. Por eso, cuando el último trabajo salió mal y
 
 Catchphrase: "¿Por qué todos mirais para mí? Vale, toma."
 
-
-
+<div style="page-break-after: always;"></div>
 
 ## Carmen Sandiego (Carmen Sandiego)
 

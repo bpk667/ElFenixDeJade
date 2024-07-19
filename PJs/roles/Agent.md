@@ -24,6 +24,8 @@ La agencia te reclutó a través del departamento de policía en el que trabajab
 
 Si decides ser como Rosa, tu catchphrase será: *Los planes son planes. Soy dura, no un anarquista.*
 
+<div style="page-break-after: always;"></div>
+
 ### Detective Axel Folly (Superdetective en Hollywood)
 
 ![Axel](./imgs/axelFolly.jpg)
@@ -32,7 +34,9 @@ Te criaste en un barrio malo de Detroit y acabaste llegando a Policía. Lo hicis
 
 Todavía no tienes muy claro por qué te reclutó la organización ni si encajas del todo aquí, pero está claro que alguien tiene que ayudar a este grupo de estirados a relajarse un poco mientras hacen su trabajo.
 
-Si decides ser como Axel, tu catchphrase será: *No se preocupe no estoy de servicio. Estoy de vacaciones. (guiño)*
+Si decides ser como Axel, tu catchphrase será: *No se preocupe no estoy de servicio. Estoy de vacaciones.*
+
+<div style="page-break-after: always;"></div>
 
 ### Yuri Briar (Spy x Family)
 

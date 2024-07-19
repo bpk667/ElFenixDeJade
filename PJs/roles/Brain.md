@@ -9,6 +9,7 @@ Eres la persona que piensa, que mantiene la calma y el foco en el medio de todo.
 # Puedes ser cómo
 Hay muchos ejemplos de cerebros en las pelis y series de acción: Desde el experto hiperespecializado en un campo hasta la persona de acción que prefiere pensar y planificar antes que usar la fuerza. Haz como ellos, piensa un poco y encuentra el que más te guste. Aquí te dejamos algunos ejemplos para darte ideas tan geniales como las suyas:
 
+<div style="page-break-after: always;"></div>
 
 ## La Dra. Temperance "Bones" Brennan
 
@@ -18,8 +19,9 @@ Eres muy buena en tu trabajo y estás especializada en múltiples campos cientí
 
 Si quieres ideas de cómo acabaste en la organización, te damos una: la organización se acercó a reclutarte por tu trabajo. Y bien que hiceron, por que el que llevaba todo antes que tú era un incompetente. ¡Apenas tenía un doctorado!
 
-<!--Si quieres parecerte a la Doctora Brennan, tu catchphrase será: "He abierto cerebros de Homo Erectus más avanzados que el suyo".-->
+Si quieres parecerte a la Doctora Brennan, tu catchphrase será: "He abierto cerebros de Homo Erectus más avanzados que el suyo".
 
+<div style="page-break-after: always;"></div>
 
 ## El Coronel John "Hannibal" Smith
 
@@ -29,4 +31,4 @@ Todo el mundo tiene una especialidad, la tuya es planificar. La mayoría de las 
 
 Aquí tienes un ejemplo de cómo pudiste acabar en la organización: La organización te reclutó después de que te licenciaran con deshonor de tu puesto en el ejército tras muchos años de servicio. Desde aquella, usas tu cerebro y tu socarrona sonrisa por el bien del mundo.
 
-<!--Si elijes parecerte al Coronel Smith, tu catchphrase será: "Me encanta que los planes salgan bien".-->
+Si elijes parecerte al Coronel Smith, tu catchphrase será: "Me encanta que los planes salgan bien".

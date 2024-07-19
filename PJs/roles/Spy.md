@@ -13,12 +13,14 @@ Eres el espía. Trabajando para una organización o para tu país.
 ## James Bond (007)
 
 ![James Bond](./imgs/BondConnery.jpg)
+
 Puedes ser como el superespía James Bond: preparado, carismático y quizás un poco arrogante. Si te ves a las películas clásicas, ándate con cuidado que muchas de las cosas de esa época dan mucho "Cringe".
 
 Inteligencia del MI6 ha averiguado que varios de los lugartenientes de la organización terrorista Quantum fueron reclutados en PRIS-13, así que no te ha quedado otra que dejar el retiro paradisiaco donde estabas e infiltrarte en el PRIS-13.
 
 Catchphrase: "Imposible es lo que hago de 9 a 6.
 
+<div style="page-break-after: always;"></div>
 
 ## Sydney Anne Bristow (Alias)
 
@@ -30,7 +32,7 @@ Siguiendo la pista del turbulento pasado de tu madre para intentar conocerla mej
 
 Catchphrase: "No deberías confiar en mí."
 
-
+<div style="page-break-after: always;"></div>
 
 ## Agente P (Phineas y Ferb)
 

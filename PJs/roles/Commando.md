@@ -11,7 +11,6 @@ Eres el Commando, un soldado curtido en mil batallas. La persona dura, experta e
 # Puedes ser cómo...
 En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban balas como el que tira caramelos en la cabalgata de reyes. Solo piensa un poco, escoge algunos de tus favoritos y piensa en qué te gustaba de ellos. Toma lo que más me guste y construye tu personalidad en consecuencia. Aquí te dejamos algunos ejemplos para que te sea más sencillo.
 
-
 ## Jonh Matrix (Commando)
 
 ![Matrix](./imgs/John-Matrix-Commando-Schwarzenegger-a.jpg)
@@ -22,6 +21,7 @@ Tras darte cuenta de que la organización a la que dedicaste tu vida estaba diri
 
 Lo malo de ser un soldado honrado es que no haces mucho dinero, así que tuviste que volver a activo. PRIS-13 es una de los grupos con las que colaboraste en el pasado y te parecían decentes, quizá un poco más secretista de lo que te gustaría, pero al menos parece que mantienen el hocico limpio.
 
+<div style="page-break-after: always;"></div>
 
 ## Alice Abernathy (Resident Evil)
 
