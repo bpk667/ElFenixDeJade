@@ -7,4 +7,4 @@
 * Destapar naturaleza de la agencia?
 * Comentar objetivo comun: destruir a Kuzma
 * Describir plan de accion y grupos tacticos
-
+* Preparativos para los grupos (objetos y demas)
