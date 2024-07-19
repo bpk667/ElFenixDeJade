@@ -35,11 +35,13 @@
 * Stealth: Hide, sneak, or move quietly.
 * Streetwise: Interact with criminals, recall information useful for moving in seedy neighborhoods or dealing with organized crime.
 
+<!-- 
+
 <div style="page-break-after: always;"></div>
 
 ![Success Rates](./imgs/success_rates.png)
 
-<!-- 
+
 TODO: Iba a completar esta tabla pero tampoco veo que ayude demasiado para tenerlo en texto,
 la tenemos en basic_rules.md como imagen
 
