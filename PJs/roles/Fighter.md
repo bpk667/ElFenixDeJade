@@ -10,7 +10,7 @@ Eres el fighter, especialista en cuerpo a cuerpo. Aunque haces más cosas, las p
 Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes que pillar los rasgos que te gustan de cada uno y hacerlos tuyos. Aquí te damos algunos ejemplos de luchadores de ficción "famosos" para te den ideas:
 
 ## Elliot Spencer (Las reglas del Juego)
-![Elliot](./imgs/Christian.Kane.webp)
+![Elliot](./imgs/Christian.Kane.jpg)
 
 Un tipo duro con un corazón de oro. Has visto todos los conflictos del mundo, has estado en casi todos ellos y los odias con toda tu alma. Te has unido a la organización sólo por que por una vez te da la oportunidad de proteger a los más débiles. Aunque tu especialidad son los puños, prefieres no pelear y resolver las peleas con tu carisma. Tú no empiezas las peleas, pero siempre las terminas.
 

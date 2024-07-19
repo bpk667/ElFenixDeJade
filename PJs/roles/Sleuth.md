@@ -23,7 +23,7 @@ Catchphrase: "La verdad está ahí fuera"
 
 ## Veronica Mars (Veronica Mars)
 
-![Veronica](./imgs/veronica.webp)
+![Veronica](./imgs/veronica.jpg)
 
 Veronica representa a la persona con talento natural para la investigación. Una mente que siempre encuentra patrones, unos ojos capaces de detectarlo todo y una vida llena de giros dramáticos. A veces impulsiva, no puedes dejar que una injusticia pase a tu alrededor sin meter la nariz. Y la verdad es que si no lo hicieras la policía siempre acabaría arrestando a la persona que no es.
 

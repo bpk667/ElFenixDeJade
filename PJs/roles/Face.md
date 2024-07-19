@@ -19,7 +19,7 @@ Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta f
 
 ## Teniente Tempelton "Fénix" Peck (Equipo A)
 
-![Peck](./imgs/Original_Faceman.webp)
+![Peck](./imgs/Original_Faceman.jpg)
 
 Lo primero que te define es que eres un jugador de equipo: Engañar y mentir es solo algo que haces para que la misión siga. Tu especialidad es conseguir cosas: si para eso tienes que ser vendedor de seguros hoy y repartidor de fedex mañana, que así sea. Has estado en el ejército y se nota, te gusta la organización y que haya una jerarquía. La organización te reclutó cuando te licenciaron del ejército por desobedecer a tus superiores.
 

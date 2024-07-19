@@ -12,7 +12,7 @@ Un antiguo criminal ¿reconvertido? al lado de los buenos. O eso parece. Por aho
 
 ## Lupin (Lupin)
 
-![Lupin](./imgs/netflix-lupin-temporadapng.webp)
+![Lupin](./imgs/netflix-lupin-temporadapng.jpg)
 
 En cualquier serie o película, Lupin es el prototipo de caballero: Educado, galante, cortés. Desprecia la violencia y ve cualquier golpe como un reto. El golpe ha de tener motivos personales o ser retador, pero nunca merece la pena si alguien va a salir dañado. Puede ser un ladrón, pero desde luego no es un asesino. Eso no quiere decir que no puedas defenderte, pero no vas a matar por ningún motivo. (Salvo que sea por venganza).
 
