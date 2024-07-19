@@ -61,17 +61,17 @@
     - [X] Estructura
     - [X] Glosario
 - [ ] Impresiones **bpk**
-    - [ ] 10 x Hojas de personajes (vacias) x 10 copias
-    - [ ] 2 x Catalogo de roles
-    - [ ] 1 x Hojas de personajes (detalles)
-    - [ ] 1 x Hojas de PNJs (detalles)
-    - [ ] 1 x Escenas
-    - [ ] Reglas **Resumen de reglas**
-        - [ ] 6 x Attributes
-        - [ ] 6 x Features **Falta generar features.md**
-        - [ ] 1 x Basic Rules
-    - [ ] 1 x Estructura
-    - [ ] 1 x Glosario
+    - [X] 10 x Hojas de personajes (vacias) x 10 copias
+    - [X] 2 x Catalogo de roles
+    - [X] 1 x Hojas de personajes (detalles)
+    - [X] 1 x Hojas de PNJs (detalles)
+    - [X] 1 x Escenas
+    - [X] Reglas **Resumen de reglas**
+        - [X] 10 x Attributes
+        - [X] 6 x Features **Falta generar features.md**
+        - [X] 1 x Basic Rules
+    - [X] 1 x Estructura
+    - [X] 1 x Glosario
 
 ## Mesh
 

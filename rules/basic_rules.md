@@ -31,17 +31,17 @@ Jackpot!:
 ## Dificultad
 
 - *Basic*. All rolls that concern really simple things but still hide a small chance for accidents.
-		A quick and easy action or reaction. Like jumping over an obstacle, stealing the keys off of a distracted agent, throwing something.
+    A quick and easy action or reaction. Like jumping over an obstacle, stealing the keys off of a distracted agent, throwing something.
 - *Critical*. In most cases.
-		Full action or reaction. Like bursting through a sturdy door, jumping out of a window, earning someone’s trust.
+    Full action or reaction. Like bursting through a sturdy door, jumping out of a window, earning someone’s trust.
 
 - *2 Critical rolls*. A happy medium between the Critical and Extreme.
 
 - *Extreme*. Truly demanding rolls, where success is certainly not a given.
-		A truly demanding action or reaction. Like picking the lock of a secure vault, shooting a speeding target at night in the pouring rain, per- suading a sworn enemy to cooperate.
+    A truly demanding action or reaction. Like picking the lock of a secure vault, shooting a speeding target at night in the pouring rain, per- suading a sworn enemy to cooperate.
 
 - *Impossible*. Only come into play when Heroes have got ten themselves in big trouble.
-		A desperate action or reaction. Like calmly exiting a car in the middle of a 180 while shooting at a tiny target, getting rid of a large group of enemies with nothing but a pencil, taking down a helicopter with a speeding car because you’re running low on ammo. Stuff from movie trailers.
+    A desperate action or reaction. Like calmly exiting a car in the middle of a 180 while shooting at a tiny target, getting rid of a large group of enemies with nothing but a pencil, taking down a helicopter with a speeding car because you’re running low on ammo. Stuff from movie trailers.
 
 ### Double difficulty.
 
@@ -384,5 +384,33 @@ Examples:
   - Protect your friends:
       - Spend extra successes scored during a Reaction Turn to protect your friends who may have failed their Reaction Rolls.
       - You can NOT use lower successes to do Damage Control for them.
+
+
+### Shooting
+
+Range:
+  - Melee: Target within 2 m/yd.
+  - Close Range: Target at 2-10 m/yd.
+      Can be reached with a Quick Action.
+  - Medium Range: Target at 10-50 m/yd.
+      Can be reached in one turn, or with an extra Full Action.
+  - Long Range: Target at 50-300 m/yd.
+      Can be reached in 2 to 3 turns.
+  - Out of Range: Target beyond 300 m/yd.
+    In line of sight but beyond useful reach. There are a few weapons that can shoot Out of Range, for example, a sniper rifle.
+
+By default, use the Medium Range.
+
+Shooting at an Enemy who is in **Melee with your friends**, your Actions become a Gamble.
+
+**Partial Cover**:
+  - Quick Action
+  - +1 to Reaction Rolls
+  - -1 to Action Rolls.
+
+**Total Cover**:
+  - Action Roll.
+  - Automatic Success to Reaction Rolls.
+  - -3 to Action Rolls.
 
 
