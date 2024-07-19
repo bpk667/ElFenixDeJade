@@ -19,6 +19,12 @@
 * Está detrás de múltiples empresas internacionales.
 * Vampiro que tiene una habilidad de control mental.
 
+Empieza con 12 ⚡
+
+- **ATTACK**: CRITICAL
+- **DEFENSE**: CRITICAL
+- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-< >-[ ]-< >-[ ]-< >-[ ]`
+
 
 ## TROPE: Cheater
 
