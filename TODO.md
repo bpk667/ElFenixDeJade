@@ -19,8 +19,8 @@
     - [X] Sesion 1
         - [X] Recopilacion de informacion (El Casino)
         - [X] STATUS de **El Profesor** (La Biblioteca)
-    - [ ] Sesion 2
-        - [ ] El Golpe (El Palacete) **in progress: moz667**
+    - [X] Sesion 2
+        - [X] El Golpe (El Palacete)
             - [X] El Giro (La Presa)
     - [ ] Sesion 3
         - [ ] El Gran final (El Rascacielos)
@@ -39,27 +39,27 @@
     - [X] Pedro (Ghoul)(presa)
     - [X] Max (Ghoul)(presa)
     - [X] Kuzma (Vampiro milenario)(rascacielos)
-- [ ] Crear mapas.
+- [X] Crear mapas.
     - [X] Presa
-    - [ ] palacio **moz667** `https://d1vzi28wh99zvq.cloudfront.net/images/11356/_product_images/358460/H_-_Adventure_Shot_2.jpg`
+    - [X] palacio
 - [X] Compras
     - [X] Lápices
     - [X] Folios
     - [X] Gomas
     - [X] Clips
-- [ ] Dados
+- [ ] Dados **bpk**
 - [ ] Generar pdfs **moz667**
     - [ ] Hojas de personajes (vacias)
-    - [ ] Catalogo de roles
-    - [ ] Hojas de personajes (detalles)
-    - [ ] Hojas de PNJs (detalles)
-    - [ ] Escenas
-    - [ ] Reglas **Resumen de reglas**
-        - [ ] Attributes
-        - [ ] Features **Falta generar features.md**
-        - [ ] Basic Rules
-    - [ ] Estructura
-    - [ ] Glosario
+    - [X] Catalogo de roles
+    - [X] Hojas de personajes (detalles)
+    - [X] Hojas de PNJs (detalles)
+    - [X] Escenas
+    - [ ] Reglas
+        - [X] Attributes
+        - [X] Features
+        - [X] Basic Rules
+    - [X] Estructura
+    - [X] Glosario
 - [ ] Impresiones **bpk**
     - [ ] 10 x Hojas de personajes (vacias) x 10 copias
     - [ ] 2 x Catalogo de roles
