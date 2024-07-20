@@ -24,8 +24,8 @@
             - [X] El Giro (La Presa)
     - [ ] Sesion 3
         - [ ] El Gran final (El Rascacielos)
-            - [X] Equipo de mantenimiento **bpk**
-            - [ ] Equipo de asalto **moz667**
+            - [X] Equipo de mantenimiento
+            - [ ] Equipo de asalto **moz667: in progress**
                 - [ ] Crear PNjs en plan rapido
 - [X] Crear fichas de enemigos.
     - [X] François. Abogado de Taras (vampiro)(casino)
@@ -47,8 +47,8 @@
     - [X] Folios
     - [X] Gomas
     - [X] Clips
-- [ ] Dados **bpk**
-- [X] Generar pdfs **moz667**
+- [X] Dados
+- [X] Generar pdfs
     - [X] Hojas de personajes (vacias)
     - [X] Catalogo de roles
     - [X] Hojas de personajes (detalles)
@@ -60,7 +60,7 @@
         - [X] Basic Rules
     - [X] Estructura
     - [X] Glosario
-- [ ] Impresiones **bpk**
+- [X] Impresiones
     - [X] 10 x Hojas de personajes (vacias) x 10 copias
     - [X] 2 x Catalogo de roles
     - [X] 1 x Hojas de personajes (detalles)
@@ -68,10 +68,11 @@
     - [X] 1 x Escenas
     - [X] Reglas **Resumen de reglas**
         - [X] 10 x Attributes
-        - [X] 6 x Features **Falta generar features.md**
+        - [X] 6 x Features
         - [X] 1 x Basic Rules
     - [X] 1 x Estructura
     - [X] 1 x Glosario
+- [ ] FIX: titulo de roles en catalogo de personajes
 
 ## Mesh
 
