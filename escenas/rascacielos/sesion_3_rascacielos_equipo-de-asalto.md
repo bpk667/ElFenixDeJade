@@ -117,6 +117,9 @@
     * Pistola
 
 ## Mapa
+
+![Mapa plantas superiores](./imgs/rascacielos_niveles_superiores.png)
+
 * **A**: puerta giratoria (bastante opaca... no veran a nadie entrar hasta que este dentro, pueden ir de 2 en 2)
 * **B1**
     * Personal de Seguridad CRITICAL
