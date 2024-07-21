@@ -25,6 +25,11 @@ Empieza con 12 ⚡
 - **DEFENSE**: CRITICAL
 - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-< >-[ ]-< >-[ ]-< >-[ ]`
 
+**DAMNED**
+
+You were touched by evil. You are a day-walking vampire, the child of a forbidden union, or the victim of a curse.
+
+You gain one Monstrous Feat of your choice. Add this Feat in the same slot where you note the Damned Feat.
 
 ## TROPE: Cheater
 
