@@ -115,3 +115,109 @@ The Enemies grab at you from all sides, trying to pull you to the ground. React 
 **Director:** Ouch! The Enemy loses 1 Grit! Ready for the next Action Turn? Come on, it’s your move.
 
 
+## BRAWL
+
+A Brawl is a type of combat, with or without weapons, that involves all or most Heroes.
+
+The rules for a Brawl allow you to manage any combat of little consequence quickly, they are ideal for fist-fights and conflicts with lower complexity.
+
+During a Brawl, all Rolls are Action Rolls (💀). This means that with a single roll of the dice, Heroes determine both if they manage to hit the Enemy and if they were hit in turn.
+
+If the Hero makes their Action Roll (💀) and manages to match or beat the Enemy’s Attack, then they landed a blow. If not, the Hero loses an amount of Grit to represent the blows landed by the Enemy.
+
+As usually happens for rolls (💀), during a Brawl Heroes can use lower successes to do Damage Control.
+
+In contrast with normal combat, during a Brawl Heroes do not take Reaction Turns, but only Action Turns. Once everyone has made their Action Rolls (💀), the Director assesses the situation and describes the scene. Then a new Action Turn begins.
+
+> *Savar: I jump on the Enemy and hit them with a flying kick. I rolled a Critical Success.*
+> *Victor: I draw my pistol and shoot point-blank... Damnit! A full-scale failure.*
+> *Director: Savar hits one of the Villain’s henchmen with a kick to the face, knocking them out cold, the Enemy loses 1 Grit. Victor tries to shoot, but misses. One of the enemies takes the chance to hit him with a punch to the side. Victor, you lose 3 Grit. Back to you.*
+
+### Enemies with Double Difficulty
+
+When you’re in a Brawl against an Enemy with an Attack score of 2 Basic or 2 Critical, you risk losing twice the Grit.
+
+The good news is that it only takes you ONE success of the right type to deal them 1 Grit, which means you can get in some damage even if you don’t manage to dodge all their blows.
+
+For example, if you’re facing an opponent with 2 Critical Attack and score one Critical Success, this means that you hit each-other. The Enemy loses 1 Grit, and you lose 3. On the other hand, if you score 2 Critical Successes, it means you won across the board. The Enemy loses 2 Grit, and you’re unhurt.
+
+### When to Opt for a Brawl
+
+The rules for Brawls allow you to speed up and simplify combat, but are not really suited for more complex scenes, where Heroes are scattered or busy with different tasks.
+
+When most Heroes are taking part in a fight and their only goal is getting rid of the Enemy quickly, if you don’t want to spend a long time describing the combat, you can choose to use the Brawl rules to simplify the flow of the game. Otherwise, you should use the rules for combat.
+
+## Bang! Bang! Bang!
+
+You can’t solve all your problems by shooting at them, but when kind words, stealthy approaches, and good old fists just don’t cut it, the only thing left to do is to make it rain bullets.
+
+### Range
+
+What’s range in outgunned? First of all, it’s how you determine how many actions or turns it will take you to reach your target, then it’s how you determine whether your weapon gives you a bonus or penalty to the roll.
+
+When you’re shooting (or getting shot at), the Director decides the range by choosing between:
+* Melee: Target within 2 m/yd.
+* Close Range: Target at 2-10 m/yd. Can be reached with a Quick Action.
+* Medium Range: Target at 10-50 m/yd. Can be reached in one turn, or with an extra Full Action.
+* Long Range: Target at 50-300 m/yd. Can be reached in 2 to 3 turns.
+* Out of Range: Target beyond 300 m/yd. In line of sight but beyond useful reach. There are a few weapons that can shoot Out of Range, for example, a sniper rifle.
+
+You don’t need to use a map or grid to keep track of the distance between Heroes and Enemies. You just need to estimate the range to know how many actions the Heroes need in order to get closer to or farther from the Enemy. If you’re in doubt, you can use Medium Range for most occasions.
+
+The Director should use range to create a dynamic scene clearly understandable to Heroes without requiring long descriptions that hinder the game and slow down the story. When in doubt, they can always use the Medium Range.
+
+For example, the Director can declare that combat begins with the Enemies lurking at the end of the street, in Long Range, or with the Enemies menacingly stepping out of a car in Close Range. If the situation is more complex or somewhat ambiguous, the Director can consider all Enemies that are not in Melee as if they were in Medium Range.
+
+### Cover
+
+When you’re being shot at, you usually react with Brawn+Stunt. If you dive behind cover, you increase your chances of dodging enemy bullets, but at the same time decrease your chances of hitting the Enemy. It’s up to you.
+
+* Partial Cover: +1 to Reaction Rolls, -1 to Action Rolls.
+    * You can reach Partial Cover with a Quick Action. This means that, during your Action Turn, you can spend your free Quick Action to either reach or exit Partial Cover, before or after rolling the dice. Alternatively, you can spend any extra Basic Success to get an extra Quick Action.
+    * A low wall, an upturned table, a pillar.
+* Total Cover: Automatic Success to Reaction Rolls, -3 to Action Rolls.
+    * You can get behind Total Cover by spending your whole turn and forgoing your usual Action Roll. Alternatively, you can also spend any extra Critical Success to get an extra Full Action and quickly throw yourself behind Total Cover. Getting out of Total Cover requires a Quick Action.
+    * The corner of a building, a car, a barricade.
+
+Always remember that you can also use Quick or Full Actions to push one of your friends behind Partial or Total Cover. You can even use a Cool Action (Extreme Success) to reach cover with another Hero.
+
+### Mags
+
+Around here, we don’t keep track of bullets, but only of mags. For each weapon you can carry up to three mags (plus one in the weapon), which you can note by filling in the bullets you see in the Weapons & Gear box on your Hero Sheet.
+
+When shooting, you never consume bullets or mags. You can have fun making lead rain on your enemies. There are only 4 ways to empty a mag:
+* Failure: When you fail a roll to shoot, you lose one mag. It means that you just kept shooting without really hitting your target, that your weapon jammed or misfired, or simply that that was the last bullet you had in the mag.
+* Going Full Auto: When you voluntarily empty a mag against your Enemies to gain +1 to the roll.
+* Covering Fire: When you shoot in all directions to force your Enemies to keep their heads down. Your friends (not you) gain +1 to their next Reaction Roll. When you lay down covering fire, you use your full turn and make no Action Roll.
+* Bad Luck: As a consequence of your failure, the Director can state that one or more of your mags were lost, taken away, or that they became unusable.
+
+### Reload
+When you empty a mag, you’ll have to reload before being able to use the weap-
+on again. To reload a weapon, you need a Quick Action. When all your mags are
+gone, you must get more either by paying Cash or by stealing them from defeat-
+ed Enemies.
+To keep things simple, weapons are divided in types and each type shares a type
+of mag. For example, you cannot reload an assault rifle with a pistol mag, but you
+can use a pistol mag to reload any handgun model.
+
+### A danger to others
+When shooting, you must be careful not to wound oth-
+er Heroes who are also fighting.
+Whenever you shoot at an Enemy who is in Melee
+with one or more of your friends, your Actions become
+a Gamble... at the others’ expense! This means that,
+if you roll one or more Snake Eyes (1), all your friends
+in Melee will have to fill that many Grit boxes, and
+could be quite irritated by all the bullets whizzing by
+their ears.
+
+You should also be very careful
+when handling weapons with
+the Explosive Feat. Using
+them is always a Gamble
+for yourself and the people
+around you! To learn more
+about Gambles, go to the
+dedicated chapter in
+Section 3: IMPEND-
+ING DANGER!
