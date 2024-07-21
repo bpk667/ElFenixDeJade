@@ -149,6 +149,19 @@ Si los héroes son descubiertos, o si deciden enfrentarse a ellos, se rendirán 
 
 Una vez conseguido esto, los héroes tendrán que dividir el grupo en 2, una parte del grupo tendrá que realizar una incursión a la presa para evitar que ocurra esto y la otra parte, se dará toda la prisa posible para dar el cambiazo con la reliquia
 
+**DIVISION (Parte completada despues de que eligieran los personajes):**
+
+* Equipo Presa:
+    * Olga
+    * David
+    * Palomo
+    * Angie
+* Equipo Fiesta:
+    * Angelica
+    * Pau
+    * Zoe
+    * Estrella
+
 #### Encuentros durante la bienvenida
 
 Hay camareros llevando bandejas con comidas y bebidas a lo largo de la sala principal y algunos corrillos con celebridades locales y amigos del obispo.
@@ -188,7 +201,7 @@ Este es posible uno de los mejores momentos para no llamar demasiado la atenció
 Cada vez que los héroes hagan cualquier tipo de sonido durante el concierto, recibirán un chistido por algunos de los invitados, el numero de invitados que chisten y las miradas inquisitoriales se irán incrementando con el numero de interrupciones que realicen.
 
 * **Primer chistido** (Le miran un par de personas, sin ningún tipo de efecto)
-* **Segundo chistido** (Le miran media docena de personas)
+* **Segundo chistido** (Le miran media docena de personas)mantenimiento
 * **Tercer chistido** (La gente les increpa con susurros: *disculpe... le importaria?*)
 
 #### Detalle del folleto del concierto
