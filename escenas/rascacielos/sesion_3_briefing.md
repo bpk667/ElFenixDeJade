@@ -8,3 +8,15 @@
 * Comentar objetivo comun: destruir a Kuzma
 * Describir plan de accion y grupos tacticos
 * Preparativos para los grupos (objetos y demas)
+
+**Equipo de mantenimiento:**
+* Pau
+* Angelica
+* Estrella
+* Angie
+
+**Equipo de asalto:**
+* Zoe
+* David
+* Olga
+* Palomo
