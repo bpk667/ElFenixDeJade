@@ -61,7 +61,7 @@ Los PJs pueden:
       * Hacerse con el control de la sala de vigilancia
         * Controlas camaras , alarmas...  * `dificultad crítica en FOCUS+FIX`.
         * Consecuencia: **Reduce XX minions** al equipo de asalto.
-      * Hay 2 esclavos (`defensa/ataque básico)`.
+      * Hay 2 esclavos (`defensa/ataque básico`).
       * Si hacen ruido (hay disparos o gritos): Aparecerán 4 Ghouls (`defensa/ataque crítico`).
       * Si consiguen activar la alarma (`dificultad crítica en NERVES+COOL para impedirlo`).
 

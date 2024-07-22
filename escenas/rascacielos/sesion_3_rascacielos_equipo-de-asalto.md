@@ -77,18 +77,17 @@
 ## Planta 0
 
 * Los PJs tienen que entrar a saco
-* La puerta giratoria 
+* **A**, La puerta giratoria 
     * Solo permite el paso de 2 en 2
-        * action 2, reaction 3
     * Pueden volarla con una granada y entonces podran entrar los 4 a la vez
         * Esto se les tiene que ocurrir a los PJs, si hacen esto, pillaran por sorpresa al personal del piso y podran hacer 1 accion con +1 los 4 (piece of cake)
 * Segun pasen de la puerta
     * El de seguridad les empezara a disparar
     * El de recepcion gastara reaction para llamar refuerzos
         * **Ventaja: Si las comunicaciones internas no funcionan, NO PODRA LLAMAR REFUERZOS**
-    * Si el de recepcion llama a refuerzos cada X turnos (revisar cuanto les cuesta matar a los PJs), vendran 2 guardas por las escaleras **F**
-    * Si el de recepcion no puede llamar a refuerzos pero estan las camaras de seguridad activas vendran cada X + Y turnos por las escaleras **F**
-    * Si el de recepcion no puede llamar a refuerzos y no estan las camaras de seguridad activas vendran cada X + Y + Z turnos por las escaleras **F**
+    * Si el de recepcion llama a refuerzos cada 5 turnos (revisar cuanto les cuesta matar a los PJs), vendran 2 guardas por las escaleras **F**
+    * Si el de recepcion no puede llamar a refuerzos pero estan las camaras de seguridad activas vendran cada 5 + 2 turnos por las escaleras **F**
+    * Si el de recepcion no puede llamar a refuerzos y no estan las camaras de seguridad activas vendran cada 5 + 2 + 2 turnos por las escaleras **F**
 * En el ascensor
     * Las plantas hasta 44 funcionan normalmente
     * La planta 45 es un boton especial: Los personajes tiran `FOCUS + DETECT CRITICAL`
@@ -103,38 +102,49 @@
 
 ## Planta 44
 
-* **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos** (*2 X Action Roll* antes del primer *Reaction Roll*)
-TODO: camaras para dar ventaja a los pjs
-
-* **Carne de cañon** soldados tipo 1
-* **Carne de cañon** soldados tipo 2
-* **Carne de cañon** soldados tipo 3
+* **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
+    * **2 X Action Roll** antes del primer **Reaction Roll**
+* **H1**, **Carne de cañon** soldados tipo 1
+* **H2**, **Carne de cañon** soldados tipo 2
+* **H3**, **Carne de cañon** soldados tipo 3
     * **Ventaja: Reduce cantidad si mantenimiento se ha ocupado de las camaras**
-* Lugarteniente Vampiro tipo 1
-* Lugarteniente Vampiro tipo 2 **Solo si se disparo el `Evento critico de alarma`**
+* **G1**, Lugarteniente Vampiro tipo 1
+* **G2**, Lugarteniente Vampiro tipo 2 
+* **G3**, Lugarteniente Vampiro tipo 3 
+    **Solo si se disparo el `Evento critico de alarma`**
 * **Avisar al equipo de mantenimiento**
 
 ## Planta 45
 
-**Nota: Aqui deberian estar ya los 8 juntos**
+**Nota: Aqui deberian estar ya los 8 juntos si mantenimiento ha conseguido solucionar rapido**
 
 * Enemigos esperando **SIEMPRE**
-* Equipo elite de seguridad
-* Lugarteniente vampiro x3
+* **J1**, Equipo elite de seguridad
+* **J2**, Equipo elite de seguridad
+* **J3**, Equipo elite de seguridad
+    * **Solo si se disparo el `Evento critico de alarma`** ó estan los 8 personajes juntos
+* **J4**, Equipo elite de seguridad
+    * **Solo si se disparo el `Evento critico de alarma`** ó estan los 8 personajes juntos
+* **K1**, Lugarteniente Vampiro tipo 1
+* **K2**, Lugarteniente Vampiro tipo 2
+* **K3**, Lugarteniente Vampiro tipo 3 
+    * **Solo si se disparo el `Evento critico de alarma`** ó estan los 8 personajes juntos
 
 ## Planta 46
 
-* **Kuzma** se encuentra debajo de una cascada de sangre (+12 a adrenalina) con una espada en una mano desnudo de cintura para arriba, pelo largo negro, diversos tatuajes tribales por el pecho, en la espalda unas alas de murcielago recogidas
+**Nota: Aqui deberian estar ya los 8 juntos SIEMPRE (Si no lo estan, tienen que esperar)**
+
+* **X**, **Kuzma** se encuentra debajo de una cascada de sangre (+12 a adrenalina) con una espada en una mano desnudo de cintura para arriba, pelo largo negro, diversos tatuajes tribales por el pecho, en la espalda unas alas de murcielago recogidas
 * En cuanto lleguen los pjs:
     * Dialogo cool
     * Atacar (priorizando al pj con el fenix de jade) a uno de ellos con la espada
     * Despues ir salteando entre las features y special actions que tiene segun convenga
-* Hombre lobo elite 1
-* Hombre lobo elite 2
-* Concubina Vampiro 1
-* Concubina Vampiro 2
-* Concubino Vampiro 1
-* Concubino Vampiro 2
+* **M1**, Hombre lobo elite 1
+* **M2**, Hombre lobo elite 2
+* **L1**, Concubina Vampiro 1
+* **L2**, Concubina Vampiro 2
+* **L3**, Concubino Vampiro 1
+* **L4**, Concubino Vampiro 2
 
 ## Eventos Críticos
 
