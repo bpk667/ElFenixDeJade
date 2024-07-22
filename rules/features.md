@@ -201,6 +201,8 @@ Gain a Free Re-roll for all rolls about military knowledge, for coordinating a s
 <div style="page-break-after: always;"></div>
 
 ## OUTSMART
+(Cost ⚡)
+
 As you always say: work smart, not hard!
 
 Make an Action or Reaction Roll of any kind using Know instead of the required Skill.
