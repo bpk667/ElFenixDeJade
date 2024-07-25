@@ -323,6 +323,14 @@ Attacking the Enemy while in Melee or Close Range requires an Action Roll (💀)
 
 Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
 
+#### Atsumi Kia
+
+- **ATTACK**: CRITICAL
+- **DEFENSE**: CRITICAL
+- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+TODO: Completar habilidades
+
 ### Planta 46
 
 #### Hombres lobo
@@ -382,14 +390,14 @@ Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
 - **GRIT**: `[ ]-[ ]-[ ]-[ ]`
 
 
-##### L, Concubino 1
+##### L, Concubino 3
 
 - **ATTACK**: `CRITICAL`
 - **DEFENSE**: `BASIC`
 - **GRIT**: `[ ]-[ ]-[ ]-[ ]`
 
 
-##### L, Concubino 2
+##### L, Concubino 4
 
 - **ATTACK**: `CRITICAL`
 - **DEFENSE**: `BASIC`
@@ -419,7 +427,7 @@ The Enemies have no Weak Spot. If a Hero tries to find the Enemy’s Weak Spot a
 * Está detrás de múltiples empresas internacionales.
 * Vampiro que tiene una habilidad de control mental.
 
-Empieza con 12 ⚡
+Empieza con 16 ⚡
 
 - **ATTACK**: 2 CRITICAL
 - **DEFENSE**: 2 CRITICAL
@@ -471,6 +479,15 @@ The Enemy grabs a Hero and drains them of blood or vital energy.
 
 The Director rolls a numeric die. A Hero loses an amount of Grit equal to the result of the roll, and the Enemy recovers the same amount of Grit.
 
+## Resumen de combate del 23 de julio de 2024, como se cargaron a Kuzma en un turno
+* Segun subieron los 4 heroes por las escaleras ataco a *Brenan* (que era la que tenia el amuleto)
+* *Palomo III*, se dio cuenta que tenia **Get Down** y gasto un punto de adrenalina para salvar a *Brenan* (**PALOMO!!!!**)
+* *Subotai*, gasto spotlight y gasto 2 de adrenalina para hacer daño extra **Total 11 (deja a Kuzma a 1 punto de vida)**
+* *Jessica* ataca a *Kuzma*:
+    * lanza una tirada **2 basic**, 
+    * hace free re-roll **critical + basic**
+    * all in **extreme + basic**
+* Kuzma muere
 
 ## Mapa
 
