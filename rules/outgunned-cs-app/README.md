@@ -42,12 +42,13 @@ for sheet in samples/pnjs/*yml; do
     python3 outgunned-cs-app.py -i $sheet -o output/$(basename -s'.yml' $sheet).md
 done
 
-# FIXME: No funciona bien, por el simbolo de adrenalina
-# # Convertir todos los output md a pdf con pandoc
-# for sample in `ls output/*.md`; do
-#     sample_output=`echo $sample | sed -e "s/.md/.pdf/g" -e "s,^output/,,g"`
-#     # pandoc pages/til/convert-markdown-pdf-linux.md -o convert-markdown-pdf.pdf --pdf-engine=xelatex
-#     pandoc $sample -o output/pdf/$sample_output.pdf --pdf-engine=xelatex
-# done
 
+# Instalar requisitos de pandoc:
+# sudo apt install pandoc wkhtmltopdf
+# Convertir todos los output md a pdf con pandoc
+for sample in `ls output/*.md`; do
+    sample_output=`echo $sample | sed -e "s/.md/.pdf/g" -e "s,^output/,,g"`
+    # pandoc doctora-temperance-bones-brennan.md -o doctora-temperance-bones-brennan.pdf  --pdf-engine=wkhtmltopdf
+    pandoc $sample -o output/pdf/$sample_output.pdf --pdf-engine=wkhtmltopdf
+done
 ```
