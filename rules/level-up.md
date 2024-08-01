@@ -1,4 +1,4 @@
-# Level UP
+# Subida de nivel
 
 * Hay dos tipos de progresion con los heroes **ADVANCEMENT** y **EXPERIENCES**.
 * **ADVANCEMENT**
@@ -20,6 +20,8 @@
 Para esta aventura yo recomiendo **ADVANCEMENT** es mas sencilla de aplicar, el otro tipo es mas situacional y requiere algo mas de entrenamiento en el juego en si.
 
 <!--
+# Level UP
+
 ## ADVANCEMENT
 
 Heroes are bright people who already have all the tools and skills to face up to any challenge they may meet on their mission. But there is always room to grow!

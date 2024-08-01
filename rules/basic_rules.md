@@ -1,92 +1,114 @@
 # Basic rules
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tiradas.](#tiradas)
+- [Dificultad](#dificultad)
+  - [Double difficulty.](#double-difficulty)
+  - [Combine successes:](#combine-successes)
+  - [Re-roll (pg.68).](#re-roll-pg68)
+    - [All in](#all-in)
+  - [Acciones extra](#acciones-extra)
+- [Help](#help)
+- [Adrenaline (<big>&#x26A1</big>)](#adrenaline-bigx26a1big)
+- [Spotlight](#spotlight)
+- [Dangerous roles](#dangerous-roles)
+  - [Damage Control](#damage-control)
+- [Grit](#grit)
+  - [Loosing grit](#loosing-grit)
+  - [Gaining grit](#gaining-grit)
+  - [Ejemplos de posibles consecuencias negativas.](#ejemplos-de-posibles-consecuencias-negativas)
+- [Gamble](#gamble)
+- [Conditions](#conditions)
+    - [Suffering a condition](#suffering-a-condition)
+    - [Removing a condition](#removing-a-condition)
+    - [Types](#types)
+- [Death Roulette](#death-roulette)
+  - [Cannon fodder](#cannon-fodder)
+- [Combat](#combat)
+  - [Initiative](#initiative)
+  - [Action](#action)
+  - [Reaction](#reaction)
+    - [Extra Reactions](#extra-reactions)
+  - [Shooting](#shooting)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Tiradas.
 
-Attribute + Skill ( +- Adrenaline, Conditions, and Gear).
-
-Min 2, max 9 dice.
-
-Éxitos:
-- Basic: 2
-- Critical: 3
-- Extreme: 4
-- Impossible: 5 
-- Jackpot!: 6
-
-Higher success than needed:
- - Better outcome than you wanted
- - Important advantage.
-
-More successes than needed:
- - Take extra action.
-
-Lower success:
- - Can try to do something to mitigate (partially!) the consequences of your failure.
-
-Jackpot!:
- - Become the Director for a turn.
+* Attribute + Skill ( +- Adrenaline, Conditions, and Gear).
+* Min 2, max 9 dice.
+* Éxitos:
+  - Basic: 2
+  - Critical: 3
+  - Extreme: 4
+  - Impossible: 5 
+  - Jackpot!: 6
+* Higher success than needed:
+  - Better outcome than you wanted
+  - Important advantage.
+* More successes than needed:
+  - Take extra action.
+* Lower success:
+  - Can try to do something to mitigate (partially!) the consequences of your failure.
+* Jackpot!:
+  - Become the Director for a turn.
 
 ![Success Rates](./imgs/success_rates.png)
 
 ## Dificultad
 
-- *Basic*. All rolls that concern really simple things but still hide a small chance for accidents.
-    A quick and easy action or reaction. Like jumping over an obstacle, stealing the keys off of a distracted agent, throwing something.
-- *Critical*. In most cases.
-    Full action or reaction. Like bursting through a sturdy door, jumping out of a window, earning someone’s trust.
-
-- *2 Critical rolls*. A happy medium between the Critical and Extreme.
-
-- *Extreme*. Truly demanding rolls, where success is certainly not a given.
-    A truly demanding action or reaction. Like picking the lock of a secure vault, shooting a speeding target at night in the pouring rain, per- suading a sworn enemy to cooperate.
-
-- *Impossible*. Only come into play when Heroes have got ten themselves in big trouble.
-    A desperate action or reaction. Like calmly exiting a car in the middle of a 180 while shooting at a tiny target, getting rid of a large group of enemies with nothing but a pencil, taking down a helicopter with a speeding car because you’re running low on ammo. Stuff from movie trailers.
+* **Basic**. All rolls that concern really simple things but still hide a small chance for accidents.
+  * *A quick and easy action or reaction. Like jumping over an obstacle, stealing the keys off of a distracted agent, throwing something.*
+* **Critical**. In most cases.
+  * *Full action or reaction. Like bursting through a sturdy door, jumping out of a window, earning someone’s trust.*
+* **2 Critical rolls**. A happy medium between the Critical and Extreme.
+* **Extreme**. Truly demanding rolls, where success is certainly not a given.
+  * *A truly demanding action or reaction. Like picking the lock of a secure vault, shooting a speeding target at night in the pouring rain, per- suading a sworn enemy to cooperate.*
+* **Impossible**. Only come into play when Heroes have got ten themselves in big trouble.
+  *A desperate action or reaction. Like calmly exiting a car in the middle of a 180 while shooting at a tiny target, getting rid of a large group of enemies with nothing but a pencil, taking down a helicopter with a speeding car because you’re running low on ammo. Stuff from movie trailers.*
 
 ### Double difficulty.
 
 Especially complex or dangerous roll. 2 Basic, 2 Critical, or 2 Extreme.
+
 - 2 successes to prevail.
 - 1 successes. Avoid one of the consequences.
 - Failure, 2 different consequences.
 
-
-E.g. Boss. Require rolls with double difficulty in order for you to hit them or to avoid their blows.
-
+*E.g. Boss. Require rolls with double difficulty in order for you to hit them or to avoid their blows.*
 
 ### Combine successes:
+
 - 3 Basic Successes into 1 Critical Success.
 - 3 Critical Successes into 1 Extreme Success.
 - 1 Critical Success like 3 Basic Successes.
 - 1 Extreme Success like 3 Critical Successes.
 
-
 ### Re-roll (pg.68).
 
-When: If you have scored at least one Basic Success, you can Re-roll.
+* When: If you have scored **at least one Basic Success**, you can Re-roll.
+* How: **you take all dice that weren’t part of a combination** and roll them again.
 
-How: you take all dice that weren’t part of a combination and roll them again.
-
-After a Re-roll:
-- If your result is better than the first, congratulations.
+**After a Re-roll:**
+- If your result is **better than the first**, congratulations.
 - Otherwise, you **lose one of the previously scored successes**. You choose which.
 
 **Free Re-roll**
-- You never risk losing your initial success.
-- It doesn’t matter if the Re-roll gets you a better or extra success or not.
+- You **never risk losing your initial success**.
+  - It doesn’t matter if the Re-roll gets you a better or extra success or not.
 - You can make a Free Re-roll even if you didn’t score any successes on your first roll.
-
 
 #### All in
 
-When: After a Re-roll or Free Re-roll if you got a better result.
+* When: After a Re-roll or Free Re-roll if you got a better result.
+* How: Same as re-roll.
 
-How: Same as re-roll.
-
-After all in:
+**After all in:**
 - If you get a better result, Lady Luck has smiled upon you.
-- Otherwise, you lose all previous successes.
-
+- Otherwise, **you lose all previous successes**.
 
 ### Acciones extra
 
@@ -95,11 +117,11 @@ Extra successes:
 - Extra Critical Success: Full Action.
 - Extra Extreme Success: Cool Action.
 
-
 ## Help
 
 Gear or Supporting Characters can grant you Help.
-Heroes can also forgo rolling the dice to spend their turn trying to Help you face a difficult challenge.
+
+Heroes can also forgot rolling the dice to spend their turn trying to Help you face a difficult challenge.
 
 - Gain +1 to an Action or Reaction Roll.
 		Significant but not decisive Help.  
@@ -107,7 +129,6 @@ Heroes can also forgo rolling the dice to spend their turn trying to Help you fa
 - Gain a Success automatically, without rolling the dice.
 		When the Help is great enough to nullify the risks and possibilities of failure.
 - Gain a Requisite that allows you to roll the dice.
-
 
 ## Adrenaline (<big>&#x26A1;</big>)
 
@@ -125,7 +146,6 @@ Automatically gain 2 Adrenaline when they fill in the Hot Box on their Grit trac
 
 - 6 Adrenaline ( <big> &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; &#x26A1; </big>) to immediately gain a Spotlight.
 
-
 ## Spotlight
 
 6 Adrenaline -> 1 Spotlight.
@@ -135,8 +155,6 @@ Whenever an Adrenaline would be too small of a reward. Something reward for a ge
 - When a Hero calls on their Catchphrase in epic or dramatic circumstances.
 - when they do something cool in the name of their ideals.
 - When a Hero calls their own Flaw into play in an interesting way, against their own interest and in spite of the consequences.
-
-
 
 **Effect**:
 - Get an Extreme Success automatically.
@@ -150,7 +168,6 @@ After using a Spotlight and gaining its benefits, flip a coin:
 - If the result is tails, you immediately regain 1 Spotlight.
 - Exception when you save the life of a friend. Then, if the result is tails, they gain 1 Spotlight.
 
-
 ## Dangerous roles
 
 When: action or reaction that puts your life or safety on the line. (e.g. hiding from a team of armed soldiers)
@@ -162,17 +179,15 @@ When: action or reaction that puts your life or safety on the line. (e.g. hiding
 
 ### Damage Control
 
-TIPS:  
+**TIPS:** 
 - PJ should call it and propose how it happens.
 - When facing a tough roll, you can’t always aim for a full success, and will often have to settle for doing some Damage Control. Typical, really.
 
-
-How:  
+**How:**
 - For every Basic Success: avoid losing 1 Grit.
 - For every Critical Success: avoid losing 3 Grit.
 
-No Damage Control for an Impossible Roll.
-
+**No Damage Control for an Impossible Roll.**
 
 ## Grit
 
@@ -186,7 +201,6 @@ Effects:
 - Bad box: Suffer a Condition determined by the Director.
 - Hot box: Get a rush of 2 Adrenaline.
 
-
 ### Gaining grit
 
 - Sleep on it.
@@ -195,23 +209,17 @@ Effects:
 
 ### Ejemplos de posibles consecuencias negativas.  
   
-Sacar a la gente de las escenas: Dejarles inconsciente.  
-  
-Si les pillan, ahora saben que vais a por ellos.  
-  
-Consiguen la información de los fantasmas pero están malditos: Las defensas mágicas reaccionan mejor ante los PJs, aparecen espectros por que les tienen manía, etc.  
-  
-Si no consiguen la reliquia o la pierden: El enfrentamiento final es más jodido y El Loto Blanco no les ayuda.  
-  
-Si la cagan, y Taras o El Loto Blanco descubren que les han tangado, pueden dar la alarma o reforzar las defensar en futuras misiones.  
-  
-En la presa. Si el grupo la caga o no es muy fino, los vampiros vuelan la presa.  
+* Sacar a la gente de las escenas: Dejarles inconsciente.
+* Si les pillan, ahora saben que vais a por ellos.  
+* Consiguen la información de los fantasmas pero están malditos: Las defensas mágicas reaccionan mejor ante los PJs, aparecen espectros por que les tienen manía, etc.  
+* Si no consiguen la reliquia o la pierden: El enfrentamiento final es más jodido y El Loto Blanco no les ayuda.  
+* Si la cagan, y Taras o El Loto Blanco descubren que les han tangado, pueden dar la alarma o reforzar las defensar en futuras misiones.  
+* En la presa. Si el grupo la caga o no es muy fino, los vampiros vuelan la presa.  
 
 ## Gamble
 
-Gamble rolls can be either Dangerous or normal.
-
-Useful when you’re trying to build tension outside of a combat or chase.
+* Gamble rolls can be either Dangerous or normal.
+* Useful when you’re trying to build tension outside of a combat or chase.
 
 **When**:
 - You play with fire.
@@ -223,7 +231,6 @@ Useful when you’re trying to build tension outside of a combat or chase.
 - Regardless of if they are part of a success or not.
 - For every Snake Eye, you lose 1 Grit. 
 
-
 ## Conditions
 
 -1 to all rolls made with that Attribute
@@ -233,9 +240,7 @@ Useful when you’re trying to build tension outside of a combat or chase.
 - -1 to all rolls.
 - Cannot receive more Conditions.
 
-
 **Tired Condition**: Gives no Penalty.
-
 
 #### Suffering a condition
 
@@ -243,11 +248,9 @@ Useful when you’re trying to build tension outside of a combat or chase.
 - When you fill in the Bad Box of your Grit.
 - When failure is not enough.
 
-
 #### Removing a condition
 
 Up to 2 Conditions each day. 
-
 
 #### Types
 
@@ -291,41 +294,45 @@ Other conditions: (pg. 93)
 - Confused.
 - Angry.
 
-
 ## Death Roulette
 
-When:  
-  When lost all Grit, the next failure in a Roll will force you to take a spin on the Death Roulette.
+**When:** When lost all Grit, the next failure in a Roll will force you to take a spin on the Death Roulette.
 
 ### Cannon fodder
-Basic Cannon Fodder:    9 GRIT      ATK: 2 BASIC        DEF: BASIC
-Critical Cannon Fodder: 9 GRIT      ATK: CRITICAL       DEF: CRITICA
 
+**Basic Cannon Fodder:**
+* 9 GRIT
+* ATK: 2 BASIC
+* DEF: BASIC
+
+**Critical Cannon Fodder:**
+* 9 GRIT
+* ATK: CRITICAL
+* DEF: CRITICAL
 
 ## Combat
 
 Order:
-  1. Action.
-      - Quick Action. Examples:
-          - Grab or toss an object.
-          - Reload a weapon.
-          - Reach an Enemy who is in Close Range.
-      - Action Roll (complex action). Example:
-          - Attacking the Enemy.
-    
-  2. Reaction.
-  3. Go to 1.
+1. Action.
+  - Quick Action. Examples:
+    - Grab or toss an object.
+    - Reload a weapon.
+    - Reach an Enemy who is in Close Range.
+  - Action Roll (complex action). Example:
+    - Attacking the Enemy.
+2. Reaction.
+3. Go to 1.
 
 ### Initiative
 
-PJs:
+**PJs:**
 - If the Heroes are the first to attack.
 - Can rely on the element of surprise.
 
-PNJs:
+**PNJs:**
 - Heroes are caught by surprise, or hesitate before acting.
 
-When in doubt:
+**When in doubt:**
 - Flip a coin.
 
 
@@ -333,41 +340,41 @@ When in doubt:
 
 Attack are direct actions against an enemy (non collateral actions)
 
-  - **Difficulty** equal to the Enemy Defense.
-  - For every success, the Enemy loses 1 Grit.
-  - Examples:
-      - Enemy with Basic Defense:
-          - 2 Basic Successes    : Enemy loses 2 Grit.
-          - 1 Critical Success   : Enemy loses 3 Grit.
+- **Difficulty** equal to the Enemy Defense.
+- For every success, the Enemy loses 1 Grit.
+- Examples:
+  - Enemy with Basic Defense:
+    - 2 Basic Successes    : Enemy loses 2 Grit.
+    - 1 Critical Success   : Enemy loses 3 Grit.
 
-Examples of attacks.
-  - Melee                                   : `Brawn+Fight`.
-  - Ram with the car                        : `Nerves+Drive`.
-  - knock scaffolding down over their heads : `Focus+Fix`.
+**Examples of attacks**
+- Melee                                   : `Brawn+Fight`.
+- Ram with the car                        : `Nerves+Drive`.
+- knock scaffolding down over their heads : `Focus+Fix`.
 
 ### Reaction
 
 All Reaction Rolls made during combat are **Dangerous Rolls**.
 
-  - Difficulty equal to the Enemy Attack.
-  - If fail, lose some Grit.
-      - **Optional, Damage Control**. Can spend smaller successes to do some Damage Control.
+- Difficulty equal to the Enemy Attack.
+- If fail, lose some Grit.
+  - **Optional, Damage Control**. Can spend smaller successes to do some Damage Control.
 
-Examples of reactions.
-  - Attack with fists and metal bars : `Brawn+Fight`
-  - Shoot at you                     : `Brawn+Stunt`
-  - Try to crush or choke you        : `Brawn+Endure`
-  - Try to push you the ground       : `Brawn+Force`
-  - Throw tables and chairs at you   : `Nerves+Stealth`
-  - Try to surround you              : `Nerves+Awareness`
+**Examples of reactions.**
+- Attack with fists and metal bars : `Brawn+Fight`
+- Shoot at you                     : `Brawn+Stunt`
+- Try to crush or choke you        : `Brawn+Endure`
+- Try to push you the ground       : `Brawn+Force`
+- Throw tables and chairs at you   : `Nerves+Stealth`
+- Try to surround you              : `Nerves+Awareness`
 
 As a general rule, all Heroes taking part in combat must make the same Reaction Roll.
 
 Usually, all Heroes fighting against the same Enemy defend themselves by making the same Reaction Roll with the same Attribute and Skill.
 
 In corner cases, when the situation benefits from it, each Hero can make a different Reaction Roll based on their situation.
-  This adds complexity and make combat longer.
 
+This adds complexity and make combat longer.
 
 #### Extra Reactions
 
@@ -375,31 +382,27 @@ You can spend **extra successes** during a Reaction Turn to take extra actions.
 
 **Extra success** at least equal to the Enemy Defense: you can counterattack.
 
-Examples:
-  - Counterattack:
-      1. Reaction Roll against an Enemy with Critical Attack and Defense.
-      2. You score 2 Critical Successes.
-        - Use 1 success to defend.
-        - Spend the second to counter and cause the Enemy to lose 1 Grit.
-  - Protect your friends:
-      - Spend extra successes scored during a Reaction Turn to protect your friends who may have failed their Reaction Rolls.
-      - You can NOT use lower successes to do Damage Control for them.
+**Examples:**
+- Counterattack:
+  1. Reaction Roll against an Enemy with Critical Attack and Defense.
+  2. You score 2 Critical Successes.
+    - Use 1 success to defend.
+    - Spend the second to counter and cause the Enemy to lose 1 Grit.
+- Protect your friends:
+  - Spend extra successes scored during a Reaction Turn to protect your friends who may have failed their Reaction Rolls.
+  - You can NOT use lower successes to do Damage Control for them.
 
 
 ### Shooting
 
-Range:
-  - Melee: Target within 2 m/yd.
-  - Close Range: Target at 2-10 m/yd.
-      Can be reached with a Quick Action.
-  - Medium Range: Target at 10-50 m/yd.
-      Can be reached in one turn, or with an extra Full Action.
-  - Long Range: Target at 50-300 m/yd.
-      Can be reached in 2 to 3 turns.
-  - Out of Range: Target beyond 300 m/yd.
-    In line of sight but beyond useful reach. There are a few weapons that can shoot Out of Range, for example, a sniper rifle.
+**Range:**
+- Melee: Target within 2 m/yd.
+- Close Range: Target at 2-10 m/yd. (Can be reached with a Quick Action.)
+- Medium Range: Target at 10-50 m/yd. (Can be reached in one turn, or with an extra Full Action.)
+- Long Range: Target at 50-300 m/yd. (Can be reached in 2 to 3 turns.)
+- Out of Range: Target beyond 300 m/yd. (In line of sight but beyond useful reach.) There are a few weapons that can shoot Out of Range, for example, a sniper rifle.
 
-By default, use the Medium Range.
+**By default, use the Medium Range.**
 
 Shooting at an Enemy who is in **Melee with your friends**, your Actions become a Gamble.
 
@@ -412,5 +415,3 @@ Shooting at an Enemy who is in **Melee with your friends**, your Actions become 
   - Action Roll.
   - Automatic Success to Reaction Rolls.
   - -3 to Action Rolls.
-
-

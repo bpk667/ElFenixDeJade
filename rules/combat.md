@@ -1,3 +1,36 @@
+# Combate
+
+Se alternan 2 turnos:
+
+* **Action Turn:** Los heroes realizan cualquier accion (con sus *Action Rolls* correspondientes). Tambien los heroes pueden realizar un *Quick Action* de forma gratuita.
+* **Reaction Turn:** El DM establece las acciones de los enemigos y los heroes deben defenderse con un *Reaction Roll (💀)*
+
+**Ejemplos de *Reaction Roll (💀)**:*
+
+* The enemies attack you with fists and metal bars. Roll Brawn+Fight
+* The enemies shoot at you. Roll Brawn+Stunt
+* The enemies try to crush or choke you. Roll Brawn+Endure
+* The enemies try to push you the ground. Roll Brawn+Force
+* The enemies throw tables and chairs at you. Roll Nerves+Stealth
+* The enemies try to surround you. Roll Nerves+Awareness
+
+## Tipo alternativo de combate: Pelea `BRAWL`
+
+* **Que es?** Es un tipo de combate sencillo y rapido en el que no hay reaction y todo se gestiona con el Action Roll (💀)
+* **Como funciona?** Si el pj consigue superar el ataque del enemigo, hace daño, si no, la diferencia es el daño que recibe del enemigo
+* **Nota: Mola porque hace mucho mas rapido el combate**
+
+## Reglas en tiroteos (`Bang! Bang! Bang!`)
+
+* **Cargadores**
+    * **Fallo** (`Failure`), pierdes un cargador
+    * **Vaciar un cargador** (`Going Full Auto`) consigues un +1 a la tirada de `Action`
+    * **Fuego de cobertura** (`Covering Fire`) tus compañeros consiguen +1 a sus tiradas de `Reaction`
+    * `Bad luck`, pierdes un cargador
+* **Recarga**: Quick action
+* **Peligro para otros**: (Disparar a un enemigo que esta luchando cuerpo a cuerpo con otro jugador o pnj). Si se saca ojos de serpiente, el daño se aplica tambien a las personas que esten cuerpo a cuerpo del enemigo que se dispara.
+
+<!--
 # Combat
 
 During combat, regardless of whether it’s a shoot-out or a nice fist-fight, there are two alternating turns:
@@ -192,32 +225,16 @@ When shooting, you never consume bullets or mags. You can have fun making lead r
 * Bad Luck: As a consequence of your failure, the Director can state that one or more of your mags were lost, taken away, or that they became unusable.
 
 ### Reload
-When you empty a mag, you’ll have to reload before being able to use the weap-
-on again. To reload a weapon, you need a Quick Action. When all your mags are
-gone, you must get more either by paying Cash or by stealing them from defeat-
-ed Enemies.
-To keep things simple, weapons are divided in types and each type shares a type
-of mag. For example, you cannot reload an assault rifle with a pistol mag, but you
-can use a pistol mag to reload any handgun model.
+
+When you empty a mag, you’ll have to reload before being able to use the weapon again. To reload a weapon, you need a Quick Action. When all your mags are gone, you must get more either by paying Cash or by stealing them from defeated Enemies.
+
+To keep things simple, weapons are divided in types and each type shares a type of mag. For example, you cannot reload an assault rifle with a pistol mag, but you can use a pistol mag to reload any handgun model.
 
 ### A danger to others
-When shooting, you must be careful not to wound oth-
-er Heroes who are also fighting.
-Whenever you shoot at an Enemy who is in Melee
-with one or more of your friends, your Actions become
-a Gamble... at the others’ expense! This means that,
-if you roll one or more Snake Eyes (1), all your friends
-in Melee will have to fill that many Grit boxes, and
-could be quite irritated by all the bullets whizzing by
-their ears.
 
-You should also be very careful
-when handling weapons with
-the Explosive Feat. Using
-them is always a Gamble
-for yourself and the people
-around you! To learn more
-about Gambles, go to the
-dedicated chapter in
-Section 3: IMPEND-
-ING DANGER!
+When shooting, you must be careful not to wound other Heroes who are also fighting.
+
+Whenever you shoot at an Enemy who is in Melee with one or more of your friends, your Actions become a Gamble... at the others’ expense! This means that, if you roll one or more Snake Eyes (1), all your friends in Melee will have to fill that many Grit boxes, and could be quite irritated by all the bullets whizzing by their ears.
+
+You should also be very careful when handling weapons with the Explosive Feat. Using them is always a Gamble for yourself and the people around you! To learn more about Gambles, go to the dedicated chapter in Section 3: IMPENDING DANGER!
+-->
