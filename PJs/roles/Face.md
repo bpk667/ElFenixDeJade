@@ -1,14 +1,22 @@
-# Quien Eres
+# The Face / La Cara
+
+## Quien Eres
+
 Eres el Face, especialista en salir de cualquier problema hablando. Aunque en principio el rol te puede echar atrás si eres novato, no te preocupes. Habla con tus GMs y ellos te ayudarán a enfocarlo: No es tán difícil, solo tienes que recordar a todos esos grandes timadores de las pelis y decirle lo que quieres hacer a los GMs.
 
-# Pillalo si...
+## Pillalo si...
+
 - ...Te gusta dejar a los villanos con un palmo de narices mientras te vas de rositas.
 - ...Prefieres que otros hagan el trabajo por tí.
 - ...Te molan las pelis de timadores.
 
-# Puedes ser cómo...
+## Puedes ser cómo...
 
-## Wanda (Un pez llamado Wanda)
+Cualquier personaje que conozcas que salga de las situaciones con labia o belleza
+
+<div style="page-break-after: always;"></div>
+
+### Wanda (Un pez llamado Wanda)
 
 ![Wanda](./imgs/wanda.jpg)
 
@@ -20,7 +28,7 @@ Si decides ser como Wanda, tu catchphrase será: "Disculpe, su cara me resulta f
 
 <div style="page-break-after: always;"></div>
 
-## Teniente Tempelton "Fénix" Peck (Equipo A)
+### Teniente Tempelton "Fénix" Peck (Equipo A)
 
 ![Peck](./imgs/Original_Faceman.jpg)
 

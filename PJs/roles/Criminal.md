@@ -1,16 +1,19 @@
-# Quien Eres
+# The Criminal / El Criminal
+
+## Quien Eres
 Un antiguo criminal ¿reconvertido? al lado de los buenos. O eso parece. Por ahora...
 
-# Pillalo si
+## Pillalo si
 
 ...Te gusta tener un pasado algo oscuro.
 ...Quieres romper la ley.
 ...Te gustan las películas de atracos/golpes.
 
-# Puedes ser cómo...
+## Puedes ser cómo...
 
+Los tipicos ladrones de gran corazon que conoces de series y peliculas, aqui os dejamos varios ejemplos.
 
-## Lupin (Lupin)
+### Lupin (Lupin)
 
 ![Lupin](./imgs/netflix-lupin-temporadapng.jpg)
 
@@ -22,7 +25,7 @@ Catchphrase: "Prometí que esta vez iba a portarme bien..."
 
 <div style="page-break-after: always;"></div>
 
-## Parker (Las reglas del Juego)
+### Parker (Las reglas del Juego)
 
 
 ![Parker](./imgs/Parker-Cracking-A-Safe-In-Leverage.jpg)
@@ -35,7 +38,7 @@ Catchphrase: "¿Por qué todos mirais para mí? Vale, toma."
 
 <div style="page-break-after: always;"></div>
 
-## Carmen Sandiego (Carmen Sandiego)
+### Carmen Sandiego (Carmen Sandiego)
 
 ![Sandiego](./imgs/sandiego.jpg)
 O quizás, como Carmen fuiste criada por una organización para cometer todo tipo de crímenes. Ahora, roba solo para ayudar a los demás. Tienes muchas habilidades, pero solo las usas si la causa es justa. Y siempre con un plan detrás.

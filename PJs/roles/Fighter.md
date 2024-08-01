@@ -1,15 +1,21 @@
-# Quien Eres
+# The Fighter / El Luchador
+
+## Quien Eres
+
 Eres el fighter, especialista en cuerpo a cuerpo. Aunque haces más cosas, las peleas son lo tuyo. 
 
-# Pillalo si...
+## Pillalo si...
 - ...Quieres meterte en la gresca el primero.
 - ...Prefieres los puños y la velocidad a las armas de fuego.
 - ...Te molan las pelis de Artes Marciales.
 
-# Puedes ser cómo...
-Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes que pillar los rasgos que te gustan de cada uno y hacerlos tuyos. Aquí te damos algunos ejemplos de luchadores de ficción "famosos" para te den ideas:
+## Puedes ser cómo...
 
-## Elliot Spencer (Las reglas del Juego)
+Hay muchos ejemplos de luchadores en las series y películas. Tan solo tienes que pillar los rasgos que te gustan de cada uno y hacerlos tuyos. Aquí te damos algunos ejemplos de luchadores de ficción "famosos" para te den ideas.
+
+<div style="page-break-after: always;"></div>
+
+### Elliot Spencer (Las reglas del Juego)
 
 ![Elliot](./imgs/Christian.Kane.jpg)
 
@@ -19,7 +25,7 @@ Si decides ser como Elliot, tu catchphrase será: "No me gustan las pistolas."
 
 <div style="page-break-after: always;"></div>
 
-## Mickey O'Neill (Snatch: Cerdos y Diamantes)
+### Mickey O'Neill (Snatch: Cerdos y Diamantes)
 
 ![O'Neill](./imgs/24-snatch.jpg)
 
@@ -31,7 +37,8 @@ Si decides ser como Mikey, tu catchphrase será: "Buen golpe, ahora me toca a m�
 
 <div style="page-break-after: always;"></div>
 
-## Yor Forger (Spy x Family)
+### Yor Forger (Spy x Family)
+
 ![Yor](./imgs/yor.jpg)
 
 Como Yor puedes ser una persona amable, generosa, entregada y dispuesta a ayudar a los demás. Hasta que alguien se mete con tu familia o intenta amenazarte: entonces se desata el infierno. No peleas porque te guste, peleas por defender lo que más quieres. Y eres muy buena haciéndolo. Quizás incluso tienes dos identidades: una "normal" y tu "alternativa" como defensora de la justicia.

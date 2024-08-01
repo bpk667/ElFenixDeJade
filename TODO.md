@@ -22,11 +22,11 @@
     - [X] Sesion 2
         - [X] El Golpe (El Palacete)
             - [X] El Giro (La Presa)
-    - [ ] Sesion 3
-        - [ ] El Gran final (El Rascacielos)
+    - [X] Sesion 3
+        - [X] El Gran final (El Rascacielos)
             - [X] Equipo de mantenimiento
-            - [ ] Equipo de asalto **moz667: in progress**
-                - [ ] Crear PNjs en plan rapido
+            - [X] Equipo de asalto **moz667: in progress**
+                - [X] Crear PNjs en plan rapido
 - [X] Crear fichas de enemigos.
     - [X] François. Abogado de Taras (vampiro)(casino)
     - [X] Borysko. Gorila de la suite (vampiro)(casino)
@@ -72,7 +72,7 @@
         - [X] 1 x Basic Rules
     - [X] 1 x Estructura
     - [X] 1 x Glosario
-- [ ] FIX: titulo de roles en catalogo de personajes
+- [X] FIX: titulo de roles en catalogo de personajes
 
 ## Mesh
 
@@ -81,11 +81,9 @@
     * Podemos decirselo justo en la escena final de toda la partida para darle un giro adicional. El motivo es que se comporte como debe y que no le de demasiada importancia al tema (como uno mas del grupo).
     * Este tipo de flexibilidad puede que nos ayude a resolver algunos problema que nos surjan en el guion. Este pj puede decirnos que tenemos que ir a un sitio o a otro, que existe la bomba en la presa o cualquier cosa que se nos ocurra.
 
-* Motivación personal. Algunos PJs deberían tener una motivación personal en las misiones. ¿Un extrabajador de Taras Intercorp que descubrió que la empresa se
-dedicaba a cosas chungas y lo largaron/amenazaron? ¿La hija de un padre que pasó toda su vida intentando buscar pruebas de que los vampiros son reales y una amenaza
-y eso le consumió completamente?
+* Motivación personal. Algunos PJs deberían tener una motivación personal en las misiones. ¿Un extrabajador de Taras Intercorp que descubrió que la empresa se dedicaba a cosas chungas y lo largaron/amenazaron? ¿La hija de un padre que pasó toda su vida intentando buscar pruebas de que los vampiros son reales y una amenaza y eso le consumió completamente?
 
-#### Resumen de ROLES
+### Resumen de ROLES
 * The Commando
 * The Fighter
 * The Ace
@@ -99,7 +97,7 @@ y eso le consumió completamente?
 * The Slayer
 * The Loser
 
-##### Notas adicionales de David
+### Notas adicionales de David
 - Los Pjs van a definir todo, así que es prioritario que aunque no estén hechos tengáis la idea en la mente. Empezad por esa sección de los libros.
 - Si cada PJ es de una nacionalidad dais la impresión de agencia internacional y además podéis jugar con los idiomas.
 - Cada PJ tiene dos "amigos": Está relacionado con otro PJ mediante un hobby, una historia, etc. Ejemplo:

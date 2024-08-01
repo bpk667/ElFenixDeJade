@@ -1,16 +1,22 @@
-# Quien Eres
+# The Sleuth / El Detective
+
+## Quien Eres
+
 El Sleuth es el detective. El investigador incansable que no se rinde hasta que tiene todas las pistas.
 
-# Pillalo si
+## Pillalo si
 
 ...Quieres descubrir la verdad.
 ...Necesitas enterarte de todo lo que pasa.
 ...Te gustan las series de detectives.
 
-# Puedes ser cómo...
+## Puedes ser cómo...
+
 ¡Tienes muchos ejemplos donde inspirarte! El Sleuth solo es el investigador, así que piensa en detectives, periodistas, escritores de suspense o abuelitas demasiado inquisitivas: cualquiera de ellos es un Sleuth. Toma el ejemplo que más te guste y adaptalo a tus gustos.
 
-## Fox Mulder (Expediente X)
+<div style="page-break-after: always;"></div>
+
+### Fox Mulder (Expediente X)
 
 ![mulder](./imgs/mulder.jpg)
 
@@ -22,7 +28,7 @@ Catchphrase: "La verdad está ahí fuera"
 
 <div style="page-break-after: always;"></div>
 
-## Veronica Mars (Veronica Mars)
+### Veronica Mars (Veronica Mars)
 
 ![Veronica](./imgs/veronica.jpg)
 

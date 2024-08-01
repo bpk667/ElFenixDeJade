@@ -1,16 +1,21 @@
-# Quien Eres
+# The Spy / El Espia
+
+## Quien Eres
 Eres el espía. Trabajando para una organización o para tu país.
 
-# Pillalo si
+## Pillalo si
 
 ...Te gustan los personajes misteriosos y sofisticados.
 ...Quieres tener licencia para matar.
 ...Te gustan las películas de espías.
 
-# Puedes ser cómo...
-¡Es un juego de rol! Puedes hacer que tu personajte tenga la personalidad que quieras. Aprovecha esto a tu favor y copia los rasgos de personalidad de los espías de los comics, pelis o series que más te gusten!. Aquí abajo te dejo algunos ejemplos:
+## Puedes ser cómo...
 
-## James Bond (007)
+¡Es un juego de rol! Puedes hacer que tu personajte tenga la personalidad que quieras. Aprovecha esto a tu favor y copia los rasgos de personalidad de los espías de los comics, pelis o series que más te gusten!. Aquí abajo te dejo algunos ejemplos.
+
+<div style="page-break-after: always;"></div>
+
+### James Bond (007)
 
 ![James Bond](./imgs/BondConnery.jpg)
 
@@ -22,7 +27,7 @@ Catchphrase: "Imposible es lo que hago de 9 a 6.
 
 <div style="page-break-after: always;"></div>
 
-## Sydney Anne Bristow (Alias)
+### Sydney Anne Bristow (Alias)
 
 ![Alias](./imgs/alias.jpg)
 
@@ -34,7 +39,7 @@ Catchphrase: "No deberías confiar en mí."
 
 <div style="page-break-after: always;"></div>
 
-## Agente P (Phineas y Ferb)
+### Agente P (Phineas y Ferb)
 
 ![Agent P](./imgs/AgentP.png)
 

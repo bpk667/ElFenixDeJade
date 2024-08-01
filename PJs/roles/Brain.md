@@ -1,17 +1,19 @@
-# Quien Eres
+# The Brain / El cerebro
+
+## Quien Eres
 Eres la persona que piensa, que mantiene la calma y el foco en el medio de todo. Cuando tu actúas, sabes exactamente lo que va a pasar y las posibles consecuencias. Eres bueno en uno o más campos y lo haces valer en la vida diaria.
 
-# Pillalo si...
+## Pillalo si...
 - ...Quieres ser la persona más lista de la habitación en TODAS las habitaciones.
 - ...Prefieres pensar primero y actuar después.
 - ...Te gustaría ser la persona que pone la mariposa en japón para provocar un huracán en la costa oeste.
 
-# Puedes ser cómo
+## Puedes ser cómo
 Hay muchos ejemplos de cerebros en las pelis y series de acción: Desde el experto hiperespecializado en un campo hasta la persona de acción que prefiere pensar y planificar antes que usar la fuerza. Haz como ellos, piensa un poco y encuentra el que más te guste. Aquí te dejamos algunos ejemplos para darte ideas tan geniales como las suyas:
 
 <div style="page-break-after: always;"></div>
 
-## La Dra. Temperance "Bones" Brennan
+### La Dra. Temperance "Bones" Brennan
 
 ![Brennan](./imgs/brennan.jpg)
 
@@ -23,7 +25,7 @@ Si quieres parecerte a la Doctora Brennan, tu catchphrase será: "He abierto cer
 
 <div style="page-break-after: always;"></div>
 
-## El Coronel John "Hannibal" Smith
+### El Coronel John "Hannibal" Smith
 
 ![Brennan](./imgs/smith.jpg)
 

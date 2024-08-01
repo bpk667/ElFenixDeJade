@@ -1,17 +1,22 @@
-# Quien Eres
+# The Commando / El Comando
+
+## Quien Eres
 
 Eres el Commando, un soldado curtido en mil batallas. La persona dura, experta en armas y que ha visto todo.
 
-# Pillalo si
+## Pillalo si
 
 ...Quieres un personaje que sea directo.
 ...Te gustan las armas grandes.
 ...Te gustan las pelis de Acción con muchos tiros.
 
-# Puedes ser cómo...
+## Puedes ser cómo...
+
 En las pelis de acción, hay mil ejemplos de luchadores duros que disparaban balas como el que tira caramelos en la cabalgata de reyes. Solo piensa un poco, escoge algunos de tus favoritos y piensa en qué te gustaba de ellos. Toma lo que más me guste y construye tu personalidad en consecuencia. Aquí te dejamos algunos ejemplos para que te sea más sencillo.
 
-## Jonh Matrix (Commando)
+<div style="page-break-after: always;"></div>
+
+### Jonh Matrix (Commando)
 
 ![Matrix](./imgs/John-Matrix-Commando-Schwarzenegger-a.jpg)
 
@@ -23,7 +28,7 @@ Lo malo de ser un soldado honrado es que no haces mucho dinero, así que tuviste
 
 <div style="page-break-after: always;"></div>
 
-## Alice Abernathy (Resident Evil)
+### Alice Abernathy (Resident Evil)
 
 ![Alice](./imgs/1200px-Resident_Evil_Afterlife.jpg)
 
