@@ -22,41 +22,6 @@ Hará un hit&run en el bosque y en próximos encuentros en la presa.
 - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 
-## TROPE: Mentor
-
-**Nota: No es necesario apuntar en la hoja de personaje**
-
-People like you always know the right thing to say to comfort, move, or encourage others. Sometimes you’re tough and you can come off as too strict, but you’re the parent-figure everyone needs, sometimes.
-
-## Atributos
-
-* **Brawn:** 4
-    * **Endure:** 3
-    * **Fight:** 2
-    * **Force:** 2
-    * **Stunt:** 2
-* **Nerves:** 2
-    * **Cool:** 3
-    * **Survival:** 2
-    * **Drive:** 1
-    * **Shoot:** 1
-* **Smooth:** 2
-    * **Flirt:** 2
-    * **Leadership:** 3
-    * **Style:** 2
-    * **Speech:** 2
-* **Focus:** 2
-    * **Heal:** 3
-    * **Know:** 2
-    * **Detect:** 1
-    * **Fix:** 1
-* **Crime:** 2
-    * **Awareness:** 2
-    * **Desxterity:** 1
-    * **Stealth:** 1
-    * **Streetwise:** 1
-
-
 ## Habilidades
 
 ### Combo

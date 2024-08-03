@@ -52,6 +52,33 @@ Los PJs pueden:
       * Inutilizar las comunicaciones sin que salte la alarma. `dificultad básica/crítica para cortar las comunicaciones` (según experiencia).
 
 
+
+##### B1, Personal de Seguridad 1 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[X]-[ ]-[ ]-[ ]-[ ]`
+
+
+##### B2, Personal de Seguridad 1 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[X]-[X]-[X]-[ ]-[ ]`
+
+##### C, Personal de oficina de IT (humano)
+
+**(Cobertura mostrador de recepcion)**
+
+- **ATTACK**: `BASIC`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[ ]-[ ]-[ ]-[ ]`
+
+
 ## Planta -2
 
 ![Plano planta -2](./imgs/rascacielos_planta_menos_2.png)
@@ -83,3 +110,41 @@ Los PJs pueden:
 
   * En la sala de mantenimiento eléctrico y ascensores:
     * `Imposible suscess en FOCUS+FIX` para hacerse con el control de la sala de mantenimiento electrico y ascensores.
+
+
+##### P -2, Personal de Seguridad 1 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[ ]-[ ]-[ ]-[ ]-[ ]`
+
+
+##### P -2, Personal de Seguridad 2 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[ ]-[ ]-[ ]-[ ]-[ ]`
+
+
+##### P -2, Personal de Seguridad 3 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[ ]-[ ]-[ ]-[ ]-[ ]`
+
+
+##### P -2, Personal de Seguridad 4 (Ghoul)
+
+**(Cobertura Arco de deteccion y escaneo de maletas)**
+
+- **ATTACK**: `CRITICAL`
+- **DEFENSE**: `BASIC`
+- **GRIT**: `[ ]-[ ]-[ ]-[ ]-[ ]`
+
+

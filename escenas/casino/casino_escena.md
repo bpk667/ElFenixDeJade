@@ -41,7 +41,7 @@ Su plan: Robar el ordenador que está en la suite de François.
 Están ahí para estudiar el terreno y neutralizar la reliquia que va a ser expuesta.  
 
 
-## Escenas.  
+## Escenas generales.
 
 Hitos:  
 1. Averiguar el número de habitación.  
@@ -68,7 +68,7 @@ Hitos:
 
 ## Escenas adicionales.  
 
-### En el casino.  
+### En el casino
 
 **Jimmy El Tiburón.**  
 Reconoce al PJ con rol de criminal/Spy. Han colaborado en un par de trabajos en el pasado.  
@@ -123,7 +123,7 @@ Si son rápidos - `dificultad crítica en Crime + random (depende de cómo lo ro
 Si fallan, un par de matones (goon) de Taras Intercorp intentarán detenerles al llegar a la planta baja.
 
 
-#### En la persecución/huida dentro del hotel.  
+#### En la persecución/huida dentro del hotel.
 
 Hay dos señoras gordas bloqueando el paso al final del pasillo.  
 No se van a quitar. Pueden intentar empujarlas (`éxito básico en brawn + force`) o pasar entre ellas (`éxito básico en brawn+stunt`).  
@@ -141,9 +141,21 @@ Si se quedan más tiempo del necesario, vienen refuerzos.
     Critical Cannon Fodder: 9 GRIT      ATK: CRITICAL       DEF: CRITICA  
 
 
-### Chase. Persecución de coches.  
+## En el aparcamiento.
+
+*PNJ. Yoan*. Chófer de François.  
+Fuma mucho y es muy chapas.  
+Todos los aparcacoches le evitan como la peste.  
+Como nadie le hace ni puto caso, está deseando que alguien le escuche para darse importancia de que su jefe está _forrao_ y que es uno de los que "realmente tienen poder, no como los gilipollas esos que salen en la tele."  
+**Nota:** Puede dar pistas sobre François o Taras Intercorp si alguien aguanta la chapa.
+
+
+## Chase. Persecución de coches.
 
 Need (12): &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square; &square;  
+
+
+### Rules
 
 At the Beginning the chase:  
   - The Players take a numeric six-sided die and place it in the middle of the table to represent their starting Speed.
@@ -152,22 +164,26 @@ At the end of each turn:
   - The Heroes fill in a number of Need boxes equal to their current Speed.
 
 
-PJs:                2 coches speed 1.  
-                    Pueden robar motos en el aparcamiento de speed 2 (las llaves están en una tabla del aparcacoches).  
-Matones de Taras:   3 coches de speed 1.  
-Loto Blanco:        1 coches speed 1.  
+### Vehículos
+
+| Grupo            | Vehículos                                                                              | Speed   |
+| --               | --                                                                                     | --      |
+| PJs              | 1 ó 2 coches                                                                           | speed 1 |
+| PJs              | Pueden robar motos en el aparcamiento (las llaves están en una tabla del aparcacoches) | speed 2 |
+| Matones de Taras | 2 ó 3 coches                                                                           | speed 1 |
+| Loto Blanco      | 1 coche                                                                                | speed 1 |
 
 Cada grupo comparte una sola need y speed.  
 
-#### Acciones:  
+### Acciones:  
 
-Tirada estandar: `Critical Reaction en Nerves + Drive`. Si fallan, el coche pierde 1 Armor]  
+Tirada estandar: `Critical Reaction en Nerves + Drive`. Si fallan, el coche pierde 1 Armor  
 Por cada fallo: -1 speed.  
 
 The minimum Speed is 0. Each time your Speed should go below 0, the Director can erase an already filled Need box.  
 
 
-Maniobra peligrosa /giro inesperado:    ` Nerves+Drive`.  
+Maniobra peligrosa o giro inesperado:    ` Nerves+Drive`.  
 Disparar a otro coche:                  ` Nerves+Shoot`.  
 
 `Éxito crítico`:    +1 speed.  
@@ -181,7 +197,7 @@ Cuando Speed llega a 6 -> Dificultan en controlar el coche. -1 a todas las tirad
 
 Si los PJs sacan un `éxito extremo en Nerves+Shoot`, pueden empotrar a otro coche contra una estatua ecuestre.  
 
-#### Reacciones:  
+### Reacciones:  
 
 Los matones intentan empotrar a los PJs contra la pared u otros coches.  
 - Conductor: `tirada Dangerous con dificultad crítica en Nerves+Drive`.  
@@ -203,7 +219,7 @@ El monje se sube al coche de los PJs:
 - Pasajeros: `tirada Dangerous con dificultad crítica en Brawn+Force`.  
 
 
-Entre tiradas:  
+Posibles eventos en turnos:
 - La verja del hotel se está cerrando.  
 - Semáforo en rojo.  
 - Un vampiro salta hasta el coche de los PJs/Loto Blanco.  

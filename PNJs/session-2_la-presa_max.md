@@ -13,49 +13,22 @@
 
 ## Descripcion del personaje
 
-Dos Ghouls gemelos que están siempre discutiendo. (Ver Pedro)
+Dos Ghouls gemelos que están siempre discutiendo. (Ver Max)
 
 - **ATTACK**: CRITICAL
 - **DEFENSE**: CRITICAL
 - **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 
-## TROPE: Hunk
-
-**Nota: No es necesario apuntar en la hoja de personaje**
-
-You’re pretty big, tall, muscular, and athletic. Perhaps you’re tough and intimidating, or maybe a gentle giant who always knows how to put people at ease. Either way, you’ve clearly been hitting the gym.
-
-## Atributos
-
-* **Brawn:** 4
-    * **Endure:** 3
-    * **Fight:** 3
-    * **Force:** 3
-    * **Stunt:** 3
-* **Nerves:** 2
-    * **Cool:** 2
-    * **Survival:** 2
-    * **Drive:** 1
-    * **Shoot:** 1
-* **Smooth:** 2
-    * **Flirt:** 3
-    * **Leadership:** 3
-    * **Style:** 3
-    * **Speech:** 1
-* **Focus:** 2
-    * **Heal:** 2
-    * **Detect:** 1
-    * **Fix:** 1
-    * **Know:** 1
-* **Crime:** 2
-    * **Awareness:** 1
-    * **Desxterity:** 1
-    * **Stealth:** 1
-    * **Streetwise:** 1
-
-
 ## Habilidades
+
+### BEAST (MIDNIGHT WARS, ENEMY FEATS, 2 FP)
+
+The Enemy are werewolves in their beast form, or other similar wild creatures.
+
+Attacking the Enemy while in Melee or Close Range requires an Action Roll (💀).
+
+Heroes suffer -1 when rolling to hit the Enemy with firearms or ranged weapons.
 
 ### Combo
 

@@ -38,7 +38,7 @@ En el bosque hay varios caminos para llegar:
 - Un camino que va por la parte superior de la presa. Es más indirecto y menos visible, pero no saben qué tipo de accesos habrá o no.  
 
 
-### Hit&Run de un lobo.  
+### Hit & Run de un lobo.  
 
 Un enorme lobo gris controlado mentalmente por el vampiro intentará atacar a un jugador que se quede sólo o que  esté más apartado o retrasado.  
 Un ataque y se va.  
@@ -46,15 +46,18 @@ Tiene un collar con el que le controlan los Ghouls.
 
 El objetivo del lobo es alejarles de la presa.  
 
-### Encuentro con Jan.  
+
+### Encuentro con Jan.
+
 Los PJs encuentran al chaval.  
 Quizá un PJ huele a humo o a alubias cocinadas y encuentran su tienda de acampada.  
 Pueden seguir sus huellas tranquilamente y dar con él.  
 
-Les cuenta que está preocupado por su padre. Hace dos días se fue al trabajo y no ha vuelto. No consigue contactar con él.  
+Les cuenta que está preocupado por su padre (Marc). Hace dos días se fue al trabajo y no ha vuelto. No consigue contactar con él.  
 Al acercarse a la presa vio que algo no iba bien. Los guardias de la garita que hay al lado de la presa no hablan y le dispararon al acercarse.  
 Parece que han sellado las puertas.   
 Jan ha trabajado algunos veranos en la presa y conoce las instalaciones.  
+
 
 ### Llegan a la entrada del edificio de la presa.  
 
@@ -85,7 +88,7 @@ Tubos de refrigeración:
 Hay 7 trabajadores parapetados. Están hipnotizados y tienen poco aprecio por su vida.  
 Trabajadores:  
   - Un hombre de 50 y pico años con traje y corbata. Administrador de almacenes (**con rifle de caza**).  
-      - Es el padre de **Jan**. Si está **Jan**, le reconocerá  
+      - Es Marc, el padre de **Jan**. Si está **Jan**, le reconocerá  
       - Los PJs pueden intentar retener a **Jan** con un `éxito extremo de Nerves+Awareness`  
   - Una mujer en traje de unos 40 años. Oficial de compras (**con una llave grifa grande**)  
   - 1 hombre viejo con traje raído. Bedel (**con rifle de caza**)  
@@ -96,6 +99,32 @@ Hombre lobo (está cerca):
   - Si hay tiros, ataca y se pira.
 
 Todos están en posición de vigilancia atrincherados (no es un comportamiento normal estar atrincherados sin relajarse, pero están siendo controlados mentalmente).  
+
+
+Hombre armado.
+Grit 3
+Hombre armado.
+Grit 3
+Hombre armado.
+Grit 3.
+Mujer armada
+Grit 1 + 1
+
+Mujer con llave de grifa.
+Grit 1+ 3 + 1
+Hombre con barra de acero.
+1 + 1 
+Hombre con barra de acero.
+Grit 3
+
+Segurata 1
+DEF BAS - ATT CRIT
+Grit 7
+Segurata 2
+DEF BAS - ATT CRIT
+Grit 2 + 6
+
+
 
 
 **Tercer nivel. Sala 17.**
