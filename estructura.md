@@ -240,22 +240,17 @@
     * Planta 0 (Recepcion):
         * Evitar dos guardias y un recepcionista
         * Si el primer grupo ha hecho bien su trabajo, no podran pedir refuerzos
-        * Si tardan mucho... apareceran mas guardias
+        * Si tardan... apareceran mas guardias
+
+    * Planta 1-43: Oficinas sin interes, un par de agentes del servicio de seguridad, personal administrativo
     
-    * Planta 44 (Recibidor direccion):
+    * Planta 44 (Sala de reuniones de directores):
         * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
         * **Ventaja: Reduce cantidad si mantenimiento se ha ocupado de las camaras**
+        * **Desventaja: mas enemigos si se disparo el `Evento critico de alarma`**
 
-        * **Carne de cañon** XX minions tipo 1
-        * **Carne de cañon** XX minions tipo 2
-        * **Carne de cañon** XX minions tipo 3
+    * Planta 45 (Entrada al duplex / penthouse de **Kuzma**):
+        * **Ventaja: Solo pueden subir directamente si se han hecho con el control de la sala de mantenimiento, si no tendran que subir por las escalores desde la planta 44**
+        * **Desventaja: Mas enemigos si se disparo el `Evento critico de alarma`**
 
-    * Planta 45 (Sala de reuniones de directores):
-        * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
-        * 2 lugar tenientes
-        * 3 hombres lobo (si les quitan el collar, les ayudaran)
-
-    * Planta 46 (Piso de **Kuzma**):
-        * **Ventaja: Solo pueden subir directamente si se han hecho con el control de la sala de mantenimiento**
-        * Kuzma
-        * 2 hombres lobo
+    * Planta 46 (Sala principal / Dormitorio de **Kuzma**):
