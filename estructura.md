@@ -4,7 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Briefing inicial](#briefing-inicial)
+- [Sesion 0: Briefing inicial](#sesion-0-briefing-inicial)
 - [Sesion 1](#sesion-1)
   - [Recopilacion de informacion (El Casino)](#recopilacion-de-informacion-el-casino)
   - [STATUS de **El Profesor** (La Biblioteca)](#status-de-el-profesor-la-biblioteca)
@@ -79,28 +79,24 @@
 ### STATUS de **El Profesor** (La Biblioteca)
 
 * Llegan a Florencia.
-* Ir a la universidad o a la casa del agente desaparecido.
-    * Van a la universidad:
+* 2 opciones: Ir a la universidad al despacho del profesor, o a la casa que tiene el profesor en florencia
+    * Despacho del profesor en la universidad:
         * Esta **Gladis** vigilando el despacho del lingüista (trabaja para Taras).
-        * Al acercarse los PJs, ella va a intentar distraerles:
-            * **Gladis** les dice que conoce al profesor y está buscándole.
+        * Al acercarse los PJs, ella va a intentar distraerles
             * Suena un ruído dentro de algo cayendo al suelo.
-        * Al entrar en el despacho hay un tío revisando el despacho y está todo revuelto.
-            * Si intentan sacarle información al tío, inentará huir:
+        * Al entrar en el despacho hay un tío saltando por la ventana, está todo revuelto.
+            * Pueden perseguirle, si lo alcanzan:
                 * Es un agente de Taras y participó en la tortura pero no han encontrado dónde está la información de la reliquia.
-                * Puede intentar huir y, si lo pillan, suicidarse.
-        * Cuando estudien los papeles, identificarán el nombre de varios manuscritos y que éstos están en la biblioteca.
-            * Si los PJs no lo averiguan, **Gladis** encontrará la información.
-            * Se ofrece a ayudarles. Se pegará a los PJs como una lapa.
+                * Si lo cogen, se suicida.
+        * Cuando estudien los papeles
+            * Si ya han ido a la casa del profesor, encontraran la agenda e identificarán el nombre de varios manuscritos y que éstos están en la biblioteca.
         * Si buscan en el despacho encontraran varios trabajos del profesor, libros y demas (lo que se espera encontrar en un despacho de profesor de universidad)
             * Gear: memento
     * Van a la casa (chalet adosado a las afueras de Florencia):
         * Antes de entrar ven huellas de un Mercedes de alta gama.
-        * Al empezar a registrar la casa:
-            * La caja fuerte está abierta pero no parece que falte nada.
-            * Encuentran una foto del profesor con el Papa volcada y sin romper (`dificultad básica X + X`).
-            * En el sótado se encuentran al profesor maniatado y torturado con muchos cortes. `dificultad crítica X +X` para ver que algunos cortes son de un animal.
-            * Encuentran exámenes corregidos y notas con el membrete de la universidad.
+        * En la casa:
+            * Si ya han ido al despacho del profesor en la universidad, encontraran la agenda e identificarán el nombre de varios manuscritos y que éstos están en la biblioteca.
+            * Pelea con agentes de tara cuando vayan a abandonar la casa
 * Llegan a la biblioteca:
     * Necesitan un permiso para entrar. La agencia puede conseguirlo.
     * Sala principal (segun entras):
@@ -128,7 +124,6 @@
         * Al final del todo: Tienen que estudiar los libros y sacar las siguientes conclusiones:
             * La reliquia y sus poderes
             * Como cargarse a **Kuzma**
-
 
 ## Sesion 2
 
@@ -247,15 +242,9 @@
         * Si el primer grupo ha hecho bien su trabajo, no podran pedir refuerzos
         * Si tardan mucho... apareceran mas guardias
     
-    * Planta 46 (Piso de **Kuzma**):
-        * **Ventaja: Solo pueden subir directamente si se han hecho con el control de la sala de mantenimiento**
-        * Kuzma
-        * 2 hombres lobo
-
     * Planta 44 (Recibidor direccion):
         * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
         * **Ventaja: Reduce cantidad si mantenimiento se ha ocupado de las camaras**
-        * TODO: Repasar reglas para como gestionar este tema y definir
 
         * **Carne de cañon** XX minions tipo 1
         * **Carne de cañon** XX minions tipo 2
@@ -263,6 +252,10 @@
 
     * Planta 45 (Sala de reuniones de directores):
         * **Ventaja: Si las comunicaciones internas no funcionan, les pillaran desprevenidos**
-        * 2 lugar tenientes (TODO: hacer los npjs)
+        * 2 lugar tenientes
         * 3 hombres lobo (si les quitan el collar, les ayudaran)
 
+    * Planta 46 (Piso de **Kuzma**):
+        * **Ventaja: Solo pueden subir directamente si se han hecho con el control de la sala de mantenimiento**
+        * Kuzma
+        * 2 hombres lobo
