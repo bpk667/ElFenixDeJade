@@ -4,8 +4,6 @@
 
 <div class="page"></div>
 
-## Indice
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -48,7 +46,9 @@
   - [Iryna](#iryna)
   - [Estudiantes interesados en libros similares](#estudiantes-interesados-en-libros-similares)
   - [Olaus Wormius / Guardián del Mercurius ter Maximus](#olaus-wormius--guardi%C3%A1n-del-mercurius-ter-maximus)
+  - [Habilidades Olaus Wormius](#habilidades-olaus-wormius)
   - [Espectros](#espectros)
+  - [Habilidades Espectros](#habilidades-espectros)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -296,7 +296,6 @@ Por el resultado de la tirada obtendran la siguiente info:
 * `CRITICAL`
     * Descubre lo anterior
     * La masa sanguinolenta tiene indicios de que lleva muerto mas de una semana
-    * 
 * `EXTREME / IMPOSIBLE`
     * Descubre lo anterior
     * Entre la masa sanguinolenta nausabunda hay un pequeño brillo que delata algo metalico.
@@ -547,10 +546,10 @@ El rito para liberar a un espectro guardián consiste en:
 * Cuando lo descubran, intentara huir
 * Si lo pillan, se suicidará.
 
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
+* **ATTACK**: 2 BASIC
+* **DEFENSE**: BASIC
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
+* **Gear**: Revolver
 
 <div class="page"></div>
 
@@ -564,28 +563,19 @@ El rito para liberar a un espectro guardián consiste en:
     * The Enemies are not afraid of anything, they take huge risks in order to get the win.
     * The Enemies ignore Covering Fire. Heroes who lay down Covering Fire use up both their turn and mag, but gain no advantage.
 
-**Agente 1 casa:**
+* **ATTACK**: 2 BASIC
+* **DEFENSE**: BASIC
 
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
+**Agente 1 casa:**
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 **Agente 2 casa:**
-
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 **Agente 3 casa:**
-
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 **Agente 4 casa:**
-
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
 
 <div class="page"></div>
@@ -627,23 +617,19 @@ Si alguien dice que le parecen mejor las pelis de El Señor de los Anillos, inte
  
 Dos esclavos hipnotizados. Están ahí para supervisar que el lingüista haga su trabajo y no se la juegue. No son demasiado brillantes ni parecen estudiantes precisamente.  
 
+* **ATTACK**: CRITICAL
+* **DEFENSE**: BASIC
+
+
 **CHIP (rubio)**
 
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
-
-* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
-* **Cargadores**: `[ ]-[ ]-[ ]`
+* **Gear**: Revolver
 
 **CHOP (moreno)**
 
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **ATTACK**: CRITICAL
-* **DEFENSE**: CRITICAL
-
-* **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
-* **Cargadores**: `[ ]-[ ]-[ ]`
+* **Gear**: Revolver
 
 <div class="page"></div>
 
@@ -652,6 +638,7 @@ Dos esclavos hipnotizados. Están ahí para supervisar que el lingüista haga su
 Condenado a la eternidad como se narra en El Guardián de la Eternidad.  
 
 Para liberarle y poder interrogarle habría que:  
+
 1. Dibujar una ouija.  
 2. Colocar a los pies de la ouija el libro.  
 3. Hacer un círculo de sal o de agua bendita alrededor.  
@@ -660,57 +647,76 @@ Para liberarle y poder interrogarle habría que:
 Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-lobo como guardianes y que los controla mediante collares de plata impregnados en su propia sangre.
 
 **Durante el combate:**
-* Empieza con 6 ⚡
-* Gana 2 ⚡ Cada turno que esta oculto despues de **DEMATERIALIZE**
+
+* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+* **ATTACK**: CRITICAL
+* **DEFENSE**: 2-BASIC
+
+* Empieza con 4 ⚡
+* **Especial:** Gana 2 ⚡ Cada turno que esta oculto despues de **DEMATERIALIZE**
+* Es un espiritu, solo se puede dañar con armas especiales para dañar a estos
+* Es incorporeo, su forma de atacar consiste en lanzar cosas a los heroes
 * La unica forma de ganar ⚡ es desapareciendo, asi que su forma de actuar es:
     * Acciones hasta gastar casi la totalidad de ⚡
     * DEMATERIALIZE
     * Esperar 2 ó 3 turnos (para cargarse de ⚡)
     * Vuelta a empezar
 
-**Habilidades**
-* BOO!
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost appears suddenly or does something purely terrifying.
-    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
-* DEMATERIALIZE
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The ghost suddenly vanishes into thin air.
-    * After a Hero lands a blow, the Ghost ignores all loss of Grit.
-* KNIFE VOLLEY
-    * (GHOST, SPECIAL ACTION, Cost 2 ⚡)
-    * The Ghost flings knives and other dangerous objects through the room.
-    * All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
-* SPECTRAL POSSESSION
-    * (GHOST, SPECIAL ACTION, Cost 3 ⚡)
-    * The Ghost jumps into the body of a Hero.
-    * If the Hero fails an Extreme Reaction Roll in Nerves+Endure, they become Possessed. If they succeed, they become Smeared.
+### Habilidades Olaus Wormius
 
-* **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
-* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
+**BOO!**
+* (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+* The Ghost appears suddenly or does something purely terrifying.
+* Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+
+**DEMATERIALIZE**
+* (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+* The ghost suddenly vanishes into thin air.
+* After a Hero lands a blow, the Ghost ignores all loss of Grit.
+
+**KNIFE VOLLEY**
+* (GHOST, SPECIAL ACTION, Cost 2 ⚡)
+* The Ghost flings knives and other dangerous objects through the room.
+* All Heroes involved must make a Critical Reaction Roll in Brawn+Stunt. Heroes who fail to score at least a Basic Success become Hurt.
+
+**SPECTRAL POSSESSION**
+* (GHOST, SPECIAL ACTION, Cost 3 ⚡)
+* The Ghost jumps into the body of a Hero.
+* If the Hero fails an Extreme Reaction Roll in Nerves+Endure, they become Possessed. If they succeed, they become Smeared.
 
 <div class="page"></div>
 
 ### Espectros
 
-**Durante el combate:**
-* Empieza con 6 ⚡
-* Gana 2 ⚡ despues de hacer **SMEAR THROUGH**
+* **ATTACK**: 2-BASIC
+* **DEFENSE**: BASIC
 
-**Habilidades**
-* BOO!
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost appears suddenly or does something purely terrifying.
-    * Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
-* SMEAR THROUGH
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost passes through a Hero.
-    * The Hero is now Smeared.
-* WHEEL AROUND
-    * (GHOST, SPECIAL ACTION, Cost 1 ⚡)
-    * The Ghost whirls a Hero around mid-air.
-    * If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
+**Durante el combate:**
+* Empieza con 2 ⚡
+* **Especial:** Gana 2 ⚡ despues de hacer **SMEAR THROUGH**
+* Es un espiritu, solo se puede dañar con armas especiales para dañar a estos
+* Es incorporeo, su forma de atacar consiste en lanzar cosas a los heroes
+* La unica forma de ganar ⚡ es hacer **SMEAR THROUGH**, asi que su forma de actuar es:
+    * Acciones hasta gastar casi la totalidad de ⚡
+    * **SMEAR THROUGH** a los heroes hasta conseguir al menos 4 ⚡
+    * Vuelta a empezar
+
+### Habilidades Espectros
+
+**BOO!**
+* (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+* The Ghost appears suddenly or does something purely terrifying.
+* Heroes who fail a Critical Reaction Roll in Nerves+ Cool, become Scared and suffer -1 to their next roll.
+
+**SMEAR THROUGH**
+* (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+* The Ghost passes through a Hero.
+* The Hero is now Smeared.
+
+**WHEEL AROUND**
+* (GHOST, SPECIAL ACTION, Cost 1 ⚡)
+* The Ghost whirls a Hero around mid-air.
+* If the Hero fails a Critical Reaction Roll in Focus+Endure, they become Confused and suffer -1 to their next roll
 
 **Estado especial `SMEARED`**
 
@@ -722,12 +728,7 @@ Además de lo que dice el libro él les contará que Kuzma suele usar a hombres-
 **Espectro 1: Jane Doe**
 
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
-* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
 
 **Espectro 2: John Doe**
 
 * **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-* **ATTACK**: CRITICAL (Lanza cosas a los heroes)
-* **DEFENSE**: CRITICAL (Es un espiritu, solo se puede dañar con armas para estos)
-

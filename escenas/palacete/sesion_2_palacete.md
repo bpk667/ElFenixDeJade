@@ -24,15 +24,16 @@
   - [21:30 Cena](#2130-cena)
   - [23:30 Exposición de reliquias cedidas por el Vaticano](#2330-exposici%C3%B3n-de-reliquias-cedidas-por-el-vaticano)
   - [Conclusion](#conclusion)
-    - [François Dijon](#fran%C3%A7ois-dijon)
-    - [Smith](#smith)
-    - [Wilson](#wilson)
-    - [Habilidades de los guarda espaldas](#habilidades-de-los-guarda-espaldas)
 - [Mapas](#mapas)
   - [El palacete](#el-palacete)
 - [NPCs](#npcs)
   - [Isabella Rossi y Lorenzo Moretti](#isabella-rossi-y-lorenzo-moretti)
   - [John Tong Hon](#john-tong-hon)
+  - [François Dijon](#fran%C3%A7ois-dijon)
+  - [Habilidades de François Dijon](#habilidades-de-fran%C3%A7ois-dijon)
+  - [Smith (Guardaespaldas de François Dijon)](#smith-guardaespaldas-de-fran%C3%A7ois-dijon)
+  - [Wilson (Guardaespaldas de François Dijon)](#wilson-guardaespaldas-de-fran%C3%A7ois-dijon)
+  - [Habilidades de Smith & Wilson](#habilidades-de-smith--wilson)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -336,69 +337,6 @@ Una vez tengan el fenix, y lleguen al parking, si el equipo de la presa ha tenid
 
 Les pedira el Fenix y si no hacen caso empezara un combate
 
-
-#### François Dijon
-
-- Es un representante / abogado de Taras Intercorp.  
-- Le gusta apostar fuerte y no le gusta perder.  
-- Taras Intercorp es una tapadera para el tráfico de armas.  
-
-- **ATTACK**: CRITICAL
-- **DEFENSE**: CRITICAL
-- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-
-- **Revolver**: `[ ]-[ ]-[ ]-[ ]-[ ]-[ ]`
-- **Cargadores**: `[ ]-[ ]-[ ]`
-
-**NOSFERATU**
-* (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
-* You are a child of the night, born again with a thirst for blood.
-* Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
-* Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
-* If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
-
-**BITE**
-* (MIDNIGHT WARS, MONSTROUS FEATS, Cost ⚡)
-* You plunge your fangs in your victim to feast on their blood or their pain.
-* After landing a blow on an enemy in Melee or Close Range, you may spend 1 Adrenaline to bite them and recover 3 Grit.
-
-**DARK INSTINCT**
-* (MIDNIGHT WARS, MONSTROUS FEATS)
-* Your sharp senses allow you to hear everything and see through lies.
-* Gain a Free Re-roll to preempt dangers or ambushes, to locate lurking enemies, or to recognize lies
-* (⚡) Repeat a failed Awareness or Detect roll.
-
-#### Smith
-
-Un ghoul guarda-espaldas
-
-- **ATTACK**: CRITICAL
-- **DEFENSE**: CRITICAL
-- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-
-#### Wilson
-
-Un ghoul guarda-espaldas
-
-- **ATTACK**: CRITICAL
-- **DEFENSE**: CRITICAL
-- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
-
-#### Habilidades de Smith & Wilson
-
-**AUTOMATIC WEAPONS**
-* (ENEMY FEATS, 1 FP)
-* The Enemies are armed with tommy guns or similar automatic weapons.
-* Heroes who fail to score at least a Basic Success during their Reaction Turn become Nervous. If they are already Nervous, they lose 1 additional Grit.
-
-**NOSFERATU**
-* (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
-* You are a child of the night, born again with a thirst for blood.
-* Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
-* Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
-* If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
-
-
 ## Mapas
 
 ### El palacete
@@ -459,3 +397,65 @@ Conoce exactamente lo que dicen los libros sobre la reliquia y aunque no cree en
 > Se dijo que aquel que llevara el Fénix de Jade no solo estaría protegido de los demonios nocturnos, sino que también tendría el valor y la fuerza del Fénix para enfrentar cualquier adversidad. Con el tiempo, el colgante se convirtió en una reliquia preciada, pasada de generación en generación, siempre vigilando y protegiendo a su portador de las sombras que acechaban en la noche.
 >
 > Así, el Fénix de Jade sigue siendo un símbolo de esperanza y protección, recordándonos que incluso en los momentos más oscuros, la luz y la fuerza del espíritu siempre prevalecerán.
+
+
+### François Dijon
+
+- Es un representante / abogado de Taras Intercorp.  
+- Le gusta apostar fuerte y no le gusta perder.  
+- Taras Intercorp es una tapadera para el tráfico de armas.  
+
+- **ATTACK**: CRITICAL
+- **DEFENSE**: CRITICAL
+- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+### Habilidades de François Dijon
+
+**NOSFERATU**
+* (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
+* You are a child of the night, born again with a thirst for blood.
+* Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
+* Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
+* If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
+
+**BITE**
+* (MIDNIGHT WARS, MONSTROUS FEATS, Cost ⚡)
+* You plunge your fangs in your victim to feast on their blood or their pain.
+* After landing a blow on an enemy in Melee or Close Range, you may spend 1 Adrenaline to bite them and recover 3 Grit.
+
+**DARK INSTINCT**
+* (MIDNIGHT WARS, MONSTROUS FEATS)
+* Your sharp senses allow you to hear everything and see through lies.
+* Gain a Free Re-roll to preempt dangers or ambushes, to locate lurking enemies, or to recognize lies
+* (⚡) Repeat a failed Awareness or Detect roll.
+
+### Smith (Guardaespaldas de François Dijon)
+
+Un ghoul guarda-espaldas
+
+- **ATTACK**: CRITICAL
+- **DEFENSE**: 2-BASIC
+- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+### Wilson (Guardaespaldas de François Dijon)
+
+Un ghoul guarda-espaldas
+
+- **ATTACK**: CRITICAL
+- **DEFENSE**: 2-BASIC
+- **GRIT**: `[ ]-[ ]-[ ]-< >-[ ]-[ ]-[ ]-< >-[ ]`
+
+### Habilidades de Smith & Wilson
+
+**AUTOMATIC WEAPONS**
+* (ENEMY FEATS, 1 FP)
+* The Enemies are armed with tommy guns or similar automatic weapons.
+* Heroes who fail to score at least a Basic Success during their Reaction Turn become Nervous. If they are already Nervous, they lose 1 additional Grit.
+
+**NOSFERATU**
+* (MIDNIGHT WARS, MONSTROUS FEATS, VAMPIRES ONLY)
+* You are a child of the night, born again with a thirst for blood.
+* Gain a Free Re-roll to all Nerves rolls. When you feed on human blood, you may heal from one Condition of any kind.
+* Weakness: You suffer -1 to all rolls made against Anti-vampire guns.
+* If you are exposed to sunlight, you cannot call on your Monstrous Feats and look Tired. If you do not return to the shadows on the next turn, you become Nervous, then Hurt, then Broken. From the fifth turn onward, you must take a spin on the Death Roulette every turn.
+
