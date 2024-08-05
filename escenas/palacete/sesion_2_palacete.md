@@ -150,19 +150,6 @@ Si los héroes son descubiertos, o si deciden enfrentarse a ellos, se rendirán 
 
 Una vez conseguido esto, los héroes tendrán que dividir el grupo en 2, una parte del grupo tendrá que realizar una incursión a la presa para evitar que ocurra esto y la otra parte, se dará toda la prisa posible para dar el cambiazo con la reliquia
 
-**DIVISION (Parte completada despues de que eligieran los personajes):**
-
-* Equipo Presa:
-    * Olga
-    * David
-    * Palomo
-    * Angie
-* Equipo Fiesta:
-    * Angelica
-    * Pau
-    * Zoe
-    * Estrella
-
 #### Encuentros durante la bienvenida
 
 Hay camareros llevando bandejas con comidas y bebidas a lo largo de la sala principal y algunos corrillos con celebridades locales y amigos del obispo.
