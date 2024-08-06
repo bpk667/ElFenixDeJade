@@ -1,4 +1,6 @@
-# OUTGUNNED una aventura para Plue por @bpk667 y @moz667
+# El Fénix de Jade
+
+## Una aventura para Plue en el universo de [OUTGUNNED](https://twolittlemice.net/outgunned/)
 
 *Para plue con ❤️. ¡¡Feliz 40 cumpleaños!!*
 
