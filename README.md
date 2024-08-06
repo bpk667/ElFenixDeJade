@@ -2,28 +2,28 @@
 
 ## Una aventura para Plue en el universo de [OUTGUNNED](https://twolittlemice.net/outgunned/)
 
-*Para plue con ❤️. ¡¡Feliz 40 cumpleaños!!*
+*Para Plue con ❤️. ¡¡Feliz 40 cumpleaños!!*
 
 ## Resumen
 
-El PRIS13, una agencia de inteligencia privada, sin animo de lucro, que lucha contra todo tipo de injusticias de forma internacional, se dispone a asignar a los nuevos y formados reclutas en dos operaciones. En la sala de opraciones del Cambridge Triangle (Londres), son las 8:30 del dia 15 de Marzo, los ocho heroes estan esperando 10 minutos y entran el Señor Cabot y Frank...
+El PRIS13, una agencia de inteligencia privada, sin animo de lucro, que lucha contra todo tipo de injusticias de forma internacional, se dispone a asignar a los nuevos y formados reclutas en dos operaciones. En la sala de operaciones del Cambridge Triangle (Londres), son las 8:30 del día 15 de Marzo, los ocho héroes están esperando 10 minutos y entran el Señor Cabot y Frank...
 
-## Caracteristicas
+## Características
 
-Esta es una aventura para jugar con un grupo de hasta 8 personajes de outgunned novatos y 2 DMs.
+Esta es una aventura para jugar con un grupo de hasta 8 personajes de Outgunned novatos y 2 DMs.
 
-La premisa principal (y el motivo por el que es necesario 2 DMs) es que la gran mayoria de la aventura sucede en 2 mesas separadas (4 heroes en cada mesa y 1 DM)
+La premisa principal (y el motivo por el que es necesario 2 DMs) es que la gran mayoría de la aventura sucede en 2 mesas separadas (4 héroes en cada mesa y 1 DM)
 
-El motivo de hacer esto asi es que no es facil gestionar mesas con gran cantidad de jugadores, en los jugos de rol, es dificil gestionar estos grupos
+El motivo de hacer esto así es que no es fácil gestionar mesas con gran cantidad de jugadores, en los jugos de rol, es difícil gestionar estos grupos
 
-Plue, que cumplia 40 años en el momento de crear esta aventura, tenia ganas de que hicieramos una partida, asi que se nos ocurrio que de esta forma seria factible.
+Plue, que cumplía 40 años en el momento de crear esta aventura, tenia ganas de que hiciéramos una partida, así que se nos ocurrió que de esta forma seria factible.
 
-## Organizacion
+## Organización
 
 * DMs
     * Leerse las reglas
-    * Dar a los jugadores una charla introductoria al universo outgunned y sus reglas
-    * Repartir los distintos roles para que puedan elegir o confeccionar su personaje (los personajes generados son opcionales, cogimos personajes famosos de series y peliculas para facilitar el roleo, pero los jugadores son bienvenidos de utilizar solo la plantilla y definir su propio personaje)
+    * Dar a los jugadores una charla introductoria al universo Outgunned y sus reglas
+    * Repartir los distintos roles para que puedan elegir o confeccionar su personaje (los personajes generados son opcionales, cogimos personajes famosos de series y películas para facilitar el roleo, pero los jugadores son bienvenidos de utilizar solo la plantilla y definir su propio personaje)
         * [Agent](./PJs/roles/Agent.md)
             * [Rosa Diaz](./PJs/detalles/detective-rosa-diaz.md)
             * [Axel Folly](./PJs/detalles/detective-axel-folly.md)
@@ -70,8 +70,8 @@ Plue, que cumplia 40 años en el momento de crear esta aventura, tenia ganas de 
         * 4 personajes como Invitados
         * 4 personajes como Servicio
     * Cuando se active el evento de la presa volver a dividir los PJs en dos grupos
-        * 4 se quedaran haciendo la mision de [el palacete](./escenas/palacete/sesion_2_palacete.md#encuentros-durante-la-bienvenida)
-        * 4 se iran a hacer la mision de [la presa](./escenas/presa/presa_escena.md)
+        * 4 se quedaran haciendo la misión de [el palacete](./escenas/palacete/sesion_2_palacete.md#encuentros-durante-la-bienvenida)
+        * 4 se irán a hacer la misión de [la presa](./escenas/presa/presa_escena.md)
         * Intentar que sea un grupo diferente al original de la escena 1
 * Para la escena 3:
     * Dividir de nuevo el grupo de forma equilibrada, aunque es interesante que los personajes que vayan potentes en combate vayan como equipo de asalto
@@ -146,7 +146,7 @@ Plue, que cumplia 40 años en el momento de crear esta aventura, tenia ganas de 
                 * [Smith (Guardaespaldas de François Dijon)](#smith-guardaespaldas-de-fran%C3%A7ois-dijon)
                 * [Wilson (Guardaespaldas de François Dijon)](#wilson-guardaespaldas-de-fran%C3%A7ois-dijon)
         * [Escena 2.2 - Grupo 2 - La presa](./escenas/presa/presa_escena.md)
-            * **Nota:** *Hay que esperar a desencadenar la separacion del grupo*
+            * **Nota:** *Hay que esperar a desencadenar la separación del grupo*
             * **PNJs**
                 * [Hombre Lobo](./PNJs/session-2_la-presa_hombre-lobo.md)
                 * [Pedro](./PNJs/session-2_la-presa_pedro.md)
@@ -170,3 +170,8 @@ Plue, que cumplia 40 años en el momento de crear esta aventura, tenia ganas de 
 * [Helper: Aplicacion para generar hojas de personaje detalladas](./helpers/outgunned-cs-app/README.md)
 * [Carpeta con archivos en pdf](./export/)
 * [Glosario](./glosario.md)
+
+
+## Agradecimientos
+
+Al [Dr. Ego.](https://github.com/dregotim) por su tiempo, por sus ideas, por los libros de Outgunned y por cogernos de la mano de una forma (casi) apropiada (desgraciadamente ^_~).
